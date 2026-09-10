@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-10T21:12:04.291Z",
+  "atualizado": "2026-09-10T21:40:32.948Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -128,23 +128,23 @@
       "desconto": 50
     },
     {
-      "id": "ready-or-not",
-      "titulo": "Ready or Not",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
-      "appid": 1144200,
+      "id": "red-dead-redemption",
+      "titulo": "Red Dead Redemption",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
+      "appid": 2668510,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 131.99,
-          "por": 65.99,
-          "url": "https://store.steampowered.com/app/1144200/?cc=br"
+          "de": 249.5,
+          "por": 124.75,
+          "url": "https://store.steampowered.com/app/2668510/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 131.99,
-        "por": 65.99,
-        "url": "https://store.steampowered.com/app/1144200/?cc=br"
+        "de": 249.5,
+        "por": 124.75,
+        "url": "https://store.steampowered.com/app/2668510/?cc=br"
       },
       "desconto": 50
     },
