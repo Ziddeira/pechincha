@@ -1,0 +1,17 @@
+# NUNCA versionar: contém o client secret da Twitch
+.env
+.env.local
+
+node_modules/
+
+# o banco é dado, não código — e é grande
+*.db
+*.db-wal
+*.db-shm
+
+# backups
+*.bak
+backup/
+
+.DS_Store
+*.log

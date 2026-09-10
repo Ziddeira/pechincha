@@ -1,0 +1,644 @@
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Pechincha — promoções e jogos grátis de PC</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Archivo:ital,wdth,wght@0,62..125,400..900;1,62..125,400..900&display=swap" rel="stylesheet">
+
+<style>
+  :root{
+    --ink:#101010;
+    --paper:#ffffff;
+    --wall:#EBE7DE;
+    --rule:#D6D1C4;
+    --muted:#6E6A61;
+    --tag:#E4002B;
+    --free:#FFD400;
+    --live:#111;
+    --max:1120px;
+  }
+
+  *{box-sizing:border-box}
+  html{-webkit-text-size-adjust:100%}
+  body{
+    margin:0;
+    background:var(--wall);
+    color:var(--ink);
+    font-family:"Archivo",system-ui,sans-serif;
+    font-variation-settings:"wdth" 100,"wght" 400;
+    font-size:16px;
+    line-height:1.5;
+  }
+  .wrap{max-width:var(--max);margin:0 auto;padding:0 20px}
+
+  /* números e preços: condensados, tabulares */
+  .num{font-variation-settings:"wdth" 78,"wght" 800;font-variant-numeric:tabular-nums;letter-spacing:.01em}
+  .cond{font-variation-settings:"wdth" 76,"wght" 800}
+
+  a{color:inherit}
+  button{font:inherit;color:inherit;background:none;border:none;cursor:pointer}
+  :focus-visible{outline:3px solid var(--tag);outline-offset:2px}
+
+  /* ---------- barra de live ---------- */
+  .live{background:var(--live);color:#fff;font-size:14px}
+  .live[hidden]{display:none}
+  .live .wrap{display:flex;align-items:center;gap:12px;padding-top:9px;padding-bottom:9px;flex-wrap:wrap}
+  .dot{width:9px;height:9px;border-radius:50%;background:#ff2d2d;flex:none}
+  @media (prefers-reduced-motion:no-preference){
+    .dot{animation:pulse 1.8s ease-in-out infinite}
+    @keyframes pulse{0%,100%{opacity:1}50%{opacity:.25}}
+  }
+  .live b{font-variation-settings:"wdth" 100,"wght" 700}
+  .live-cta{margin-left:auto;border:1px solid #4a4a4a;padding:4px 12px;border-radius:2px;font-size:13px;text-decoration:none;white-space:nowrap}
+  .live-cta:hover{background:#fff;color:#111;border-color:#fff}
+  .live-buy{
+    background:var(--free);color:var(--ink);border-color:var(--free);
+    font-variation-settings:"wdth" 96,"wght" 700
+  }
+  .live-buy:hover{background:#fff;border-color:#fff}
+  .live-price{font-variation-settings:"wdth" 78,"wght" 800;font-variant-numeric:tabular-nums}
+  .live .sep{color:#6a6a6a}
+  /* offline: mesma barra, sem alarme */
+  .live.off{background:#2A2926;color:#CFCAC0;font-size:13.5px}
+  .live.off .live-cta{border-color:#514E48}
+  @media (max-width:560px){
+    .live .wrap{gap:8px}
+    .live-cta{margin-left:0;width:100%;text-align:center}
+    .live-buy{order:9}
+  }
+
+  /* ---------- topo ---------- */
+  .top{background:var(--paper);border-bottom:1px solid var(--rule)}
+  .top .wrap{display:flex;align-items:center;gap:20px;padding-top:16px;padding-bottom:16px}
+  .logo{display:flex;align-items:baseline;gap:7px;text-decoration:none}
+  .logo span:first-child{font-variation-settings:"wdth" 70,"wght" 900;font-size:29px;letter-spacing:-.01em}
+  .logo span:last-child{
+    background:var(--tag);color:#fff;font-size:11px;padding:2px 6px;border-radius:2px;
+    font-variation-settings:"wdth" 88,"wght" 700;transform:rotate(-3deg);display:inline-block
+  }
+  .search{margin-left:auto;position:relative;flex:0 1 300px}
+  .search input{
+    width:100%;font:inherit;font-size:15px;padding:9px 12px;
+    border:1px solid var(--rule);border-radius:2px;background:var(--paper)
+  }
+  .search input::placeholder{color:var(--muted)}
+
+  /* ---------- hero grátis ---------- */
+  .free-zone{background:var(--free);border-bottom:2px solid var(--ink)}
+  .free-zone .wrap{padding-top:26px;padding-bottom:30px}
+  .free-head{display:flex;align-items:flex-end;justify-content:space-between;gap:16px;flex-wrap:wrap;margin-bottom:18px}
+  .free-head h1{
+    margin:0;font-size:clamp(32px,6.2vw,58px);line-height:.92;
+    font-variation-settings:"wdth" 68,"wght" 900;letter-spacing:-.015em;text-transform:uppercase
+  }
+  .free-head p{margin:0;font-size:14.5px;max-width:38ch}
+
+  .frees{display:grid;grid-template-columns:repeat(3,1fr);gap:14px}
+  @media (max-width:820px){.frees{grid-template-columns:1fr}}
+
+  .fcard{background:var(--paper);border:2px solid var(--ink);display:flex;flex-direction:column}
+  .fcard .art{
+    position:relative;aspect-ratio:460/215;display:flex;align-items:center;justify-content:center;
+    border-bottom:2px solid var(--ink);overflow:hidden;background:#000
+  }
+  .fcard .art .sigla{font-variation-settings:"wdth" 70,"wght" 900;font-size:34px;color:#fff;opacity:.92}
+  .fcard .body{padding:13px 14px 15px;display:flex;flex-direction:column;gap:9px;flex:1}
+  .fcard h3{margin:0;font-size:19px;line-height:1.18;font-variation-settings:"wdth" 92,"wght" 800}
+  .store-line{font-size:13px;color:var(--muted)}
+  .store-line b{color:var(--ink);font-variation-settings:"wdth" 100,"wght" 700}
+  .clock{
+    font-size:15px;display:flex;align-items:center;gap:7px;
+    border-top:1px dashed var(--rule);border-bottom:1px dashed var(--rule);padding:7px 0
+  }
+  .clock .t{font-variation-settings:"wdth" 78,"wght" 800;font-variant-numeric:tabular-nums;font-size:17px}
+  .clock.forever{color:var(--muted)}
+  .strike{color:var(--muted);text-decoration:line-through;font-size:13px}
+  .get{
+    margin-top:auto;background:var(--ink);color:#fff;text-align:center;text-decoration:none;
+    padding:11px;border-radius:2px;font-size:15px;font-variation-settings:"wdth" 96,"wght" 700
+  }
+  .get:hover{background:var(--tag)}
+
+  /* ---------- filtros ---------- */
+  .filters{position:sticky;top:0;z-index:20;background:var(--paper);border-bottom:1px solid var(--rule)}
+  .filters .wrap{display:flex;align-items:center;gap:8px;padding-top:11px;padding-bottom:11px;overflow-x:auto}
+  .chip{
+    border:1px solid var(--rule);border-radius:2px;padding:5px 11px;font-size:13.5px;white-space:nowrap;
+    color:var(--muted)
+  }
+  .chip[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+  .sort{margin-left:auto;font-size:13.5px;color:var(--muted);display:flex;align-items:center;gap:7px;white-space:nowrap}
+  .sort select{font:inherit;font-size:13.5px;border:1px solid var(--rule);border-radius:2px;padding:5px 8px;background:var(--paper)}
+
+  /* ---------- teto de gasto ---------- */
+  .budget{border-top:1px solid var(--rule);background:#FAF8F4}
+  .budget .wrap{display:flex;align-items:center;gap:16px;padding-top:10px;padding-bottom:11px;flex-wrap:wrap}
+  .budget label{font-size:13.5px;color:var(--muted);white-space:nowrap}
+  .cap{
+    font-variation-settings:"wdth" 74,"wght" 800;font-variant-numeric:tabular-nums;
+    font-size:23px;min-width:106px;white-space:nowrap
+  }
+  .cap.zero{background:var(--free);padding:0 7px;border-radius:2px}
+  .slider{flex:1 1 260px;display:flex;align-items:center;gap:10px;min-width:220px}
+  .slider input[type=range]{flex:1;-webkit-appearance:none;appearance:none;background:none;height:26px;margin:0}
+  .slider input[type=range]::-webkit-slider-runnable-track{height:3px;background:var(--rule)}
+  .slider input[type=range]::-moz-range-track{height:3px;background:var(--rule)}
+  .slider input[type=range]::-webkit-slider-thumb{
+    -webkit-appearance:none;width:20px;height:20px;background:var(--ink);border:none;border-radius:50%;margin-top:-8.5px
+  }
+  .slider input[type=range]::-moz-range-thumb{width:20px;height:20px;background:var(--ink);border:none;border-radius:50%}
+  .slider small{font-size:11.5px;color:var(--muted);white-space:nowrap}
+  .jumps{display:flex;gap:6px;flex-wrap:wrap}
+  .jump{border:1px solid var(--rule);border-radius:2px;padding:4px 9px;font-size:12.5px;color:var(--muted);white-space:nowrap}
+  .jump[aria-pressed="true"]{background:var(--ink);color:#fff;border-color:var(--ink)}
+  @media (max-width:640px){
+    .budget .wrap{gap:10px}
+    .cap{font-size:21px;min-width:92px}
+  }
+
+  /* ---------- lista ---------- */
+  main{padding:26px 0 60px}
+  .count{font-size:13.5px;color:var(--muted);margin:0 0 12px}
+  .list{background:var(--paper);border:1px solid var(--rule)}
+  .row{border-bottom:1px solid var(--rule)}
+  .row:last-child{border-bottom:none}
+  .row-main{
+    width:100%;display:grid;grid-template-columns:96px 1fr auto auto;gap:14px;align-items:center;
+    padding:12px 14px;text-align:left
+  }
+  .row-main:hover{background:#FAF8F4}
+  .thumb{
+    position:relative;width:96px;aspect-ratio:231/87;border-radius:2px;overflow:hidden;
+    display:flex;align-items:center;justify-content:center;background:#000
+  }
+  .thumb .sigla{font-variation-settings:"wdth" 70,"wght" 900;font-size:17px;color:#fff;opacity:.92}
+  .title{font-size:17px;line-height:1.2;font-variation-settings:"wdth" 96,"wght" 700;margin:0 0 3px}
+  .meta{font-size:13px;color:var(--muted);display:flex;gap:8px;align-items:center;flex-wrap:wrap}
+  .lowest{background:var(--tag);color:#fff;font-size:10.5px;padding:2px 5px;border-radius:2px;font-variation-settings:"wdth" 90,"wght" 700}
+  .off{
+    background:var(--ink);color:#fff;padding:5px 8px;border-radius:2px;font-size:15px;
+    font-variation-settings:"wdth" 74,"wght" 800;font-variant-numeric:tabular-nums
+  }
+  .prices{text-align:right;min-width:104px}
+  .now{font-size:20px;display:block;line-height:1.1}
+  .was{font-size:12.5px;color:var(--muted);text-decoration:line-through}
+  .caret{color:var(--muted);font-size:12px;margin-left:2px}
+
+  .stores{display:none;padding:2px 14px 14px 84px;background:#FAF8F4;border-top:1px dashed var(--rule)}
+  .row.open .stores{display:block}
+  .stores h4{margin:12px 0 8px;font-size:12.5px;color:var(--muted);font-variation-settings:"wdth" 100,"wght" 600}
+  .srow{display:flex;align-items:center;gap:12px;padding:7px 0;border-bottom:1px dotted var(--rule);font-size:14.5px}
+  .srow:last-child{border-bottom:none}
+  .srow .sname{flex:1;font-variation-settings:"wdth" 100,"wght" 600}
+  .srow .sprice{font-variation-settings:"wdth" 80,"wght" 800;font-variant-numeric:tabular-nums;min-width:82px;text-align:right}
+  .srow .sgo{text-decoration:none;border:1px solid var(--ink);padding:4px 12px;border-radius:2px;font-size:13.5px}
+  .srow .sgo:hover{background:var(--ink);color:#fff}
+  .best{background:var(--free);padding:1px 6px;border-radius:2px;font-size:11px;font-variation-settings:"wdth" 90,"wght" 700}
+
+  /* a capa cobre o container inteiro; nada do bloco colorido vaza por baixo */
+  .art img,.thumb img{
+    position:absolute;inset:0;width:100%;height:100%;
+    object-fit:cover;object-position:50% 50%;display:block
+  }
+  /* a sigla so aparece quando nao ha capa (jogo sem app id, ou 404 no CDN) */
+  .sigla{display:none}
+  .sem-capa .sigla{display:block}
+
+  .empty{padding:44px 20px;text-align:center}
+  .empty p{margin:0 0 6px;font-size:17px;font-variation-settings:"wdth" 96,"wght" 700}
+  .empty small{color:var(--muted)}
+
+  @media (max-width:640px){
+    .row-main{grid-template-columns:76px 1fr auto;gap:11px;padding:11px}
+    .thumb{width:76px}
+    .thumb .sigla{font-size:14px}
+    .off{grid-column:2;justify-self:start;margin-top:2px}
+    .prices{grid-row:1;grid-column:3}
+    .stores{padding-left:14px}
+  }
+
+  /* ---------- rodapé / alerta ---------- */
+  .alert{background:var(--ink);color:#fff}
+  .alert .wrap{padding:40px 20px 44px;display:grid;grid-template-columns:1.1fr 1fr;gap:30px;align-items:center}
+  @media (max-width:760px){.alert .wrap{grid-template-columns:1fr}}
+  .alert h2{margin:0 0 10px;font-size:clamp(25px,4vw,36px);line-height:1.05;font-variation-settings:"wdth" 74,"wght" 900}
+  .alert p{margin:0;color:#B9B5AC;font-size:15px;max-width:46ch}
+  .btns{display:flex;gap:10px;flex-wrap:wrap}
+  .btns a{
+    text-decoration:none;background:var(--free);color:var(--ink);padding:12px 20px;border-radius:2px;
+    font-size:15px;font-variation-settings:"wdth" 96,"wght" 700
+  }
+  .btns a:last-child{background:none;color:#fff;border:1px solid #4a4a4a}
+  .btns a:last-child:hover{border-color:#fff}
+
+  footer{background:var(--wall);font-size:13px;color:var(--muted)}
+  footer .wrap{padding:22px 20px 34px}
+</style>
+
+<!-- preenchida pelo JS a partir de /api/live -->
+<div class="live" id="live" hidden></div>
+
+<header class="top">
+  <div class="wrap">
+    <a class="logo" href="#">
+      <span>Pechincha</span>
+      <span>jogos de PC</span>
+    </a>
+    <div class="search">
+      <label class="sr" for="q" hidden>Buscar jogo</label>
+      <input id="q" type="search" placeholder="Buscar um jogo" autocomplete="off">
+    </div>
+  </div>
+</header>
+
+<section class="free-zone">
+  <div class="wrap">
+    <div class="free-head">
+      <h1>Grátis agora</h1>
+      <p>Três jogos para pegar sem pagar nada. Depois do prazo, voltam a custar.</p>
+    </div>
+    <div class="frees" id="frees"></div>
+  </div>
+</section>
+
+<div class="filters">
+  <div class="wrap" id="chips"></div>
+  <div class="budget">
+    <div class="wrap">
+      <label for="teto">Quanto quero gastar</label>
+      <span class="cap" id="capLabel">até R$ 1.000</span>
+      <span class="slider">
+        <small>R$ 0</small>
+        <input type="range" id="teto" min="0" max="22" step="1" value="22"
+               aria-label="Teto de gasto" aria-valuetext="até R$ 1.000">
+        <small>R$ 1.000</small>
+      </span>
+      <span class="jumps" id="jumps"></span>
+    </div>
+  </div>
+</div>
+
+<main>
+  <div class="wrap">
+    <p class="count" id="count"></p>
+    <div class="list" id="list"></div>
+  </div>
+</main>
+
+<section class="alert">
+  <div class="wrap">
+    <div>
+      <h2>Saiba na hora que um jogo fica grátis</h2>
+      <p>O prazo dos gratuitos é curto e quase sempre acaba numa quinta de manhã. O bot avisa no seu servidor assim que a promoção entra no ar.</p>
+    </div>
+    <div class="btns">
+      <a href="#" onclick="return false">Adicionar no Discord</a>
+      <a href="#" onclick="return false">Entrar no Telegram</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    Preços em reais, direto da loja brasileira. Atualizado a cada 30 minutos.
+  </div>
+</footer>
+
+<script>
+/* ---------------- dados falsos, formato próximo do que a API real devolveria ---------------- */
+
+const AGORA = Date.now();
+const dias = d => AGORA + d*86400000;
+
+const GRATIS = [
+  { titulo:"Ghostrunner", sigla:"GR", cor:"#1E2A5E", app:1139900, loja:"Epic Games", de:79.99, ate:dias(2.6)+5400000, tipo:"resgate" },
+  { titulo:"Beneath a Steel Sky", sigla:"BS", cor:"#7A3E1D", app:6910, loja:"GOG", de:19.99, ate:null, tipo:"resgate" },
+  { titulo:"The Crew 2", sigla:"C2", cor:"#0F5C4A", app:646910, loja:"Prime Gaming", de:99.99, ate:dias(5.2), tipo:"resgate" }
+];
+
+const JOGOS = [
+  { t:"Elden Ring", s:"ER", c:"#4A3B22", app:1245620, tag:"RPG de ação", menor:99.80, ofertas:[
+    {loja:"Steam", de:249.50, por:124.75}, {loja:"Nuuvem", de:249.50, por:119.75}, {loja:"Fanatical", de:249.50, por:131.20}]},
+  { t:"Cyberpunk 2077", s:"CP", c:"#8A7A0B", app:1091500, tag:"RPG", menor:59.97, ofertas:[
+    {loja:"Steam", de:199.90, por:59.97}, {loja:"GOG", de:199.90, por:59.97}, {loja:"Nuuvem", de:199.90, por:64.90}]},
+  { t:"Baldur's Gate 3", s:"BG", c:"#5B1F2E", app:1086940, tag:"RPG", menor:149.92, ofertas:[
+    {loja:"Steam", de:199.90, por:159.92}, {loja:"GOG", de:199.90, por:159.92}]},
+  { t:"Lies of P", s:"LP", c:"#2B2B33", app:1627720, tag:"Souslike", menor:99.80, ofertas:[
+    {loja:"Steam", de:249.50, por:99.80}, {loja:"Green Man Gaming", de:249.50, por:104.60}, {loja:"Nuuvem", de:249.50, por:109.90}]},
+  { t:"Balatro", s:"BA", c:"#B3261E", app:2379780, tag:"Cartas", menor:27.99, ofertas:[
+    {loja:"Steam", de:39.99, por:29.99}, {loja:"Fanatical", de:39.99, por:31.19}]},
+  { t:"Helldivers 2", s:"HD", c:"#3C4A1E", app:553850, tag:"Tiro cooperativo", menor:119.94, ofertas:[
+    {loja:"Steam", de:199.90, por:129.93}, {loja:"Nuuvem", de:199.90, por:127.90}]},
+  { t:"Resident Evil 4", s:"R4", c:"#2E1A16", app:2050650, tag:"Terror", menor:69.65, ofertas:[
+    {loja:"Steam", de:199.00, por:69.65}, {loja:"Green Man Gaming", de:199.00, por:74.60}, {loja:"Humble Store", de:199.00, por:79.60}]},
+  { t:"Hades II", s:"H2", c:"#42225C", app:1145350, tag:"Roguelike", menor:63.92, ofertas:[
+    {loja:"Steam", de:79.90, por:63.92}, {loja:"Epic Games", de:79.90, por:63.92}]},
+  { t:"Dave the Diver", s:"DD", c:"#0E4E63", app:1868140, tag:"Aventura", menor:32.99, ofertas:[
+    {loja:"Steam", de:59.99, por:35.99}, {loja:"Nuuvem", de:59.99, por:32.99}]},
+  { t:"Palworld", s:"PW", c:"#1F5F3A", app:1623730, tag:"Sobrevivência", menor:62.99, ofertas:[
+    {loja:"Steam", de:89.99, por:62.99}, {loja:"Fanatical", de:89.99, por:67.49}]},
+  { t:"Sons of the Forest", s:"SF", c:"#25331F", app:1326470, tag:"Sobrevivência", menor:35.99, ofertas:[
+    {loja:"Steam", de:59.99, por:35.99}, {loja:"Green Man Gaming", de:59.99, por:38.39}]},
+  { t:"Hollow Knight: Silksong", s:"HS", c:"#1B2733", app:1030300, tag:"Metroidvania", menor:67.41, ofertas:[
+    {loja:"Steam", de:74.90, por:67.41}, {loja:"Humble Store", de:74.90, por:71.15}]}
+];
+
+const LOJAS = ["Steam","Epic Games","GOG","Nuuvem","Fanatical","Green Man Gaming","Humble Store"];
+
+/* ---------------- estado ---------------- */
+let filtroLoja = "todas";
+let ordem = "desconto";
+let busca = "";
+
+/* paradas não-lineares: precisão onde as decisões acontecem (abaixo de R$100),
+   passos largos onde quase não existe catálogo */
+const PARADAS = [0,5,10,15,20,25,30,40,50,60,70,80,90,100,125,150,200,250,300,400,500,750,1000];
+let teto = PARADAS[PARADAS.length-1];
+const ATALHOS = [0,25,50,100];
+
+const brl = v => v.toLocaleString("pt-BR",{style:"currency",currency:"BRL"});
+const pctOff = o => Math.round((1 - o.por/o.de) * 100);
+const melhor = j => j.ofertas.reduce((a,b) => b.por < a.por ? b : a);
+
+/* ---------------- capas ----------------
+   No protótipo a URL é montada a partir do app id. Em produção, use o campo
+   header_image que vem do appdetails junto com o preço: parte do catálogo tem
+   hash no caminho e a URL montada dá 404.
+   O bloco colorido continua atrás da imagem e reaparece se ela falhar — é o
+   que cobre jogos sem app id na Steam (exclusivos de Epic, GOG e afins).      */
+
+const CDN = "https://cdn.cloudflare.steamstatic.com/steam/apps";
+const capa = (app, tipo) => app ? `${CDN}/${app}/${tipo}.jpg` : null;
+
+/* Sem app id, o container já nasce colorido com a sigla.
+   Com app id, nasce preto e a capa cobre tudo; a sigla só entra em cena
+   se o CDN devolver 404. */
+function arte(tag, classe, o){
+  const src = capa(o.app, o.tipo);
+  if(!src){
+    return `<${tag} class="${classe} sem-capa" style="background:${o.cor}">
+      <span class="sigla">${o.sigla}</span></${tag}>`;
+  }
+  return `<${tag} class="${classe}" data-cor="${o.cor}">
+    <span class="sigla">${o.sigla}</span>
+    <img src="${src}" alt="Capa de ${o.alt}"
+         ${o.prioridade ? `fetchpriority="high"` : `loading="lazy"`}
+         decoding="async" onerror="capaFalhou(this)"></${tag}>`;
+}
+
+// 404 no CDN: cai para o bloco colorido sem deixar buraco na lista
+function capaFalhou(el){
+  const box = el.parentElement;
+  box.classList.add("sem-capa");
+  box.style.background = box.dataset.cor;
+  el.remove();
+}
+
+/* ---------------- grátis + contador ---------------- */
+function montarGratis(){
+  document.getElementById("frees").innerHTML = GRATIS.map((g,i) => `
+    <article class="fcard">
+      ${arte("div","art",{app:g.app,tipo:"header",alt:g.titulo,cor:g.cor,sigla:g.sigla,prioridade:true})}
+      <div class="body">
+        <h3>${g.titulo}</h3>
+        <div class="store-line">na <b>${g.loja}</b> · <span class="strike">${brl(g.de)}</span></div>
+        <div class="clock ${g.ate ? "" : "forever"}" ${g.ate ? `data-ate="${g.ate}"` : ""}>
+          ${g.ate ? `<span>acaba em</span><span class="t" id="clock${i}">—</span>` : `<span>seu para sempre, sem prazo</span>`}
+        </div>
+        <a class="get" href="#" onclick="return false">Pegar na ${g.loja}</a>
+      </div>
+    </article>`).join("");
+}
+
+function tique(){
+  document.querySelectorAll("[data-ate]").forEach((el,i) => {
+    let resta = +el.dataset.ate - Date.now();
+    const alvo = el.querySelector(".t");
+    if(!alvo) return;
+    if(resta <= 0){ alvo.textContent = "acabou"; return; }
+    const d = Math.floor(resta/86400000);
+    const h = Math.floor(resta%86400000/3600000);
+    const m = Math.floor(resta%3600000/60000);
+    const s = Math.floor(resta%60000/1000);
+    alvo.textContent = d > 0 ? `${d}d ${h}h ${m}min` : `${h}h ${String(m).padStart(2,"0")}min ${String(s).padStart(2,"0")}s`;
+  });
+}
+
+/* ---------------- filtros ---------------- */
+function montarChips(){
+  const todas = ["todas", ...LOJAS];
+  document.getElementById("chips").innerHTML =
+    todas.map(l => `<button class="chip" data-loja="${l}" aria-pressed="${l===filtroLoja}">${l==="todas"?"Todas as lojas":l}</button>`).join("")
+    + `<span class="sort"><label for="ord">Ordenar por</label>
+        <select id="ord">
+          <option value="desconto">maior desconto</option>
+          <option value="preco">menor preço</option>
+          <option value="nome">nome</option>
+        </select></span>`;
+
+  document.querySelectorAll(".chip").forEach(b => b.onclick = () => {
+    filtroLoja = b.dataset.loja;
+    document.querySelectorAll(".chip").forEach(x => x.setAttribute("aria-pressed", x === b));
+    montarLista();
+  });
+  const sel = document.getElementById("ord");
+  sel.value = ordem;
+  sel.onchange = e => { ordem = e.target.value; montarLista(); };
+}
+
+/* ---------------- teto de gasto ---------------- */
+function rotuloTeto(){
+  return teto === 0 ? "só o que é grátis" : "até " + brl(teto).replace(/,00$/,"");
+}
+
+function pintarTeto(){
+  const el = document.getElementById("capLabel");
+  el.textContent = rotuloTeto();
+  el.classList.toggle("zero", teto === 0);
+  const r = document.getElementById("teto");
+  r.value = PARADAS.indexOf(teto);
+  r.setAttribute("aria-valuetext", rotuloTeto());
+  document.querySelectorAll(".jump").forEach(b => b.setAttribute("aria-pressed", +b.dataset.v === teto));
+}
+
+function montarTeto(){
+  document.getElementById("jumps").innerHTML = ATALHOS.map(v =>
+    `<button class="jump" data-v="${v}">${v === 0 ? "só grátis" : "até " + brl(v).replace(/,00$/,"")}</button>`
+  ).join("");
+
+  document.getElementById("teto").addEventListener("input", e => {
+    teto = PARADAS[+e.target.value];
+    pintarTeto();
+    montarLista();
+  });
+
+  document.querySelectorAll(".jump").forEach(b => b.onclick = () => {
+    teto = +b.dataset.v;
+    pintarTeto();
+    montarLista();
+  });
+
+  pintarTeto();
+}
+
+/* ---------------- lista ---------------- */
+function montarLista(){
+  // no teto zero a lista vira a dos gratuitos: o controle nunca devolve nada
+  const fonte = teto === 0
+    ? GRATIS.map(g => ({
+        t:g.titulo, s:g.sigla, c:g.cor, tag:"grátis por tempo limitado", menor:0,
+        ofertas:[{loja:g.loja, de:g.de, por:0}]
+      }))
+    : JOGOS;
+
+  let itens = fonte.filter(j => {
+    const casaBusca = j.t.toLowerCase().includes(busca.toLowerCase());
+    const casaLoja = filtroLoja === "todas" || j.ofertas.some(o => o.loja === filtroLoja);
+    return casaBusca && casaLoja;
+  });
+
+  itens = itens.map(j => {
+    // com filtro de loja ativo, o preço em destaque é o daquela loja
+    const rel = filtroLoja === "todas" ? melhor(j) : j.ofertas.find(o => o.loja === filtroLoja);
+    return {...j, destaque: rel};
+  }).filter(j => j.destaque.por <= teto);
+
+  itens.sort((a,b) => {
+    if(ordem === "preco") return a.destaque.por - b.destaque.por;
+    if(ordem === "nome") return a.t.localeCompare(b.t,"pt-BR");
+    return pctOff(b.destaque) - pctOff(a.destaque);
+  });
+
+  const c = document.getElementById("count");
+  c.textContent = itens.length
+    ? `${itens.length} ${itens.length===1?"jogo":"jogos"} ${teto===0?"de graça":"por "+rotuloTeto()}`
+      + (filtroLoja!=="todas" ? ` na ${filtroLoja}` : "")
+    : "";
+
+  const lista = document.getElementById("list");
+
+  if(!itens.length){
+    const culpaTeto = !busca && teto > 0 && teto < 300;
+    lista.innerHTML = `<div class="empty">
+      <p>${busca ? `Nada encontrado para "${busca}".` : `Nenhum jogo ${rotuloTeto()}${filtroLoja!=="todas"?` na ${filtroLoja}`:""}.`}</p>
+      <small>${culpaTeto ? "Suba o teto ou arraste até R$ 0 para ver só os gratuitos." : "Tente outro termo ou volte para todas as lojas."}</small>
+    </div>`;
+    return;
+  }
+
+  lista.innerHTML = itens.map((j,idx) => {
+    const d = j.destaque;
+    const eMenor = d.por <= j.menor;
+    const outras = [...j.ofertas].sort((a,b) => a.por - b.por);
+    return `
+    <div class="row" data-i="${idx}">
+      <button class="row-main" aria-expanded="false">
+        ${arte("span","thumb",{app:j.app,tipo:"capsule_231x87",alt:j.t,cor:j.c,sigla:j.s})}
+        <span>
+          <span class="title">${j.t}</span>
+          <span class="meta">
+            <span>${j.tag}</span><span>·</span><span>${d.loja}</span>
+            ${eMenor ? `<span class="lowest">menor preço já visto</span>` : ``}
+          </span>
+        </span>
+        <span class="off">-${pctOff(d)}%</span>
+        <span class="prices">
+          <span class="now num">${brl(d.por)}</span>
+          <span class="was">${brl(d.de)}</span>
+          <span class="caret">▾</span>
+        </span>
+      </button>
+      <div class="stores">
+        <h4>Comprar em outra loja</h4>
+        ${outras.map(o => `
+          <div class="srow">
+            <span class="sname">${o.loja}</span>
+            ${o.por === outras[0].por ? `<span class="best">melhor preço</span>` : ``}
+            <span class="sprice">${brl(o.por)}</span>
+            <a class="sgo" href="#" onclick="return false">Ir para a loja</a>
+          </div>`).join("")}
+      </div>
+    </div>`;
+  }).join("");
+
+  lista.querySelectorAll(".row-main").forEach(btn => btn.onclick = () => {
+    const row = btn.closest(".row");
+    const aberto = row.classList.toggle("open");
+    btn.setAttribute("aria-expanded", aberto);
+    btn.querySelector(".caret").textContent = aberto ? "▴" : "▾";
+  });
+}
+
+document.getElementById("q").addEventListener("input", e => { busca = e.target.value; montarLista(); });
+
+/* ---------------- barra de live ----------------
+   Consome /api/live (ver live-twitch.js). Sem backend rodando, cai no mock.
+   Para ver os outros estados no protótipo: ?live=off  ou  ?live=semmapa      */
+
+const CANAL = "zidd";
+const demo = new URLSearchParams(location.search).get("live");
+
+const MOCKS = {
+  on:      { aoVivo:true, canal:CANAL, titulo:"zerando no modo difícil", categoria:"Hollow Knight: Silksong",
+             jogoId:"Hollow Knight: Silksong", espectadores:412 },
+  semmapa: { aoVivo:true, canal:CANAL, titulo:"conversa fiada", categoria:"Just Chatting",
+             jogoId:null, espectadores:180 },
+  off:     { aoVivo:false, canal:CANAL,
+             ultimaLive:{ categoria:"Elden Ring", jogoId:"Elden Ring", titulo:"primeira vez em Caelid" } }
+};
+
+function acharJogo(id){ return id ? JOGOS.find(j => j.t === id) : null; }
+
+function pintarLive(d){
+  const el = document.getElementById("live");
+  if(!d){ el.hidden = true; return; }
+
+  const canal = `https://twitch.tv/${d.canal}`;
+
+  if(d.aoVivo){
+    const jogo = acharJogo(d.jogoId);
+    const oferta = jogo ? melhor(jogo) : null;
+    el.className = "live";
+    el.innerHTML = `
+      <div class="wrap">
+        <span class="dot" aria-hidden="true"></span>
+        <span><b>${d.canal} está ao vivo</b>${d.categoria ? ` — jogando ${d.categoria}` : ""}</span>
+        ${oferta ? `<span class="sep">·</span>
+          <span>o jogo está <span class="live-price">${brl(oferta.por)}</span> na ${oferta.loja}</span>` : ``}
+        ${oferta ? `<a class="live-cta live-buy" href="#" onclick="return false">Comprar</a>` : ``}
+        <a class="live-cta" href="${canal}" target="_blank" rel="noopener"
+           ${oferta ? `style="margin-left:0"` : ``}>Assistir</a>
+      </div>`;
+  } else {
+    // offline não some: é neste estado que o site passa 90% do tempo
+    const u = d.ultimaLive;
+    el.className = "live off";
+    el.innerHTML = `
+      <div class="wrap">
+        <span>${u && u.categoria ? `Última live: ${u.categoria}` : `${d.canal} está offline agora`}</span>
+        <a class="live-cta" href="${canal}" target="_blank" rel="noopener">Ver o canal</a>
+      </div>`;
+  }
+  el.hidden = false;
+}
+
+async function carregarLive(){
+  try{
+    const r = await fetch("/api/live", { cache:"no-store" });
+    if(!r.ok) throw new Error(r.status);
+    pintarLive(await r.json());
+  }catch{
+    pintarLive(MOCKS[demo] || MOCKS.on);   // protótipo sem backend
+  }
+}
+
+carregarLive();
+setInterval(carregarLive, 60000);
+
+montarGratis();
+montarChips();
+montarTeto();
+montarLista();
+tique();
+setInterval(tique,1000);
+</script>
