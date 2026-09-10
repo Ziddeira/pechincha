@@ -1,0 +1,44 @@
+name: Atualizar promoções
+
+on:
+  schedule:
+    # de 30 em 30 minutos. O agendamento do Actions costuma atrasar alguns
+    # minutos em horário de pico — normal, não é erro.
+    - cron: "*/30 * * * *"
+  workflow_dispatch:        # botão para rodar na hora, sem esperar o cron
+
+# necessário para o passo de commit conseguir escrever no repositório
+permissions:
+  contents: write
+
+concurrency:
+  group: coleta
+  cancel-in-progress: false   # duas coletas ao mesmo tempo brigariam pelo commit
+
+jobs:
+  coletar:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Coletar
+        run: node estatico/gerar.js
+
+      - name: Commitar se mudou
+        run: |
+          git config user.name "bot de promoções"
+          git config user.email "actions@github.com"
+          git add public/dados
+          # sem mudança de preço não há commit: evita poluir o histórico
+          if git diff --staged --quiet; then
+            echo "nada mudou"
+          else
+            git commit -m "promoções: $(date -u +'%d/%m %H:%M UTC')"
+            git push
+          fi

@@ -310,13 +310,13 @@
 const AGORA = Date.now();
 const dias = d => AGORA + d*86400000;
 
-const GRATIS = [
+let GRATIS = [
   { titulo:"Ghostrunner", sigla:"GR", cor:"#1E2A5E", app:1139900, loja:"Epic Games", de:79.99, ate:dias(2.6)+5400000, tipo:"resgate" },
   { titulo:"Beneath a Steel Sky", sigla:"BS", cor:"#7A3E1D", app:6910, loja:"GOG", de:19.99, ate:null, tipo:"resgate" },
   { titulo:"The Crew 2", sigla:"C2", cor:"#0F5C4A", app:646910, loja:"Prime Gaming", de:99.99, ate:dias(5.2), tipo:"resgate" }
 ];
 
-const JOGOS = [
+let JOGOS = [
   { t:"Elden Ring", s:"ER", c:"#4A3B22", app:1245620, tag:"RPG de ação", menor:99.80, ofertas:[
     {loja:"Steam", de:249.50, por:124.75}, {loja:"Nuuvem", de:249.50, por:119.75}, {loja:"Fanatical", de:249.50, por:131.20}]},
   { t:"Cyberpunk 2077", s:"CP", c:"#8A7A0B", app:1091500, tag:"RPG", menor:59.97, ofertas:[
@@ -343,7 +343,7 @@ const JOGOS = [
     {loja:"Steam", de:74.90, por:67.41}, {loja:"Humble Store", de:74.90, por:71.15}]}
 ];
 
-const LOJAS = ["Steam","Epic Games","GOG","Nuuvem","Fanatical","Green Man Gaming","Humble Store"];
+let LOJAS = ["Steam","Epic Games","GOG","Nuuvem","Fanatical","Green Man Gaming","Humble Store"];
 
 /* ---------------- estado ---------------- */
 let filtroLoja = "todas";
@@ -374,7 +374,7 @@ const capa = (app, tipo) => app ? `${CDN}/${app}/${tipo}.jpg` : null;
    Com app id, nasce preto e a capa cobre tudo; a sigla só entra em cena
    se o CDN devolver 404. */
 function arte(tag, classe, o){
-  const src = capa(o.app, o.tipo);
+  const src = o.capaUrl || capa(o.app, o.tipo);
   if(!src){
     return `<${tag} class="${classe} sem-capa" style="background:${o.cor}">
       <span class="sigla">${o.sigla}</span></${tag}>`;
@@ -398,7 +398,7 @@ function capaFalhou(el){
 function montarGratis(){
   document.getElementById("frees").innerHTML = GRATIS.map((g,i) => `
     <article class="fcard">
-      ${arte("div","art",{app:g.app,tipo:"header",alt:g.titulo,cor:g.cor,sigla:g.sigla,prioridade:true})}
+      ${arte("div","art",{app:g.app,capaUrl:g.capaUrl,tipo:"header",alt:g.titulo,cor:g.cor,sigla:g.sigla,prioridade:true})}
       <div class="body">
         <h3>${g.titulo}</h3>
         <div class="store-line">na <b>${g.loja}</b> · <span class="strike">${brl(g.de)}</span></div>
@@ -533,7 +533,7 @@ function montarLista(){
     return `
     <div class="row" data-i="${idx}">
       <button class="row-main" aria-expanded="false">
-        ${arte("span","thumb",{app:j.app,tipo:"capsule_231x87",alt:j.t,cor:j.c,sigla:j.s})}
+        ${arte("span","thumb",{app:j.app,capaUrl:j.capa,tipo:"capsule_231x87",alt:j.t,cor:j.c,sigla:j.s})}
         <span>
           <span class="title">${j.t}</span>
           <span class="meta">
@@ -635,10 +635,73 @@ async function carregarLive(){
 carregarLive();
 setInterval(carregarLive, 60000);
 
-montarGratis();
+/* ---------------- dados reais ----------------
+   Lê os JSON gerados pelo GitHub Actions. Se não existirem (rodando o arquivo
+   solto, sem servidor), segue com o mock — o protótipo continua abrindo.      */
+
+async function carregarDados(){
+  try{
+    const [d,g,m] = await Promise.all([
+      fetch("dados/deals.json").then(r => r.ok ? r.json() : Promise.reject()),
+      fetch("dados/gratis.json").then(r => r.ok ? r.json() : Promise.reject()),
+      fetch("dados/minimos.json").then(r => r.ok ? r.json() : {}).catch(() => ({}))
+    ]);
+
+    JOGOS.length = 0;
+    for(const j of d.itens){
+      JOGOS.push({
+        t:j.titulo, s:sigla(j.titulo), c:corDe(j.titulo), app:j.appid,
+        capa:j.capa, tag:j.melhor.loja, menor:m[j.id] ?? j.melhor.por,
+        ofertas:j.ofertas
+      });
+    }
+
+    GRATIS.length = 0;
+    for(const x of g.itens){
+      GRATIS.push({
+        titulo:x.titulo, sigla:sigla(x.titulo), cor:corDe(x.titulo),
+        capaUrl:x.capa, loja:nomeLoja(x.loja), de:x.de,
+        ate:x.acaba ? new Date(x.acaba).getTime() : null
+      });
+    }
+
+    // lojas presentes nos dados de hoje, não uma lista fixa que envelhece
+    const lojas = [...new Set(d.itens.flatMap(j => j.ofertas.map(o => nomeLoja(o.loja))))];
+    LOJAS.length = 0; LOJAS.push(...lojas.sort());
+
+    montarChips();
+    carimbarAtualizacao(d.atualizado);
+  }catch{
+    /* sem os JSON: mantém o mock */
+  }
+
+  montarGratis();
+  montarTeto();
+  montarLista();
+  tique();
+}
+
+const NOMES = { steam:"Steam", epic:"Epic Games", gog:"GOG" };
+const nomeLoja = k => NOMES[k] || k;
+
+const sigla = t => t.replace(/[^A-Za-z0-9 ]/g,"").split(/\s+/)
+  .filter(Boolean).slice(0,2).map(p => p[0].toUpperCase()).join("") || "??";
+
+// cor estável por título: o mesmo jogo tem sempre o mesmo bloco de fallback
+function corDe(t){
+  let h = 0;
+  for(let i=0;i<t.length;i++) h = (h*31 + t.charCodeAt(i)) % 360;
+  return `hsl(${h} 38% 24%)`;
+}
+
+function carimbarAtualizacao(iso){
+  if(!iso) return;
+  const p = document.querySelector("footer .wrap");
+  if(p) p.textContent = "Preços em reais, direto da loja brasileira. Atualizado em "
+    + new Date(iso).toLocaleString("pt-BR",{day:"2-digit",month:"2-digit",hour:"2-digit",minute:"2-digit"});
+}
+
 montarChips();
-montarTeto();
-montarLista();
-tique();
+carregarDados();
 setInterval(tique,1000);
 </script>

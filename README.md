@@ -3,24 +3,23 @@
 Agregador de promoções de jogos de PC com preço em real, destaque para os
 gratuitos e integração com a live na Twitch.
 
-    public/     front (protótipo, ainda com dados falsos)
-    api/        backend: coletor, banco e rotas
+    public/           site (servido pelo GitHub Pages)
+    public/dados/     JSON gerados pelo robô — não editar à mão
+    estatico/         coletor que roda no GitHub Actions
+    api/              backend completo, para quando sair do Pages
 
-## Rodar
+## Como funciona
 
-    cd api
-    cp .env.example .env
-    npm install
-    COLETAR_AO_SUBIR=1 npm start
+O GitHub Actions roda `estatico/gerar.js` de meia em meia hora, busca as
+promoções na Steam, GOG e Epic, grava os JSON em `public/dados/` e commita.
+O Pages serve o site, que lê esses arquivos. Nenhum servidor no meio.
 
-Abre em `http://localhost:3000`. Detalhes das rotas e das decisões de
-arquitetura em [api/README.md](api/README.md).
+## Limites deste modelo
 
-## Estado
+- A barra de live atualiza junto com a coleta, não em tempo real
+- Sem busca no servidor: o filtro roda no navegador, o que funciona bem
+  até algumas centenas de jogos
+- O histórico de preço vive em `public/dados/historico.json`
 
-- [x] Front: lista, filtros, teto de gasto, contador dos gratuitos, capas
-- [x] Backend: coletor Steam/Epic/GOG, histórico de preço, rotas
-- [x] Barra de live da Twitch
-- [ ] Ligar o front às rotas (hoje usa mock)
-- [ ] Páginas por loja para SEO
-- [ ] Bot de Discord e Telegram
+Quando qualquer um desses incomodar, a pasta `api/` já tem o backend
+completo com banco — ver [api/README.md](api/README.md).
