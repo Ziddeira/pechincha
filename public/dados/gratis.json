@@ -1,0 +1,23 @@
+{
+  "atualizado": "2026-09-10T20:54:17.724Z",
+  "itens": [
+    {
+      "id": "luftrausers",
+      "titulo": "Luftrausers",
+      "loja": "epic",
+      "de": 26.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/85ddeeec9d4243b3a2d78aab87bfae7f/luftrausers-1mxb1.png",
+      "url": "https://store.epicgames.com/pt-BR/p/luftrausers-51e5e9",
+      "acaba": "2026-09-17T15:00:00.000Z"
+    },
+    {
+      "id": "astral-ascent",
+      "titulo": "Astral Ascent",
+      "loja": "epic",
+      "de": 48,
+      "capa": "https://cdn1.epicgames.com/spt-assets/974c8a587d714d8d9e0c3b0fefe61a35/astral-ascent-b0gcm.png",
+      "url": "https://store.epicgames.com/pt-BR/p/astral-ascent-b33bc2",
+      "acaba": "2026-09-17T15:00:00.000Z"
+    }
+  ]
+}
