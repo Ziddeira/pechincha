@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T01:11:50.337Z",
+  "atualizado": "2026-09-11T01:41:46.705Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -63,27 +63,6 @@
         "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "crash-bandicoot-4-it-s-about-time",
-      "titulo": "Crash Bandicoot™ 4: It’s About Time",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1378990/header.jpg?t=1755191015",
-      "appid": 1378990,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 219.9,
-          "por": 65.97,
-          "url": "https://store.steampowered.com/app/1378990/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 219.9,
-        "por": 65.97,
-        "url": "https://store.steampowered.com/app/1378990/?cc=br"
-      },
-      "desconto": 70
     },
     {
       "id": "no-man-s-sky",
@@ -208,6 +187,27 @@
         "de": 62.99,
         "por": 56.69,
         "url": "https://store.steampowered.com/app/3195440/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "drag-n-wash",
+      "titulo": "Drag'n Wash",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
+      "appid": 4739660,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 53.49,
+          "por": 48.14,
+          "url": "https://store.steampowered.com/app/4739660/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 53.49,
+        "por": 48.14,
+        "url": "https://store.steampowered.com/app/4739660/?cc=br"
       },
       "desconto": 10
     }
