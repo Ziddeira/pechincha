@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T06:17:07.572Z",
+  "atualizado": "2026-09-11T06:46:13.433Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -128,25 +128,25 @@
       "desconto": 50
     },
     {
-      "id": "red-dead-redemption",
-      "titulo": "Red Dead Redemption",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
-      "appid": 2668510,
+      "id": "diablo-ii-resurrected-edicao-infernal",
+      "titulo": "Diablo II: Resurrected – Edição Infernal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "appid": 2536520,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.5,
-          "por": 124.75,
-          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+          "de": 174.9,
+          "por": 122.43,
+          "url": "https://store.steampowered.com/app/2536520/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.5,
-        "por": 124.75,
-        "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        "de": 174.9,
+        "por": 122.43,
+        "url": "https://store.steampowered.com/app/2536520/?cc=br"
       },
-      "desconto": 50
+      "desconto": 30
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
