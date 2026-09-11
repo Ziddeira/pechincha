@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T00:44:38.566Z",
+  "atualizado": "2026-09-11T01:11:50.337Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -44,23 +44,23 @@
       "desconto": 75
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
+      "id": "warhammer-40-000-space-marine-2",
+      "titulo": "Warhammer 40,000: Space Marine 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+      "appid": 2183900,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+          "de": 199.9,
+          "por": 49.97,
+          "url": "https://store.steampowered.com/app/2183900/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        "de": 199.9,
+        "por": 49.97,
+        "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
       "desconto": 75
     },
@@ -149,6 +149,27 @@
       "desconto": 50
     },
     {
+      "id": "rv-there-yet",
+      "titulo": "RV There Yet?",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789049074",
+      "appid": 3949040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 26.49,
+          "por": 15.89,
+          "url": "https://store.steampowered.com/app/3949040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 26.49,
+        "por": 15.89,
+        "url": "https://store.steampowered.com/app/3949040/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": null,
@@ -187,27 +208,6 @@
         "de": 62.99,
         "por": 56.69,
         "url": "https://store.steampowered.com/app/3195440/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "drag-n-wash",
-      "titulo": "Drag'n Wash",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
-      "appid": 4739660,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 53.49,
-          "por": 48.14,
-          "url": "https://store.steampowered.com/app/4739660/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 53.49,
-        "por": 48.14,
-        "url": "https://store.steampowered.com/app/4739660/?cc=br"
       },
       "desconto": 10
     }
