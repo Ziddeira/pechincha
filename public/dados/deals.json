@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T20:13:36.659Z",
+  "atualizado": "2026-09-11T20:41:36.717Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -65,27 +65,6 @@
       "desconto": 75
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "no-man-s-sky",
       "titulo": "No Man's Sky",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789027039",
@@ -124,6 +103,27 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "red-dead-redemption",
+      "titulo": "Red Dead Redemption",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
+      "appid": 2668510,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.5,
+          "por": 124.75,
+          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.5,
+        "por": 124.75,
+        "url": "https://store.steampowered.com/app/2668510/?cc=br"
       },
       "desconto": 50
     },
