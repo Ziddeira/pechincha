@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T10:42:07.563Z",
+  "atualizado": "2026-09-11T11:13:17.706Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -44,27 +44,6 @@
       "desconto": 75
     },
     {
-      "id": "warhammer-40-000-space-marine-2",
-      "titulo": "Warhammer 40,000: Space Marine 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
-      "appid": 2183900,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.9,
-          "por": 49.97,
-          "url": "https://store.steampowered.com/app/2183900/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.9,
-        "por": 49.97,
-        "url": "https://store.steampowered.com/app/2183900/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "resident-evil-4",
       "titulo": "Resident Evil 4",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -82,6 +61,27 @@
         "de": 169,
         "por": 42.25,
         "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "warhammer-40-000-space-marine-2",
+      "titulo": "Warhammer 40,000: Space Marine 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
+      "appid": 2183900,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 49.97,
+          "url": "https://store.steampowered.com/app/2183900/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 49.97,
+        "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
       "desconto": 75
     },
