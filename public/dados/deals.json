@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-09-11T21:12:43.221Z",
+  "atualizado": "2026-09-11T21:38:25.264Z",
   "itens": [
+    {
+      "id": "sniper-elite-5",
+      "titulo": "Sniper Elite 5",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
+      "appid": 1029690,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 93.99,
+          "por": 9.39,
+          "url": "https://store.steampowered.com/app/1029690/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 93.99,
+        "por": 9.39,
+        "url": "https://store.steampowered.com/app/1029690/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "death-stranding-director-s-cut",
       "titulo": "DEATH STRANDING DIRECTOR'S CUT",
@@ -126,27 +147,6 @@
         "url": "https://store.steampowered.com/app/2668510/?cc=br"
       },
       "desconto": 50
-    },
-    {
-      "id": "rv-there-yet",
-      "titulo": "RV There Yet?",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
-      "appid": 3949040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.49,
-          "por": 15.89,
-          "url": "https://store.steampowered.com/app/3949040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.49,
-        "por": 15.89,
-        "url": "https://store.steampowered.com/app/3949040/?cc=br"
-      },
-      "desconto": 40
     },
     {
       "id": "resident-evil-requiem",
