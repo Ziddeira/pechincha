@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T19:11:56.237Z",
+  "atualizado": "2026-09-11T19:39:48.391Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -65,6 +65,27 @@
       "desconto": 75
     },
     {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "no-man-s-sky",
       "titulo": "No Man's Sky",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789027039",
@@ -107,46 +128,25 @@
       "desconto": 50
     },
     {
-      "id": "ready-or-not",
-      "titulo": "Ready or Not",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
-      "appid": 1144200,
+      "id": "rv-there-yet",
+      "titulo": "RV There Yet?",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
+      "appid": 3949040,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 131.99,
-          "por": 65.99,
-          "url": "https://store.steampowered.com/app/1144200/?cc=br"
+          "de": 26.49,
+          "por": 15.89,
+          "url": "https://store.steampowered.com/app/3949040/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 131.99,
-        "por": 65.99,
-        "url": "https://store.steampowered.com/app/1144200/?cc=br"
+        "de": 26.49,
+        "por": 15.89,
+        "url": "https://store.steampowered.com/app/3949040/?cc=br"
       },
-      "desconto": 50
-    },
-    {
-      "id": "diablo-ii-resurrected-edicao-infernal",
-      "titulo": "Diablo II: Resurrected – Edição Infernal",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
-      "appid": 2536520,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 122.43,
-          "url": "https://store.steampowered.com/app/2536520/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 122.43,
-        "url": "https://store.steampowered.com/app/2536520/?cc=br"
-      },
-      "desconto": 30
+      "desconto": 40
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
