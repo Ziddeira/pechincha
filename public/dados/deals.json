@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-09-11T23:11:44.094Z",
+  "atualizado": "2026-09-11T23:38:57.132Z",
   "itens": [
-    {
-      "id": "sniper-elite-5",
-      "titulo": "Sniper Elite 5",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
-      "appid": 1029690,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 93.99,
-          "por": 9.39,
-          "url": "https://store.steampowered.com/app/1029690/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 93.99,
-        "por": 9.39,
-        "url": "https://store.steampowered.com/app/1029690/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "death-stranding-director-s-cut",
       "titulo": "DEATH STRANDING DIRECTOR'S CUT",
@@ -128,25 +107,46 @@
       "desconto": 50
     },
     {
-      "id": "red-dead-redemption",
-      "titulo": "Red Dead Redemption",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
-      "appid": 2668510,
+      "id": "ready-or-not",
+      "titulo": "Ready or Not",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
+      "appid": 1144200,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.5,
-          "por": 124.75,
-          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+          "de": 131.99,
+          "por": 65.99,
+          "url": "https://store.steampowered.com/app/1144200/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.5,
-        "por": 124.75,
-        "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        "de": 131.99,
+        "por": 65.99,
+        "url": "https://store.steampowered.com/app/1144200/?cc=br"
       },
       "desconto": 50
+    },
+    {
+      "id": "rv-there-yet",
+      "titulo": "RV There Yet?",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
+      "appid": 3949040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 26.49,
+          "por": 15.89,
+          "url": "https://store.steampowered.com/app/3949040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 26.49,
+        "por": 15.89,
+        "url": "https://store.steampowered.com/app/3949040/?cc=br"
+      },
+      "desconto": 40
     },
     {
       "id": "gamble-with-your-friends",
@@ -170,27 +170,6 @@
       "desconto": 38
     },
     {
-      "id": "resident-evil-requiem",
-      "titulo": "Resident Evil Requiem",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "appid": 3764200,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299,
-          "por": 209.3,
-          "url": "https://store.steampowered.com/app/3764200/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299,
-        "por": 209.3,
-        "url": "https://store.steampowered.com/app/3764200/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": null,
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/1390270/?cc=br"
       },
       "desconto": 25
+    },
+    {
+      "id": "inzoi",
+      "titulo": "inZOI",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg?t=1777449358",
+      "appid": 2456740,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 149.9,
+          "por": 119.92,
+          "url": "https://store.steampowered.com/app/2456740/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 149.9,
+        "por": 119.92,
+        "url": "https://store.steampowered.com/app/2456740/?cc=br"
+      },
+      "desconto": 20
     }
   ]
 }
