@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-11T22:13:12.701Z",
+  "atualizado": "2026-09-11T22:39:43.736Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -149,6 +149,48 @@
       "desconto": 50
     },
     {
+      "id": "gamble-with-your-friends",
+      "titulo": "Gamble With Your Friends",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1788800889",
+      "appid": 3892270,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 26.49,
+          "por": 16.42,
+          "url": "https://store.steampowered.com/app/3892270/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 26.49,
+        "por": 16.42,
+        "url": "https://store.steampowered.com/app/3892270/?cc=br"
+      },
+      "desconto": 38
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": null,
@@ -168,48 +210,6 @@
         "url": "https://store.steampowered.com/app/1390270/?cc=br"
       },
       "desconto": 25
-    },
-    {
-      "id": "welcome-to-elderfield",
-      "titulo": "Welcome to Elderfield",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3195440/cf061a8da09f92889df2498ecf5226ceac8f2fa6/header.jpg?t=1789053771",
-      "appid": 3195440,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 62.99,
-          "por": 56.69,
-          "url": "https://store.steampowered.com/app/3195440/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 62.99,
-        "por": 56.69,
-        "url": "https://store.steampowered.com/app/3195440/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "drag-n-wash",
-      "titulo": "Drag'n Wash",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789077994",
-      "appid": 4739660,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 53.49,
-          "por": 48.14,
-          "url": "https://store.steampowered.com/app/4739660/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 53.49,
-        "por": 48.14,
-        "url": "https://store.steampowered.com/app/4739660/?cc=br"
-      },
-      "desconto": 10
     }
   ]
 }
