@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-12T06:16:52.303Z",
+  "atualizado": "2026-09-12T06:44:14.820Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -40,6 +40,27 @@
         "de": 199.9,
         "por": 49.97,
         "url": "https://store.steampowered.com/app/2183900/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
       },
       "desconto": 75
     },
@@ -107,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "rv-there-yet",
-      "titulo": "RV There Yet?",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
-      "appid": 3949040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.49,
-          "por": 15.89,
-          "url": "https://store.steampowered.com/app/3949040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.49,
-        "por": 15.89,
-        "url": "https://store.steampowered.com/app/3949040/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "gamble-with-your-friends",
       "titulo": "Gamble With Your Friends",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1788800889",
@@ -170,6 +170,27 @@
       "desconto": 35
     },
     {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": null,
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/1390270/?cc=br"
       },
       "desconto": 25
-    },
-    {
-      "id": "inzoi",
-      "titulo": "inZOI",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2456740/89acee5c3d965af802002617d6c130e5e03bd240/header.jpg?t=1777449358",
-      "appid": 2456740,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 149.9,
-          "por": 119.92,
-          "url": "https://store.steampowered.com/app/2456740/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 149.9,
-        "por": 119.92,
-        "url": "https://store.steampowered.com/app/2456740/?cc=br"
-      },
-      "desconto": 20
     }
   ]
 }
