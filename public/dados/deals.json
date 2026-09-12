@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-12T04:40:35.629Z",
+  "atualizado": "2026-09-12T05:12:22.405Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -40,27 +40,6 @@
         "de": 199.9,
         "por": 49.97,
         "url": "https://store.steampowered.com/app/2183900/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
       },
       "desconto": 75
     },
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/1390270/?cc=br"
       },
       "desconto": 25
+    },
+    {
+      "id": "drag-n-wash",
+      "titulo": "Drag'n Wash",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4739660/e837f81aebb36b458512fa562a322c218dde1f7c/header.jpg?t=1789186451",
+      "appid": 4739660,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 53.49,
+          "por": 48.14,
+          "url": "https://store.steampowered.com/app/4739660/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 53.49,
+        "por": 48.14,
+        "url": "https://store.steampowered.com/app/4739660/?cc=br"
+      },
+      "desconto": 10
     }
   ]
 }
