@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-09-12T12:43:39.306Z",
+  "atualizado": "2026-09-12T13:12:11.651Z",
   "itens": [
+    {
+      "id": "sniper-elite-5",
+      "titulo": "Sniper Elite 5",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
+      "appid": 1029690,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 93.99,
+          "por": 9.39,
+          "url": "https://store.steampowered.com/app/1029690/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 93.99,
+        "por": 9.39,
+        "url": "https://store.steampowered.com/app/1029690/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "death-stranding-director-s-cut",
       "titulo": "DEATH STRANDING DIRECTOR'S CUT",
@@ -107,25 +128,25 @@
       "desconto": 50
     },
     {
-      "id": "red-dead-redemption",
-      "titulo": "Red Dead Redemption",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
-      "appid": 2668510,
+      "id": "wanderburg",
+      "titulo": "Wanderburg",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/1af8e0906799b8c9063d0e5031571aef48b55605/header_alt_assets_2.jpg?t=1789141114",
+      "appid": 3624140,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.5,
-          "por": 124.75,
-          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+          "de": 29.99,
+          "por": 19.49,
+          "url": "https://store.steampowered.com/app/3624140/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.5,
-        "por": 124.75,
-        "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        "de": 29.99,
+        "por": 19.49,
+        "url": "https://store.steampowered.com/app/3624140/?cc=br"
       },
-      "desconto": 50
+      "desconto": 35
     },
     {
       "id": "resident-evil-requiem",
@@ -145,27 +166,6 @@
         "de": 299,
         "por": 209.3,
         "url": "https://store.steampowered.com/app/3764200/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
-      "id": "f1-25-2026-season-edition",
-      "titulo": "F1® 25: 2026 Season Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
-      "appid": 1453566,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 139.3,
-          "url": "https://store.steampowered.com/app/1453566/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 139.3,
-        "url": "https://store.steampowered.com/app/1453566/?cc=br"
       },
       "desconto": 30
     },
