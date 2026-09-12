@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-12T14:41:05.728Z",
+  "atualizado": "2026-09-12T15:12:55.782Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -128,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "gamble-with-your-friends",
-      "titulo": "Gamble With Your Friends",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1789210203",
-      "appid": 3892270,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.49,
-          "por": 16.42,
-          "url": "https://store.steampowered.com/app/3892270/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.49,
-        "por": 16.42,
-        "url": "https://store.steampowered.com/app/3892270/?cc=br"
-      },
-      "desconto": 38
-    },
-    {
       "id": "resident-evil-requiem",
       "titulo": "Resident Evil Requiem",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
@@ -166,6 +145,27 @@
         "de": 299,
         "por": 209.3,
         "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
+      "id": "f1-25-2026-season-edition",
+      "titulo": "F1® 25: 2026 Season Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
+      "appid": 1453566,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199,
+          "por": 139.3,
+          "url": "https://store.steampowered.com/app/1453566/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199,
+        "por": 139.3,
+        "url": "https://store.steampowered.com/app/1453566/?cc=br"
       },
       "desconto": 30
     },
