@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-12T13:12:11.651Z",
+  "atualizado": "2026-09-12T13:39:29.409Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -128,25 +128,25 @@
       "desconto": 50
     },
     {
-      "id": "wanderburg",
-      "titulo": "Wanderburg",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3624140/1af8e0906799b8c9063d0e5031571aef48b55605/header_alt_assets_2.jpg?t=1789141114",
-      "appid": 3624140,
+      "id": "gamble-with-your-friends",
+      "titulo": "Gamble With Your Friends",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1789210203",
+      "appid": 3892270,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 29.99,
-          "por": 19.49,
-          "url": "https://store.steampowered.com/app/3624140/?cc=br"
+          "de": 26.49,
+          "por": 16.42,
+          "url": "https://store.steampowered.com/app/3892270/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 29.99,
-        "por": 19.49,
-        "url": "https://store.steampowered.com/app/3624140/?cc=br"
+        "de": 26.49,
+        "por": 16.42,
+        "url": "https://store.steampowered.com/app/3892270/?cc=br"
       },
-      "desconto": 35
+      "desconto": 38
     },
     {
       "id": "resident-evil-requiem",
