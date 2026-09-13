@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T15:40:16.555Z",
+  "atualizado": "2026-09-13T16:13:57.582Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -128,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "rust",
-      "titulo": "Rust",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "appid": 252490,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 119.99,
-          "por": 59.99,
-          "url": "https://store.steampowered.com/app/252490/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 119.99,
-        "por": 59.99,
-        "url": "https://store.steampowered.com/app/252490/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "ready-or-not",
       "titulo": "Ready or Not",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
@@ -170,23 +149,44 @@
       "desconto": 50
     },
     {
-      "id": "diablo-ii-resurrected-edicao-infernal",
-      "titulo": "Diablo II: Resurrected – Edição Infernal",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
-      "appid": 2536520,
+      "id": "rust",
+      "titulo": "Rust",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "appid": 252490,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 174.9,
-          "por": 122.43,
-          "url": "https://store.steampowered.com/app/2536520/?cc=br"
+          "de": 119.99,
+          "por": 59.99,
+          "url": "https://store.steampowered.com/app/252490/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 174.9,
-        "por": 122.43,
-        "url": "https://store.steampowered.com/app/2536520/?cc=br"
+        "de": 119.99,
+        "por": 59.99,
+        "url": "https://store.steampowered.com/app/252490/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "f1-25-2026-season-edition",
+      "titulo": "F1® 25: 2026 Season Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
+      "appid": 1453566,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199,
+          "por": 139.3,
+          "url": "https://store.steampowered.com/app/1453566/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199,
+        "por": 139.3,
+        "url": "https://store.steampowered.com/app/1453566/?cc=br"
       },
       "desconto": 30
     },
