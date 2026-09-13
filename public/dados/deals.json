@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T22:41:11.766Z",
+  "atualizado": "2026-09-13T23:12:00.501Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -107,27 +107,6 @@
       "desconto": 50
     },
     {
-      "id": "ready-or-not",
-      "titulo": "Ready or Not",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1144200/2b44644b033a996a9efb95051bb01809215d0d23/header.jpg?t=1789019569",
-      "appid": 1144200,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 131.99,
-          "por": 65.99,
-          "url": "https://store.steampowered.com/app/1144200/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 131.99,
-        "por": 65.99,
-        "url": "https://store.steampowered.com/app/1144200/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "rv-there-yet",
       "titulo": "RV There Yet?",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
@@ -189,6 +168,27 @@
         "url": "https://store.steampowered.com/app/3241660/?cc=br"
       },
       "desconto": 35
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
