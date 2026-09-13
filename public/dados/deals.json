@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-13T12:16:26.631Z",
+  "atualizado": "2026-09-13T12:43:58.651Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -149,27 +149,6 @@
       "desconto": 50
     },
     {
-      "id": "rv-there-yet",
-      "titulo": "RV There Yet?",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3949040/df3b0e300632f3cd1caf0aa9dc6213ebe79dac43/header_alt_assets_0.jpg?t=1789134289",
-      "appid": 3949040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.49,
-          "por": 15.89,
-          "url": "https://store.steampowered.com/app/3949040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.49,
-        "por": 15.89,
-        "url": "https://store.steampowered.com/app/3949040/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "gamble-with-your-friends",
       "titulo": "Gamble With Your Friends",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1789210203",
@@ -189,6 +168,27 @@
         "url": "https://store.steampowered.com/app/3892270/?cc=br"
       },
       "desconto": 38
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
