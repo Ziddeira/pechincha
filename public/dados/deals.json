@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-14T07:14:59.514Z",
+  "atualizado": "2026-09-14T07:44:59.894Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -149,23 +149,23 @@
       "desconto": 38
     },
     {
-      "id": "resident-evil-requiem",
-      "titulo": "Resident Evil Requiem",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "appid": 3764200,
+      "id": "diablo-ii-resurrected-edicao-infernal",
+      "titulo": "Diablo II: Resurrected – Edição Infernal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "appid": 2536520,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299,
-          "por": 209.3,
-          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+          "de": 174.9,
+          "por": 122.43,
+          "url": "https://store.steampowered.com/app/2536520/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299,
-        "por": 209.3,
-        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        "de": 174.9,
+        "por": 122.43,
+        "url": "https://store.steampowered.com/app/2536520/?cc=br"
       },
       "desconto": 30
     },
