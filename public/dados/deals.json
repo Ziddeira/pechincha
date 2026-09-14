@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-14T19:13:42.784Z",
+  "atualizado": "2026-09-14T19:41:28.388Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -107,23 +107,23 @@
       "desconto": 50
     },
     {
-      "id": "rust",
-      "titulo": "Rust",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "appid": 252490,
+      "id": "dying-light-the-beast",
+      "titulo": "Dying Light: The Beast",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/12cc1d5f3bc9e43345f388abe36f0737e999f966/header.jpg?t=1777373421",
+      "appid": 3008130,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 119.99,
-          "por": 59.99,
-          "url": "https://store.steampowered.com/app/252490/?cc=br"
+          "de": 249,
+          "por": 124.5,
+          "url": "https://store.steampowered.com/app/3008130/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 119.99,
-        "por": 59.99,
-        "url": "https://store.steampowered.com/app/252490/?cc=br"
+        "de": 249,
+        "por": 124.5,
+        "url": "https://store.steampowered.com/app/3008130/?cc=br"
       },
       "desconto": 50
     },
