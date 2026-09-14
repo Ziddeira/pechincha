@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-14T16:44:19.085Z",
+  "atualizado": "2026-09-14T17:12:01.002Z",
   "itens": [
     {
       "id": "sniper-elite-5",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/1029690/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "warhammer-40-000-space-marine-2",
-      "titulo": "Warhammer 40,000: Space Marine 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1787837240",
-      "appid": 2183900,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.9,
-          "por": 49.97,
-          "url": "https://store.steampowered.com/app/2183900/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.9,
-        "por": 49.97,
-        "url": "https://store.steampowered.com/app/2183900/?cc=br"
-      },
-      "desconto": 75
     },
     {
       "id": "death-stranding-director-s-cut",
@@ -128,25 +107,25 @@
       "desconto": 50
     },
     {
-      "id": "gamble-with-your-friends",
-      "titulo": "Gamble With Your Friends",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1789210203",
-      "appid": 3892270,
+      "id": "rust",
+      "titulo": "Rust",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
+      "appid": 252490,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 26.49,
-          "por": 16.42,
-          "url": "https://store.steampowered.com/app/3892270/?cc=br"
+          "de": 119.99,
+          "por": 59.99,
+          "url": "https://store.steampowered.com/app/252490/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 26.49,
-        "por": 16.42,
-        "url": "https://store.steampowered.com/app/3892270/?cc=br"
+        "de": 119.99,
+        "por": 59.99,
+        "url": "https://store.steampowered.com/app/252490/?cc=br"
       },
-      "desconto": 38
+      "desconto": 50
     },
     {
       "id": "f1-25-2026-season-edition",
@@ -166,6 +145,27 @@
         "de": 199,
         "por": 139.3,
         "url": "https://store.steampowered.com/app/1453566/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
+      "id": "diablo-ii-resurrected-edicao-infernal",
+      "titulo": "Diablo II: Resurrected – Edição Infernal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "appid": 2536520,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 174.9,
+          "por": 122.43,
+          "url": "https://store.steampowered.com/app/2536520/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 174.9,
+        "por": 122.43,
+        "url": "https://store.steampowered.com/app/2536520/?cc=br"
       },
       "desconto": 30
     },
