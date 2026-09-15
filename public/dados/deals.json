@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-15T12:17:18.618Z",
+  "atualizado": "2026-09-15T12:46:23.451Z",
   "itens": [
     {
       "id": "death-stranding-director-s-cut",
@@ -149,6 +149,27 @@
       "desconto": 50
     },
     {
+      "id": "batomon-showdown",
+      "titulo": "Batomon Showdown",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4557380/6c25fc6647ef86f969b98b29a0d226fbddb4e614/header.jpg?t=1789470804",
+      "appid": 4557380,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 53.49,
+          "por": 34.76,
+          "url": "https://store.steampowered.com/app/4557380/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 53.49,
+        "por": 34.76,
+        "url": "https://store.steampowered.com/app/4557380/?cc=br"
+      },
+      "desconto": 35
+    },
+    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -166,27 +187,6 @@
         "de": 199.99,
         "por": 139.99,
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
-      "id": "f1-25-2026-season-edition",
-      "titulo": "F1® 25: 2026 Season Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
-      "appid": 1453566,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 139.3,
-          "url": "https://store.steampowered.com/app/1453566/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 139.3,
-        "url": "https://store.steampowered.com/app/1453566/?cc=br"
       },
       "desconto": 30
     },
