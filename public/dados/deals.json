@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-09-16T04:13:57.304Z",
+  "atualizado": "2026-09-16T04:42:42.123Z",
   "itens": [
+    {
+      "id": "death-stranding-director-s-cut",
+      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
+      "appid": 1850570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 39.75,
+          "url": "https://store.steampowered.com/app/1850570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 39.75,
+        "url": "https://store.steampowered.com/app/1850570/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
     {
       "id": "it-takes-two",
       "titulo": "It Takes Two",
@@ -40,27 +82,6 @@
         "de": 109.99,
         "por": 38.49,
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
-      },
-      "desconto": 65
-    },
-    {
-      "id": "sea-of-thieves-2026-premium-edition",
-      "titulo": "Sea of Thieves 2026 Premium Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1486118/b7b54e59aeaf33b5fc52b12adc15380bc5c1e165/header_ratio.jpg?t=1775748908",
-      "appid": 1486118,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159.99,
-          "por": 55.99,
-          "url": "https://store.steampowered.com/app/1486118/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159.99,
-        "por": 55.99,
-        "url": "https://store.steampowered.com/app/1486118/?cc=br"
       },
       "desconto": 65
     },
@@ -124,27 +145,6 @@
         "de": 249,
         "por": 124.5,
         "url": "https://store.steampowered.com/app/3008130/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "lies-of-p",
-      "titulo": "Lies of P",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
-      "appid": 1627720,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 124.95,
-          "url": "https://store.steampowered.com/app/1627720/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 124.95,
-        "url": "https://store.steampowered.com/app/1627720/?cc=br"
       },
       "desconto": 50
     },
