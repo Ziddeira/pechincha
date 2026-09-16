@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-09-16T18:15:44.423Z",
+  "atualizado": "2026-09-16T18:45:03.427Z",
   "itens": [
+    {
+      "id": "death-stranding-director-s-cut",
+      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
+      "appid": 1850570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 39.75,
+          "url": "https://store.steampowered.com/app/1850570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 39.75,
+        "url": "https://store.steampowered.com/app/1850570/?cc=br"
+      },
+      "desconto": 75
+    },
     {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
@@ -149,27 +170,6 @@
       "desconto": 30
     },
     {
-      "id": "f1-25-2026-season-edition",
-      "titulo": "F1® 25: 2026 Season Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
-      "appid": 1453566,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 139.3,
-          "url": "https://store.steampowered.com/app/1453566/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 139.3,
-        "url": "https://store.steampowered.com/app/1453566/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
@@ -193,7 +193,7 @@
     {
       "id": "dimraeth",
       "titulo": "Dimraeth",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789492776",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789584092",
       "appid": 2402680,
       "ofertas": [
         {
