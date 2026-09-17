@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-09-17T04:14:11.925Z",
+  "atualizado": "2026-09-17T04:43:02.010Z",
   "itens": [
     {
-      "id": "call-of-duty-black-ops-iii",
-      "titulo": "Call of Duty®: Black Ops III",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-      "appid": 311210,
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 329.9,
-          "por": 82.47,
-          "url": "https://store.steampowered.com/app/311210/?cc=br"
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 329.9,
-        "por": 82.47,
-        "url": "https://store.steampowered.com/app/311210/?cc=br"
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
       },
       "desconto": 75
     },
@@ -170,27 +170,6 @@
       "desconto": 10
     },
     {
-      "id": "trails-in-the-sky-2nd-chapter-digital-deluxe-edition",
-      "titulo": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/73048871c931807f2a68da3b26c5a8bac8f39198/header_ratio.jpg?t=1789606554",
-      "appid": 1737084,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 244.99,
-          "por": 220.49,
-          "url": "https://store.steampowered.com/app/1737084/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 244.99,
-        "por": 220.49,
-        "url": "https://store.steampowered.com/app/1737084/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "dimraeth",
       "titulo": "Dimraeth",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789584092",
@@ -208,6 +187,27 @@
         "de": 73.91,
         "por": 66.51,
         "url": "https://store.steampowered.com/app/2402680/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "trails-in-the-sky-2nd-chapter-digital-deluxe-edition",
+      "titulo": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/73048871c931807f2a68da3b26c5a8bac8f39198/header_ratio.jpg?t=1789606554",
+      "appid": 1737084,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 244.99,
+          "por": 220.49,
+          "url": "https://store.steampowered.com/app/1737084/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 244.99,
+        "por": 220.49,
+        "url": "https://store.steampowered.com/app/1737084/?cc=br"
       },
       "desconto": 10
     }
