@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-17T15:41:36.639Z",
+  "atualizado": "2026-09-17T16:14:45.919Z",
   "itens": [
     {
       "id": "sea-of-thieves-2026-edition",
@@ -65,27 +65,6 @@
       "desconto": 50
     },
     {
-      "id": "dying-light-the-beast",
-      "titulo": "Dying Light: The Beast",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
-      "appid": 3008130,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 124.5,
-          "url": "https://store.steampowered.com/app/3008130/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 124.5,
-        "url": "https://store.steampowered.com/app/3008130/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dune-awakening",
       "titulo": "Dune: Awakening",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
@@ -105,6 +84,27 @@
         "url": "https://store.steampowered.com/app/1172710/?cc=br"
       },
       "desconto": 50
+    },
+    {
+      "id": "the-guild-1-remake-europa-1410",
+      "titulo": "The Guild 1 Remake: Europa 1410",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2977260/0fa5ecee99a3e7d8b2c8188e85d49b932b3d80f4/header_alt_assets_0.jpg?t=1789655287",
+      "appid": 2977260,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 109.99,
+          "por": 72.59,
+          "url": "https://store.steampowered.com/app/2977260/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 109.99,
+        "por": 72.59,
+        "url": "https://store.steampowered.com/app/2977260/?cc=br"
+      },
+      "desconto": 34
     },
     {
       "id": "baldur-s-gate-3",
