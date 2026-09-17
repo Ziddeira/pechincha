@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-09-16T23:40:09.142Z",
+  "atualizado": "2026-09-17T00:17:59.106Z",
   "itens": [
+    {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
     {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
@@ -145,27 +166,6 @@
         "de": 199.99,
         "por": 139.99,
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
-      "id": "f1-25-2026-season-edition",
-      "titulo": "F1® 25: 2026 Season Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1453566/76dc8ac45f1bd6dec26e04434ca1c8814e7bb330/header_ratio.jpg?t=1780498922",
-      "appid": 1453566,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 139.3,
-          "url": "https://store.steampowered.com/app/1453566/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 139.3,
-        "url": "https://store.steampowered.com/app/1453566/?cc=br"
       },
       "desconto": 30
     },
