@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-17T21:39:24.768Z",
+  "atualizado": "2026-09-17T22:13:10.936Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -21,6 +21,27 @@
         "url": "https://store.steampowered.com/app/2369390/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "grand-theft-auto-iv-the-complete-edition",
+      "titulo": "Grand Theft Auto IV: The Complete Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "appid": 12210,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 79,
+          "por": 23.7,
+          "url": "https://store.steampowered.com/app/12210/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 79,
+        "por": 23.7,
+        "url": "https://store.steampowered.com/app/12210/?cc=br"
+      },
+      "desconto": 70
     },
     {
       "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
@@ -103,27 +124,6 @@
         "de": 249,
         "por": 124.5,
         "url": "https://store.steampowered.com/app/3008130/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dune-awakening",
-      "titulo": "Dune: Awakening",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
-      "appid": 1172710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 89.5,
-          "url": "https://store.steampowered.com/app/1172710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 89.5,
-        "url": "https://store.steampowered.com/app/1172710/?cc=br"
       },
       "desconto": 50
     },
