@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-09-17T10:14:01.927Z",
+  "atualizado": "2026-09-17T10:42:35.813Z",
   "itens": [
-    {
-      "id": "death-stranding-director-s-cut",
-      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
-      "appid": 1850570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159,
-          "por": 39.75,
-          "url": "https://store.steampowered.com/app/1850570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159,
-        "por": 39.75,
-        "url": "https://store.steampowered.com/app/1850570/?cc=br"
-      },
-      "desconto": 75
-    },
     {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
@@ -107,6 +86,27 @@
       "desconto": 50
     },
     {
+      "id": "lies-of-p",
+      "titulo": "Lies of P",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1764565054",
+      "appid": 1627720,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 124.95,
+          "url": "https://store.steampowered.com/app/1627720/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 124.95,
+        "url": "https://store.steampowered.com/app/1627720/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -170,27 +170,6 @@
       "desconto": 10
     },
     {
-      "id": "trails-in-the-sky-2nd-chapter-digital-deluxe-edition",
-      "titulo": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/73048871c931807f2a68da3b26c5a8bac8f39198/header_ratio.jpg?t=1789606554",
-      "appid": 1737084,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 244.99,
-          "por": 220.49,
-          "url": "https://store.steampowered.com/app/1737084/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 244.99,
-        "por": 220.49,
-        "url": "https://store.steampowered.com/app/1737084/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "dimraeth",
       "titulo": "Dimraeth",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
@@ -208,6 +187,27 @@
         "de": 73.91,
         "por": 66.51,
         "url": "https://store.steampowered.com/app/2402680/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "trails-in-the-sky-2nd-chapter-digital-deluxe-edition",
+      "titulo": "Trails in the Sky 2nd Chapter Digital Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1737084/73048871c931807f2a68da3b26c5a8bac8f39198/header_ratio.jpg?t=1789606554",
+      "appid": 1737084,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 244.99,
+          "por": 220.49,
+          "url": "https://store.steampowered.com/app/1737084/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 244.99,
+        "por": 220.49,
+        "url": "https://store.steampowered.com/app/1737084/?cc=br"
       },
       "desconto": 10
     }
