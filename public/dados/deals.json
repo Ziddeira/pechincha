@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-17T18:44:51.512Z",
+  "atualizado": "2026-09-17T19:11:51.603Z",
   "itens": [
     {
       "id": "sea-of-thieves-2026-edition",
@@ -65,27 +65,6 @@
       "desconto": 50
     },
     {
-      "id": "dune-awakening",
-      "titulo": "Dune: Awakening",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
-      "appid": 1172710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 89.5,
-          "url": "https://store.steampowered.com/app/1172710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 89.5,
-        "url": "https://store.steampowered.com/app/1172710/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dying-light-the-beast",
       "titulo": "Dying Light: The Beast",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
@@ -103,6 +82,27 @@
         "de": 249,
         "por": 124.5,
         "url": "https://store.steampowered.com/app/3008130/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dune-awakening",
+      "titulo": "Dune: Awakening",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
+      "appid": 1172710,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 89.5,
+          "url": "https://store.steampowered.com/app/1172710/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 89.5,
+        "url": "https://store.steampowered.com/app/1172710/?cc=br"
       },
       "desconto": 50
     },
@@ -149,27 +149,6 @@
       "desconto": 25
     },
     {
-      "id": "dimraeth",
-      "titulo": "Dimraeth",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
-      "appid": 2402680,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 73.91,
-          "por": 66.51,
-          "url": "https://store.steampowered.com/app/2402680/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 73.91,
-        "por": 66.51,
-        "url": "https://store.steampowered.com/app/2402680/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "trails-in-the-sky-2nd-chapter",
       "titulo": "Trails in the Sky 2nd Chapter",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1789409245",
@@ -187,6 +166,27 @@
         "de": 184.99,
         "por": 166.49,
         "url": "https://store.steampowered.com/app/4225980/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "dimraeth",
+      "titulo": "Dimraeth",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
+      "appid": 2402680,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 73.91,
+          "por": 66.51,
+          "url": "https://store.steampowered.com/app/2402680/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 73.91,
+        "por": 66.51,
+        "url": "https://store.steampowered.com/app/2402680/?cc=br"
       },
       "desconto": 10
     },
