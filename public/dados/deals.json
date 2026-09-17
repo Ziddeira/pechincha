@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-09-17T07:15:19.999Z",
+  "atualizado": "2026-09-17T07:42:47.317Z",
   "itens": [
-    {
-      "id": "call-of-duty-black-ops-iii",
-      "titulo": "Call of Duty®: Black Ops III",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
-      "appid": 311210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 329.9,
-          "por": 82.47,
-          "url": "https://store.steampowered.com/app/311210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 329.9,
-        "por": 82.47,
-        "url": "https://store.steampowered.com/app/311210/?cc=br"
-      },
-      "desconto": 75
-    },
     {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
@@ -42,6 +21,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
