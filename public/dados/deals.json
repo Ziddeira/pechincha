@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-17T19:41:01.249Z",
+  "atualizado": "2026-09-17T20:14:08.856Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -21,6 +21,27 @@
         "url": "https://store.steampowered.com/app/2369390/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
@@ -107,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "dune-awakening",
-      "titulo": "Dune: Awakening",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
-      "appid": 1172710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 89.5,
-          "url": "https://store.steampowered.com/app/1172710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 89.5,
-        "url": "https://store.steampowered.com/app/1172710/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -170,27 +170,6 @@
       "desconto": 25
     },
     {
-      "id": "trails-in-the-sky-2nd-chapter",
-      "titulo": "Trails in the Sky 2nd Chapter",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1789409245",
-      "appid": 4225980,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 184.99,
-          "por": 166.49,
-          "url": "https://store.steampowered.com/app/4225980/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 184.99,
-        "por": 166.49,
-        "url": "https://store.steampowered.com/app/4225980/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "dimraeth",
       "titulo": "Dimraeth",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
@@ -208,6 +187,27 @@
         "de": 73.91,
         "por": 66.51,
         "url": "https://store.steampowered.com/app/2402680/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "trails-in-the-sky-2nd-chapter",
+      "titulo": "Trails in the Sky 2nd Chapter",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1789409245",
+      "appid": 4225980,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 184.99,
+          "por": 166.49,
+          "url": "https://store.steampowered.com/app/4225980/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 184.99,
+        "por": 166.49,
+        "url": "https://store.steampowered.com/app/4225980/?cc=br"
       },
       "desconto": 10
     }
