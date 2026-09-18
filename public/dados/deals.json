@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T11:40:31.828Z",
+  "atualizado": "2026-09-18T12:16:38.641Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -128,6 +128,27 @@
       "desconto": 50
     },
     {
+      "id": "dune-awakening",
+      "titulo": "Dune: Awakening",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
+      "appid": 1172710,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 89.5,
+          "url": "https://store.steampowered.com/app/1172710/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 89.5,
+        "url": "https://store.steampowered.com/app/1172710/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -187,27 +208,6 @@
         "de": 73.91,
         "por": 66.51,
         "url": "https://store.steampowered.com/app/2402680/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "trails-in-the-sky-2nd-chapter",
-      "titulo": "Trails in the Sky 2nd Chapter",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1789409245",
-      "appid": 4225980,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 184.99,
-          "por": 166.49,
-          "url": "https://store.steampowered.com/app/4225980/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 184.99,
-        "por": 166.49,
-        "url": "https://store.steampowered.com/app/4225980/?cc=br"
       },
       "desconto": 10
     }
