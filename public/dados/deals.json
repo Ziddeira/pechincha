@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T23:12:46.893Z",
+  "atualizado": "2026-09-18T23:38:41.002Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -65,27 +65,6 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-iv-the-complete-edition",
-      "titulo": "Grand Theft Auto IV: The Complete Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "appid": 12210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 79,
-          "por": 23.7,
-          "url": "https://store.steampowered.com/app/12210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 79,
-        "por": 23.7,
-        "url": "https://store.steampowered.com/app/12210/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
       "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
@@ -126,6 +105,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
