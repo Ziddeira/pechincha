@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T12:16:38.641Z",
+  "atualizado": "2026-09-18T12:45:10.146Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,6 +107,27 @@
       "desconto": 60
     },
     {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -124,27 +145,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dune-awakening",
-      "titulo": "Dune: Awakening",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
-      "appid": 1172710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 89.5,
-          "url": "https://store.steampowered.com/app/1172710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 89.5,
-        "url": "https://store.steampowered.com/app/1172710/?cc=br"
       },
       "desconto": 50
     },
