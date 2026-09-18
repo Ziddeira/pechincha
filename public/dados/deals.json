@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T10:41:02.861Z",
+  "atualizado": "2026-09-18T11:12:37.075Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -86,6 +86,27 @@
       "desconto": 65
     },
     {
+      "id": "assassin-s-creed-shadows",
+      "titulo": "Assassin’s Creed Shadows",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1786637452",
+      "appid": 3159330,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 349.99,
+          "por": 139.99,
+          "url": "https://store.steampowered.com/app/3159330/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 349.99,
+        "por": 139.99,
+        "url": "https://store.steampowered.com/app/3159330/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -103,27 +124,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dune-awakening",
-      "titulo": "Dune: Awakening",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
-      "appid": 1172710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 89.5,
-          "url": "https://store.steampowered.com/app/1172710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 89.5,
-        "url": "https://store.steampowered.com/app/1172710/?cc=br"
       },
       "desconto": 50
     },
@@ -170,27 +170,6 @@
       "desconto": 30
     },
     {
-      "id": "diablo-iv-lord-of-hatred-edicao-standard",
-      "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
-      "appid": 1390270,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 131.17,
-          "url": "https://store.steampowered.com/app/1390270/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 131.17,
-        "url": "https://store.steampowered.com/app/1390270/?cc=br"
-      },
-      "desconto": 25
-    },
-    {
       "id": "dimraeth",
       "titulo": "Dimraeth",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
@@ -208,6 +187,27 @@
         "de": 73.91,
         "por": 66.51,
         "url": "https://store.steampowered.com/app/2402680/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "trails-in-the-sky-2nd-chapter",
+      "titulo": "Trails in the Sky 2nd Chapter",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4225980/4d0a1769f70fbdd8d1d84d0ce06c21bb5c2d0790/header.jpg?t=1789409245",
+      "appid": 4225980,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 184.99,
+          "por": 166.49,
+          "url": "https://store.steampowered.com/app/4225980/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 184.99,
+        "por": 166.49,
+        "url": "https://store.steampowered.com/app/4225980/?cc=br"
       },
       "desconto": 10
     }
