@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T00:44:52.818Z",
+  "atualizado": "2026-09-18T01:12:38.615Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,27 +107,6 @@
       "desconto": 60
     },
     {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
-      "appid": 275850,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -168,6 +147,27 @@
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "diablo-iv-lord-of-hatred-edicao-standard",
+      "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
+      "appid": 1390270,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 174.9,
+          "por": 131.17,
+          "url": "https://store.steampowered.com/app/1390270/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 174.9,
+        "por": 131.17,
+        "url": "https://store.steampowered.com/app/1390270/?cc=br"
+      },
+      "desconto": 25
     },
     {
       "id": "dimraeth",
