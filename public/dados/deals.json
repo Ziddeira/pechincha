@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-18T09:41:10.095Z",
+  "atualizado": "2026-09-18T10:13:44.935Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -128,6 +128,27 @@
       "desconto": 50
     },
     {
+      "id": "dune-awakening",
+      "titulo": "Dune: Awakening",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/ea3a6059b6036f2985e981ffc0eef06e03a786e9/header_alt_assets_8.jpg?t=1789653576",
+      "appid": 1172710,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 89.5,
+          "url": "https://store.steampowered.com/app/1172710/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 89.5,
+        "url": "https://store.steampowered.com/app/1172710/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -147,27 +168,6 @@
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "diablo-iv-lord-of-hatred-edicao-standard",
-      "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
-      "appid": 1390270,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 131.17,
-          "url": "https://store.steampowered.com/app/1390270/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 131.17,
-        "url": "https://store.steampowered.com/app/1390270/?cc=br"
-      },
-      "desconto": 25
     },
     {
       "id": "trails-in-the-sky-2nd-chapter",
