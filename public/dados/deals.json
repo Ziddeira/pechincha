@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-20T12:16:08.923Z",
+  "atualizado": "2026-09-20T12:43:39.955Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -44,6 +44,27 @@
       "desconto": 75
     },
     {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "final-fantasy-vii-rebirth",
       "titulo": "FINAL FANTASY VII REBIRTH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
@@ -63,27 +84,6 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "sea-of-thieves-2026-edition",
-      "titulo": "Sea of Thieves: 2026 Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
-      "appid": 1172620,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 109.99,
-          "por": 38.49,
-          "url": "https://store.steampowered.com/app/1172620/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 109.99,
-        "por": 38.49,
-        "url": "https://store.steampowered.com/app/1172620/?cc=br"
-      },
-      "desconto": 65
     },
     {
       "id": "no-man-s-sky",
