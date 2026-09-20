@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-20T15:12:29.559Z",
+  "atualizado": "2026-09-20T15:39:45.549Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -44,27 +44,6 @@
       "desconto": 75
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "final-fantasy-vii-rebirth",
       "titulo": "FINAL FANTASY VII REBIRTH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
@@ -84,6 +63,27 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
+    },
+    {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
