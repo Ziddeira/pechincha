@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-20T18:41:07.972Z",
+  "atualizado": "2026-09-20T19:11:10.765Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -40,6 +40,27 @@
         "de": 174.9,
         "por": 43.72,
         "url": "https://store.steampowered.com/app/1462040/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
       },
       "desconto": 75
     },
@@ -124,27 +145,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dying-light-the-beast",
-      "titulo": "Dying Light: The Beast",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
-      "appid": 3008130,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 124.5,
-          "url": "https://store.steampowered.com/app/3008130/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 124.5,
-        "url": "https://store.steampowered.com/app/3008130/?cc=br"
       },
       "desconto": 50
     },
