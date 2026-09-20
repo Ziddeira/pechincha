@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-20T08:41:04.491Z",
+  "atualizado": "2026-09-20T09:12:45.271Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -65,6 +65,27 @@
       "desconto": 70
     },
     {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
+    },
+    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -124,27 +145,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dying-light-the-beast",
-      "titulo": "Dying Light: The Beast",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
-      "appid": 3008130,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 124.5,
-          "url": "https://store.steampowered.com/app/3008130/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 124.5,
-        "url": "https://store.steampowered.com/app/3008130/?cc=br"
       },
       "desconto": 50
     },
