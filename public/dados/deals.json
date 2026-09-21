@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-21T23:12:22.922Z",
+  "atualizado": "2026-09-21T23:40:22.290Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -65,6 +65,27 @@
       "desconto": 75
     },
     {
+      "id": "death-stranding-director-s-cut",
+      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
+      "appid": 1850570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 39.75,
+          "url": "https://store.steampowered.com/app/1850570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 39.75,
+        "url": "https://store.steampowered.com/app/1850570/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "final-fantasy-vii-rebirth",
       "titulo": "FINAL FANTASY VII REBIRTH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
@@ -84,27 +105,6 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
