@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-21T16:41:54.834Z",
+  "atualizado": "2026-09-21T17:11:09.400Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "final-fantasy-vii-remake-intergrade",
       "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
@@ -61,6 +40,27 @@
         "de": 174.9,
         "por": 43.72,
         "url": "https://store.steampowered.com/app/1462040/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "death-stranding-director-s-cut",
+      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
+      "appid": 1850570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 39.75,
+          "url": "https://store.steampowered.com/app/1850570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 39.75,
+        "url": "https://store.steampowered.com/app/1850570/?cc=br"
       },
       "desconto": 75
     },
@@ -86,6 +86,27 @@
       "desconto": 70
     },
     {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
+    },
+    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -107,67 +128,25 @@
       "desconto": 65
     },
     {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/2c6e38b43a5309dfcd3cc0f0134e222b0fa2d1b1/header_alt_assets_25.jpg?t=1789479023",
-      "appid": 275850,
+      "id": "dying-light-the-beast",
+      "titulo": "Dying Light: The Beast",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
+      "appid": 3008130,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
+          "de": 249,
+          "por": 124.5,
+          "url": "https://store.steampowered.com/app/3008130/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
-      "id": "grand-theft-auto-v-enhanced",
-      "titulo": "Grand Theft Auto V Enhanced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "appid": 3240220,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 149.9,
-          "por": 74.95,
-          "url": "https://store.steampowered.com/app/3240220/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 149.9,
-        "por": 74.95,
-        "url": "https://store.steampowered.com/app/3240220/?cc=br"
+        "de": 249,
+        "por": 124.5,
+        "url": "https://store.steampowered.com/app/3008130/?cc=br"
       },
       "desconto": 50
-    },
-    {
-      "id": "baldur-s-gate-3",
-      "titulo": "Baldur's Gate 3",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "appid": 1086940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.99,
-          "por": 139.99,
-          "url": "https://store.steampowered.com/app/1086940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.99,
-        "por": 139.99,
-        "url": "https://store.steampowered.com/app/1086940/?cc=br"
-      },
-      "desconto": 30
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
@@ -193,7 +172,7 @@
     {
       "id": "dressmaker",
       "titulo": "Dressmaker",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1789990729",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790009899",
       "appid": 4019220,
       "ofertas": [
         {
@@ -208,6 +187,27 @@
         "de": 53.47,
         "por": 48.12,
         "url": "https://store.steampowered.com/app/4019220/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "dimraeth",
+      "titulo": "Dimraeth",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2402680/8fe3923c10dfda28e5a41c5a501aedc4909966a7/header.jpg?t=1789631916",
+      "appid": 2402680,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 73.91,
+          "por": 66.51,
+          "url": "https://store.steampowered.com/app/2402680/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 73.91,
+        "por": 66.51,
+        "url": "https://store.steampowered.com/app/2402680/?cc=br"
       },
       "desconto": 10
     }
