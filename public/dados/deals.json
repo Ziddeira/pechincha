@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-21T05:41:55.327Z",
+  "atualizado": "2026-09-21T06:19:17.154Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "final-fantasy-vii-remake-intergrade",
-      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "appid": 1462040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 43.72,
-          "url": "https://store.steampowered.com/app/1462040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 43.72,
-        "url": "https://store.steampowered.com/app/1462040/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "resident-evil-4",
       "titulo": "Resident Evil 4",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
@@ -61,6 +40,27 @@
         "de": 169,
         "por": 42.25,
         "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "final-fantasy-vii-remake-intergrade",
+      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "appid": 1462040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 174.9,
+          "por": 43.72,
+          "url": "https://store.steampowered.com/app/1462040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 174.9,
+        "por": 43.72,
+        "url": "https://store.steampowered.com/app/1462040/?cc=br"
       },
       "desconto": 75
     },
