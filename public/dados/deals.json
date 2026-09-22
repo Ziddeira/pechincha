@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T00:18:07.212Z",
+  "atualizado": "2026-09-22T00:45:22.417Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -44,6 +44,27 @@
       "desconto": 80
     },
     {
+      "id": "detroit-become-human",
+      "titulo": "Detroit: Become Human",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "appid": 1222140,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.99,
+          "por": 39.99,
+          "url": "https://store.steampowered.com/app/1222140/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.99,
+        "por": 39.99,
+        "url": "https://store.steampowered.com/app/1222140/?cc=br"
+      },
+      "desconto": 80
+    },
+    {
       "id": "final-fantasy-vii-remake-intergrade",
       "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
@@ -84,27 +105,6 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
