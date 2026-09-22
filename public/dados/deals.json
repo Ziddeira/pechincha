@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T16:13:49.139Z",
+  "atualizado": "2026-09-22T16:42:06.841Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,25 +107,25 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
+      "id": "grand-theft-auto-iv-the-complete-edition",
+      "titulo": "Grand Theft Auto IV: The Complete Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "appid": 12210,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
+          "de": 79,
+          "por": 23.7,
+          "url": "https://store.steampowered.com/app/12210/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
+        "de": 79,
+        "por": 23.7,
+        "url": "https://store.steampowered.com/app/12210/?cc=br"
       },
-      "desconto": 67
+      "desconto": 70
     },
     {
       "id": "sea-of-thieves-2026-edition",
