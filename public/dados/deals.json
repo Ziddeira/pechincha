@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T04:13:21.823Z",
+  "atualizado": "2026-09-22T04:42:07.225Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "detroit-become-human",
-      "titulo": "Detroit: Become Human",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
-      "appid": 1222140,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.99,
-          "por": 39.99,
-          "url": "https://store.steampowered.com/app/1222140/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.99,
-        "por": 39.99,
-        "url": "https://store.steampowered.com/app/1222140/?cc=br"
-      },
-      "desconto": 80
-    },
-    {
       "id": "remnant-ii",
       "titulo": "REMNANT II®",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
@@ -61,6 +40,27 @@
         "de": 199.99,
         "por": 39.99,
         "url": "https://store.steampowered.com/app/1282100/?cc=br"
+      },
+      "desconto": 80
+    },
+    {
+      "id": "detroit-become-human",
+      "titulo": "Detroit: Become Human",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "appid": 1222140,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.99,
+          "por": 39.99,
+          "url": "https://store.steampowered.com/app/1222140/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.99,
+        "por": 39.99,
+        "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
       "desconto": 80
     },
@@ -107,25 +107,25 @@
       "desconto": 70
     },
     {
-      "id": "kingdom-hearts-hd-1-5-2-5-remix",
-      "titulo": "KINGDOM HEARTS -HD 1.5+2.5 ReMIX-",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2552430/header.jpg?t=1779418330",
-      "appid": 2552430,
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 219.9,
-          "por": 65.97,
-          "url": "https://store.steampowered.com/app/2552430/?cc=br"
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 219.9,
-        "por": 65.97,
-        "url": "https://store.steampowered.com/app/2552430/?cc=br"
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
       },
-      "desconto": 70
+      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
