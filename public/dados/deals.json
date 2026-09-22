@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T15:13:44.590Z",
+  "atualizado": "2026-09-22T15:40:57.124Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -44,6 +44,27 @@
       "desconto": 80
     },
     {
+      "id": "detroit-become-human",
+      "titulo": "Detroit: Become Human",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "appid": 1222140,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.99,
+          "por": 39.99,
+          "url": "https://store.steampowered.com/app/1222140/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.99,
+        "por": 39.99,
+        "url": "https://store.steampowered.com/app/1222140/?cc=br"
+      },
+      "desconto": 80
+    },
+    {
       "id": "final-fantasy-vii-remake-intergrade",
       "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
@@ -61,27 +82,6 @@
         "de": 174.9,
         "por": 43.72,
         "url": "https://store.steampowered.com/app/1462040/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
-      "id": "death-stranding-director-s-cut",
-      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
-      "appid": 1850570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159,
-          "por": 39.75,
-          "url": "https://store.steampowered.com/app/1850570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159,
-        "por": 39.75,
-        "url": "https://store.steampowered.com/app/1850570/?cc=br"
       },
       "desconto": 75
     },
