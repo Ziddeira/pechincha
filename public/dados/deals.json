@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T11:41:19.934Z",
+  "atualizado": "2026-09-22T12:16:59.801Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -40,27 +40,6 @@
         "de": 199.99,
         "por": 39.99,
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
-      },
-      "desconto": 80
-    },
-    {
-      "id": "remnant-ii",
-      "titulo": "REMNANT II®",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
-      "appid": 1282100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.99,
-          "por": 39.99,
-          "url": "https://store.steampowered.com/app/1282100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.99,
-        "por": 39.99,
-        "url": "https://store.steampowered.com/app/1282100/?cc=br"
       },
       "desconto": 80
     },
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "dying-light-the-beast",
+      "titulo": "Dying Light: The Beast",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
+      "appid": 3008130,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249,
+          "por": 124.5,
+          "url": "https://store.steampowered.com/app/3008130/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249,
+        "por": 124.5,
+        "url": "https://store.steampowered.com/app/3008130/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
