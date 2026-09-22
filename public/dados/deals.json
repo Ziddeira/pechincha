@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-22T10:41:55.467Z",
+  "atualizado": "2026-09-22T11:13:01.002Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -40,27 +40,6 @@
         "de": 199.99,
         "por": 39.99,
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
-      },
-      "desconto": 80
-    },
-    {
-      "id": "remnant-ii",
-      "titulo": "REMNANT II®",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1282100/header.jpg?t=1764659459",
-      "appid": 1282100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.99,
-          "por": 39.99,
-          "url": "https://store.steampowered.com/app/1282100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.99,
-        "por": 39.99,
-        "url": "https://store.steampowered.com/app/1282100/?cc=br"
       },
       "desconto": 80
     },
@@ -126,6 +105,27 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
+    },
+    {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
