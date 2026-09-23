@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-23T11:13:14.456Z",
+  "atualizado": "2026-09-23T11:41:41.801Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,27 +107,6 @@
       "desconto": 70
     },
     {
-      "id": "it-takes-two",
-      "titulo": "It Takes Two",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
-      "appid": 1426210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 59.7,
-          "url": "https://store.steampowered.com/app/1426210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 59.7,
-        "url": "https://store.steampowered.com/app/1426210/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
       "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
@@ -168,6 +147,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "dune-awakening",
+      "titulo": "Dune: Awakening",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172710/c23906beee3fdf1cd48980f340a2b76a3590d765/header_alt_assets_9.jpg?t=1790078722",
+      "appid": 1172710,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 89.5,
+          "url": "https://store.steampowered.com/app/1172710/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 89.5,
+        "url": "https://store.steampowered.com/app/1172710/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
