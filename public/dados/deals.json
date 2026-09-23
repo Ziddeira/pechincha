@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-23T05:41:00.509Z",
+  "atualizado": "2026-09-23T06:17:51.015Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -65,6 +65,27 @@
       "desconto": 75
     },
     {
+      "id": "death-stranding-director-s-cut",
+      "titulo": "DEATH STRANDING DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1850570/header.jpg?t=1773400635",
+      "appid": 1850570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 39.75,
+          "url": "https://store.steampowered.com/app/1850570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 39.75,
+        "url": "https://store.steampowered.com/app/1850570/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "final-fantasy-vii-rebirth",
       "titulo": "FINAL FANTASY VII REBIRTH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
@@ -126,27 +147,6 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
-    },
-    {
-      "id": "peak",
-      "titulo": "PEAK",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
-      "appid": 3527290,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 23.99,
-          "por": 14.87,
-          "url": "https://store.steampowered.com/app/3527290/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 23.99,
-        "por": 14.87,
-        "url": "https://store.steampowered.com/app/3527290/?cc=br"
-      },
-      "desconto": 38
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
