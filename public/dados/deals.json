@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T17:12:47.336Z",
+  "atualizado": "2026-09-24T17:40:19.038Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -170,25 +170,25 @@
       "desconto": 50
     },
     {
-      "id": "peak",
-      "titulo": "PEAK",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
-      "appid": 3527290,
+      "id": "the-last-of-us-parte-ii-remastered",
+      "titulo": "The Last of Us™ Parte II Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
+      "appid": 2531310,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 23.99,
-          "por": 14.87,
-          "url": "https://store.steampowered.com/app/3527290/?cc=br"
+          "de": 199.9,
+          "por": 133.93,
+          "url": "https://store.steampowered.com/app/2531310/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 23.99,
-        "por": 14.87,
-        "url": "https://store.steampowered.com/app/3527290/?cc=br"
+        "de": 199.9,
+        "por": 133.93,
+        "url": "https://store.steampowered.com/app/2531310/?cc=br"
       },
-      "desconto": 38
+      "desconto": 33
     },
     {
       "id": "dressmaker",
