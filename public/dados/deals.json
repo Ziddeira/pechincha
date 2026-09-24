@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T14:44:03.841Z",
+  "atualizado": "2026-09-24T15:14:30.801Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -149,6 +149,27 @@
       "desconto": 65
     },
     {
+      "id": "red-dead-redemption",
+      "titulo": "Red Dead Redemption",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
+      "appid": 2668510,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.5,
+          "por": 124.75,
+          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.5,
+        "por": 124.75,
+        "url": "https://store.steampowered.com/app/2668510/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
       "titulo": "Diablo® IV: Lord of Hatred™ - Edição Standard",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1390270/3a2c5f9cd776775fd309aa1357e31c768191295e/header_ratio.jpg?t=1789412857",
@@ -168,27 +189,6 @@
         "url": "https://store.steampowered.com/app/1390270/?cc=br"
       },
       "desconto": 25
-    },
-    {
-      "id": "kingdom-rush-6-genesis-td",
-      "titulo": "Kingdom Rush 6: Genesis TD",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4259190/9f7d11479e98db4e5798ed936ca69f1ebb5cebe4/header.jpg?t=1790253263",
-      "appid": 4259190,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 67.99,
-          "por": 61.19,
-          "url": "https://store.steampowered.com/app/4259190/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 67.99,
-        "por": 61.19,
-        "url": "https://store.steampowered.com/app/4259190/?cc=br"
-      },
-      "desconto": 10
     },
     {
       "id": "dressmaker",

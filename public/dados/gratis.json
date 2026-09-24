@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-09-24T14:44:03.842Z",
+  "atualizado": "2026-09-24T15:14:30.803Z",
   "itens": [
     {
-      "id": "mindcop",
-      "titulo": "Mindcop",
+      "id": "astrea-six-sided-oracles",
+      "titulo": "Astrea Six Sided Oracles",
       "loja": "epic",
-      "de": 26.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/984cdc148ea6423e866ca6e04a1b429f/mindcop-kplp1.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/mindcop-78e6c1",
-      "acaba": "2026-09-24T15:00:00.000Z"
+      "de": 59.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
+      "url": "https://store.epicgames.com/pt-BR/p/astrea-six-sided-oracles-33c949",
+      "acaba": "2026-10-01T15:00:00.000Z"
     },
     {
-      "id": "shogun-showdown",
-      "titulo": "Shogun Showdown",
+      "id": "mechabellum",
+      "titulo": "Mechabellum",
       "loja": "epic",
-      "de": 39.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/450bcfdb9c00453394d7ccc2948ba5db/shogun-showdown-hz1yh.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/shogun-showdown-61832d",
-      "acaba": "2026-09-24T15:00:00.000Z"
+      "de": 46.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/mechabellum-88a843",
+      "acaba": "2026-10-01T15:00:00.000Z"
     }
   ]
 }
