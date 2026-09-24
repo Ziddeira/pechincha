@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-09-24T19:40:10.315Z",
+  "atualizado": "2026-09-24T20:14:40.543Z",
   "itens": [
-    {
-      "id": "far-cry-6",
-      "titulo": "Far Cry® 6",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2369390/64af0c6b70ef233bbdff1e5ffe0e397481efb3c9/header.jpg?t=1790173132",
-      "appid": 2369390,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.99,
-          "por": 24.99,
-          "url": "https://store.steampowered.com/app/2369390/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.99,
-        "por": 24.99,
-        "url": "https://store.steampowered.com/app/2369390/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "euro-truck-simulator-2",
       "titulo": "Euro Truck Simulator 2",
@@ -42,6 +21,27 @@
         "url": "https://store.steampowered.com/app/227300/?cc=br"
       },
       "desconto": 75
+    },
+    {
+      "id": "persona-3-reload",
+      "titulo": "Persona 3 Reload",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
+      "appid": 2161700,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/2161700/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/2161700/?cc=br"
+      },
+      "desconto": 70
     },
     {
       "id": "sea-of-thieves-2026-edition",
