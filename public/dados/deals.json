@@ -1,26 +1,26 @@
 {
-  "atualizado": "2026-09-24T21:39:59.807Z",
+  "atualizado": "2026-09-24T22:13:20.383Z",
   "itens": [
     {
-      "id": "euro-truck-simulator-2",
-      "titulo": "Euro Truck Simulator 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
-      "appid": 227300,
+      "id": "ori-and-the-will-of-the-wisps",
+      "titulo": "Ori and the Will of the Wisps",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "appid": 1057090,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 61.99,
-          "por": 15.49,
-          "url": "https://store.steampowered.com/app/227300/?cc=br"
+          "de": 129,
+          "por": 12.9,
+          "url": "https://store.steampowered.com/app/1057090/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 61.99,
-        "por": 15.49,
-        "url": "https://store.steampowered.com/app/227300/?cc=br"
+        "de": 129,
+        "por": 12.9,
+        "url": "https://store.steampowered.com/app/1057090/?cc=br"
       },
-      "desconto": 75
+      "desconto": 90
     },
     {
       "id": "persona-3-reload",
