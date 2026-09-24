@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T21:13:10.301Z",
+  "atualizado": "2026-09-24T21:39:59.807Z",
   "itens": [
     {
       "id": "euro-truck-simulator-2",
@@ -107,27 +107,6 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-iii",
       "titulo": "DARK SOULS™ III",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
@@ -145,6 +124,27 @@
         "de": 229.9,
         "por": 114.95,
         "url": "https://store.steampowered.com/app/374320/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-iii-deluxe-edition",
+      "titulo": "DARK SOULS III Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
+      "appid": 94174,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 327.5,
+          "por": 163.75,
+          "url": "https://store.steampowered.com/app/94174/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 327.5,
+        "por": 163.75,
+        "url": "https://store.steampowered.com/app/94174/?cc=br"
       },
       "desconto": 50
     },
