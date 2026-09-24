@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T16:14:50.705Z",
+  "atualizado": "2026-09-24T16:42:10.812Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,27 +107,6 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
-    },
-    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -149,25 +128,46 @@
       "desconto": 65
     },
     {
-      "id": "peak",
-      "titulo": "PEAK",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
-      "appid": 3527290,
+      "id": "rematch",
+      "titulo": "REMATCH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
+      "appid": 2138720,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 23.99,
-          "por": 14.87,
-          "url": "https://store.steampowered.com/app/3527290/?cc=br"
+          "de": 89,
+          "por": 35.6,
+          "url": "https://store.steampowered.com/app/2138720/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 23.99,
-        "por": 14.87,
-        "url": "https://store.steampowered.com/app/3527290/?cc=br"
+        "de": 89,
+        "por": 35.6,
+        "url": "https://store.steampowered.com/app/2138720/?cc=br"
       },
-      "desconto": 38
+      "desconto": 60
+    },
+    {
+      "id": "red-dead-redemption",
+      "titulo": "Red Dead Redemption",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2668510/header.jpg?t=1781132266",
+      "appid": 2668510,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.5,
+          "por": 124.75,
+          "url": "https://store.steampowered.com/app/2668510/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.5,
+        "por": 124.75,
+        "url": "https://store.steampowered.com/app/2668510/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "diablo-iv-lord-of-hatred-edicao-standard",
