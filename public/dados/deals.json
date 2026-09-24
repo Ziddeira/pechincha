@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T00:18:12.824Z",
+  "atualizado": "2026-09-24T00:46:02.199Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -107,27 +107,6 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
-    },
-    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "rematch",
+      "titulo": "REMATCH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/header.jpg?t=1781682466",
+      "appid": 2138720,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 89,
+          "por": 35.6,
+          "url": "https://store.steampowered.com/app/2138720/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 89,
+        "por": 35.6,
+        "url": "https://store.steampowered.com/app/2138720/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "peak",
