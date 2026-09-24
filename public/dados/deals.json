@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T18:44:14.318Z",
+  "atualizado": "2026-09-24T19:12:48.492Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -65,27 +65,6 @@
       "desconto": 75
     },
     {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
-      "appid": 2909400,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 219.9,
-          "por": 65.97,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 219.9,
-        "por": 65.97,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -149,23 +128,44 @@
       "desconto": 50
     },
     {
-      "id": "dying-light-the-beast",
-      "titulo": "Dying Light: The Beast",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1789646537",
-      "appid": 3008130,
+      "id": "dark-souls-iii-deluxe-edition",
+      "titulo": "DARK SOULS III Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
+      "appid": 94174,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249,
-          "por": 124.5,
-          "url": "https://store.steampowered.com/app/3008130/?cc=br"
+          "de": 327.5,
+          "por": 163.75,
+          "url": "https://store.steampowered.com/app/94174/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249,
-        "por": 124.5,
-        "url": "https://store.steampowered.com/app/3008130/?cc=br"
+        "de": 327.5,
+        "por": 163.75,
+        "url": "https://store.steampowered.com/app/94174/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-iii",
+      "titulo": "DARK SOULS™ III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "appid": 374320,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 229.9,
+          "por": 114.95,
+          "url": "https://store.steampowered.com/app/374320/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 229.9,
+        "por": 114.95,
+        "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
     },
