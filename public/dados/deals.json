@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-24T17:40:19.038Z",
+  "atualizado": "2026-09-24T18:16:39.989Z",
   "itens": [
     {
       "id": "far-cry-6",
@@ -44,6 +44,27 @@
       "desconto": 80
     },
     {
+      "id": "euro-truck-simulator-2",
+      "titulo": "Euro Truck Simulator 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/4f6ff00d3732ed0da2e28a4e7182f0036df8ab90/header_alt_assets_8.jpg?t=1790001194",
+      "appid": 227300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 61.99,
+          "por": 15.49,
+          "url": "https://store.steampowered.com/app/227300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 61.99,
+        "por": 15.49,
+        "url": "https://store.steampowered.com/app/227300/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "final-fantasy-vii-remake-intergrade",
       "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
@@ -84,27 +105,6 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "sea-of-thieves-2026-edition",
