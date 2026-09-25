@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T21:42:07.613Z",
+  "atualizado": "2026-09-25T22:13:01.761Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -23,25 +23,25 @@
       "desconto": 90
     },
     {
-      "id": "persona-3-reload",
-      "titulo": "Persona 3 Reload",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "appid": 2161700,
+      "id": "sea-of-thieves-2026-edition",
+      "titulo": "Sea of Thieves: 2026 Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
+      "appid": 1172620,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/2161700/?cc=br"
+          "de": 109.99,
+          "por": 38.49,
+          "url": "https://store.steampowered.com/app/1172620/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/2161700/?cc=br"
+        "de": 109.99,
+        "por": 38.49,
+        "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
-      "desconto": 70
+      "desconto": 65
     },
     {
       "id": "rematch",
@@ -65,27 +65,6 @@
       "desconto": 60
     },
     {
-      "id": "dark-souls-remastered",
-      "titulo": "DARK SOULS™: REMASTERED",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
-      "appid": 570940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/570940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/570940/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "the-witcher-3-wild-hunt-complete-edition",
       "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
@@ -107,23 +86,23 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii",
-      "titulo": "DARK SOULS™ III",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
-      "appid": 374320,
+      "id": "dark-souls-remastered",
+      "titulo": "DARK SOULS™: REMASTERED",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
+      "appid": 570940,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 229.9,
-          "por": 114.95,
-          "url": "https://store.steampowered.com/app/374320/?cc=br"
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/570940/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 229.9,
-        "por": 114.95,
-        "url": "https://store.steampowered.com/app/374320/?cc=br"
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/570940/?cc=br"
       },
       "desconto": 50
     },
@@ -145,6 +124,27 @@
         "de": 327.5,
         "por": 163.75,
         "url": "https://store.steampowered.com/app/94174/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-iii",
+      "titulo": "DARK SOULS™ III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "appid": 374320,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 229.9,
+          "por": 114.95,
+          "url": "https://store.steampowered.com/app/374320/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 229.9,
+        "por": 114.95,
+        "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
     },
