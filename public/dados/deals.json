@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T17:12:47.374Z",
+  "atualizado": "2026-09-25T17:42:03.817Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -44,27 +44,6 @@
       "desconto": 70
     },
     {
-      "id": "persona-5-royal",
-      "titulo": "Persona 5 Royal",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-      "appid": 1687950,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/1687950/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/1687950/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -84,6 +63,27 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
+    },
+    {
+      "id": "rematch",
+      "titulo": "REMATCH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
+      "appid": 2138720,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 89,
+          "por": 35.6,
+          "url": "https://store.steampowered.com/app/2138720/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 89,
+        "por": 35.6,
+        "url": "https://store.steampowered.com/app/2138720/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "dark-souls-remastered",
