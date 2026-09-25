@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T21:13:14.534Z",
+  "atualizado": "2026-09-25T21:42:07.613Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -86,6 +86,27 @@
       "desconto": 50
     },
     {
+      "id": "the-witcher-3-wild-hunt-complete-edition",
+      "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
+      "appid": 292030,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159.99,
+          "por": 79.99,
+          "url": "https://store.steampowered.com/app/292030/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159.99,
+        "por": 79.99,
+        "url": "https://store.steampowered.com/app/292030/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "dark-souls-iii",
       "titulo": "DARK SOULS™ III",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
@@ -145,27 +166,6 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/335300/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "the-witcher-3-wild-hunt-complete-edition",
-      "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
-      "appid": 292030,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159.99,
-          "por": 79.99,
-          "url": "https://store.steampowered.com/app/292030/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159.99,
-        "por": 79.99,
-        "url": "https://store.steampowered.com/app/292030/?cc=br"
       },
       "desconto": 50
     },
