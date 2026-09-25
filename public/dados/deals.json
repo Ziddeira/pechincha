@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T06:17:17.106Z",
+  "atualizado": "2026-09-25T06:47:26.423Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,25 +65,25 @@
       "desconto": 70
     },
     {
-      "id": "rematch",
-      "titulo": "REMATCH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
-      "appid": 2138720,
+      "id": "sea-of-thieves-2026-edition",
+      "titulo": "Sea of Thieves: 2026 Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
+      "appid": 1172620,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 89,
-          "por": 35.6,
-          "url": "https://store.steampowered.com/app/2138720/?cc=br"
+          "de": 109.99,
+          "por": 38.49,
+          "url": "https://store.steampowered.com/app/1172620/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 89,
-        "por": 35.6,
-        "url": "https://store.steampowered.com/app/2138720/?cc=br"
+        "de": 109.99,
+        "por": 38.49,
+        "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
-      "desconto": 60
+      "desconto": 65
     },
     {
       "id": "dark-souls-remastered",
