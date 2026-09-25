@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T05:12:41.560Z",
+  "atualizado": "2026-09-25T05:42:03.834Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -44,25 +44,25 @@
       "desconto": 70
     },
     {
-      "id": "sea-of-thieves-2026-edition",
-      "titulo": "Sea of Thieves: 2026 Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
-      "appid": 1172620,
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 109.99,
-          "por": 38.49,
-          "url": "https://store.steampowered.com/app/1172620/?cc=br"
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 109.99,
-        "por": 38.49,
-        "url": "https://store.steampowered.com/app/1172620/?cc=br"
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
       },
-      "desconto": 65
+      "desconto": 70
     },
     {
       "id": "rematch",
