@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-25T23:40:04.857Z",
+  "atualizado": "2026-09-26T00:17:52.294Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -23,6 +23,27 @@
       "desconto": 90
     },
     {
+      "id": "hades",
+      "titulo": "Hades",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "appid": 1145360,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 73.99,
+          "por": 18.49,
+          "url": "https://store.steampowered.com/app/1145360/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 73.99,
+        "por": 18.49,
+        "url": "https://store.steampowered.com/app/1145360/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "sea-of-thieves-2026-edition",
       "titulo": "Sea of Thieves: 2026 Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
@@ -42,27 +63,6 @@
         "url": "https://store.steampowered.com/app/1172620/?cc=br"
       },
       "desconto": 65
-    },
-    {
-      "id": "rematch",
-      "titulo": "REMATCH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
-      "appid": 2138720,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 89,
-          "por": 35.6,
-          "url": "https://store.steampowered.com/app/2138720/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 89,
-        "por": 35.6,
-        "url": "https://store.steampowered.com/app/2138720/?cc=br"
-      },
-      "desconto": 60
     },
     {
       "id": "the-witcher-3-wild-hunt-complete-edition",
