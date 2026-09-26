@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-26T08:41:27.378Z",
+  "atualizado": "2026-09-26T09:12:51.266Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "hades",
-      "titulo": "Hades",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
-      "appid": 1145360,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 73.99,
-          "por": 18.49,
-          "url": "https://store.steampowered.com/app/1145360/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 73.99,
-        "por": 18.49,
-        "url": "https://store.steampowered.com/app/1145360/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "persona-3-reload",
       "titulo": "Persona 3 Reload",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
@@ -65,6 +44,27 @@
       "desconto": 70
     },
     {
+      "id": "sea-of-thieves-2026-edition",
+      "titulo": "Sea of Thieves: 2026 Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
+      "appid": 1172620,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 109.99,
+          "por": 38.49,
+          "url": "https://store.steampowered.com/app/1172620/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 109.99,
+        "por": 38.49,
+        "url": "https://store.steampowered.com/app/1172620/?cc=br"
+      },
+      "desconto": 65
+    },
+    {
       "id": "dark-souls-remastered",
       "titulo": "DARK SOULS™: REMASTERED",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
@@ -82,27 +82,6 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/570940/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dark-souls-iii",
-      "titulo": "DARK SOULS™ III",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
-      "appid": 374320,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 229.9,
-          "por": 114.95,
-          "url": "https://store.steampowered.com/app/374320/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 229.9,
-        "por": 114.95,
-        "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
     },
@@ -128,23 +107,23 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-ii-scholar-of-the-first-sin",
-      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
-      "appid": 335300,
+      "id": "dark-souls-iii",
+      "titulo": "DARK SOULS™ III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "appid": 374320,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/335300/?cc=br"
+          "de": 229.9,
+          "por": 114.95,
+          "url": "https://store.steampowered.com/app/374320/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/335300/?cc=br"
+        "de": 229.9,
+        "por": 114.95,
+        "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
     },
@@ -166,6 +145,27 @@
         "de": 327.5,
         "por": 163.75,
         "url": "https://store.steampowered.com/app/94174/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "appid": 335300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/335300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/335300/?cc=br"
       },
       "desconto": 50
     },
