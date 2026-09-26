@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-26T01:11:34.981Z",
+  "atualizado": "2026-09-26T01:41:11.817Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -21,6 +21,27 @@
         "url": "https://store.steampowered.com/app/1057090/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "hades",
+      "titulo": "Hades",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "appid": 1145360,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 73.99,
+          "por": 18.49,
+          "url": "https://store.steampowered.com/app/1145360/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 73.99,
+        "por": 18.49,
+        "url": "https://store.steampowered.com/app/1145360/?cc=br"
+      },
+      "desconto": 75
     },
     {
       "id": "sea-of-thieves-2026-edition",
@@ -65,27 +86,6 @@
       "desconto": 60
     },
     {
-      "id": "the-witcher-3-wild-hunt-complete-edition",
-      "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
-      "appid": 292030,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159.99,
-          "por": 79.99,
-          "url": "https://store.steampowered.com/app/292030/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159.99,
-        "por": 79.99,
-        "url": "https://store.steampowered.com/app/292030/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-remastered",
       "titulo": "DARK SOULS™: REMASTERED",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
@@ -103,6 +103,27 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/570940/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "the-witcher-3-wild-hunt-complete-edition",
+      "titulo": "The Witcher 3: Wild Hunt - Complete Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/97cca1147b256f450331044255b1dbd2d57d609e/header_alt_assets_4.jpg?t=1788333513",
+      "appid": 292030,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159.99,
+          "por": 79.99,
+          "url": "https://store.steampowered.com/app/292030/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159.99,
+        "por": 79.99,
+        "url": "https://store.steampowered.com/app/292030/?cc=br"
       },
       "desconto": 50
     },
@@ -145,27 +166,6 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/335300/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
       },
       "desconto": 50
     },
