@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-26T09:12:51.266Z",
+  "atualizado": "2026-09-26T09:40:22.739Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -128,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-ii-scholar-of-the-first-sin",
       "titulo": "DARK SOULS™ II: Scholar of the First Sin",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
@@ -166,6 +145,27 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/335300/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-iii-deluxe-edition",
+      "titulo": "DARK SOULS III Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
+      "appid": 94174,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 327.5,
+          "por": 163.75,
+          "url": "https://store.steampowered.com/app/94174/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 327.5,
+        "por": 163.75,
+        "url": "https://store.steampowered.com/app/94174/?cc=br"
       },
       "desconto": 50
     },
