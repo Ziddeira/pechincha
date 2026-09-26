@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-26T10:12:44.879Z",
+  "atualizado": "2026-09-26T10:40:43.351Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -23,6 +23,27 @@
       "desconto": 90
     },
     {
+      "id": "hades",
+      "titulo": "Hades",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1145360/header.jpg?t=1758127023",
+      "appid": 1145360,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 73.99,
+          "por": 18.49,
+          "url": "https://store.steampowered.com/app/1145360/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 73.99,
+        "por": 18.49,
+        "url": "https://store.steampowered.com/app/1145360/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "persona-3-reload",
       "titulo": "Persona 3 Reload",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
@@ -42,27 +63,6 @@
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "sea-of-thieves-2026-edition",
-      "titulo": "Sea of Thieves: 2026 Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1789650456",
-      "appid": 1172620,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 109.99,
-          "por": 38.49,
-          "url": "https://store.steampowered.com/app/1172620/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 109.99,
-        "por": 38.49,
-        "url": "https://store.steampowered.com/app/1172620/?cc=br"
-      },
-      "desconto": 65
     },
     {
       "id": "dark-souls-remastered",
