@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-27T19:11:43.068Z",
+  "atualizado": "2026-09-27T19:39:53.640Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -42,6 +42,27 @@
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
       },
       "desconto": 70
+    },
+    {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
     },
     {
       "id": "rematch",
@@ -145,27 +166,6 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/335300/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
       },
       "desconto": 50
     },
