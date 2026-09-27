@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-27T01:40:59.388Z",
+  "atualizado": "2026-09-27T02:13:23.272Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/1057090/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "persona-3-reload",
-      "titulo": "Persona 3 Reload",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
-      "appid": 2161700,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/2161700/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/2161700/?cc=br"
-      },
-      "desconto": 70
     },
     {
       "id": "sea-of-thieves-2026-edition",
@@ -128,27 +107,6 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-iii",
       "titulo": "DARK SOULS™ III",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
@@ -168,6 +126,48 @@
         "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
+    },
+    {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "appid": 335300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/335300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/335300/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "peak",
+      "titulo": "PEAK",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
+      "appid": 3527290,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 23.99,
+          "por": 14.87,
+          "url": "https://store.steampowered.com/app/3527290/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 23.99,
+        "por": 14.87,
+        "url": "https://store.steampowered.com/app/3527290/?cc=br"
+      },
+      "desconto": 38
     },
     {
       "id": "the-last-of-us-parte-ii-remastered",
