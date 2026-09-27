@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-27T19:39:53.640Z",
+  "atualizado": "2026-09-27T20:13:04.655Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -42,27 +42,6 @@
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "rematch",
@@ -128,6 +107,27 @@
       "desconto": 50
     },
     {
+      "id": "dark-souls-iii-deluxe-edition",
+      "titulo": "DARK SOULS III Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
+      "appid": 94174,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 327.5,
+          "por": 163.75,
+          "url": "https://store.steampowered.com/app/94174/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 327.5,
+        "por": 163.75,
+        "url": "https://store.steampowered.com/app/94174/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "dark-souls-iii",
       "titulo": "DARK SOULS™ III",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
@@ -149,25 +149,25 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-ii-scholar-of-the-first-sin",
-      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
-      "appid": 335300,
+      "id": "peak",
+      "titulo": "PEAK",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1786470571",
+      "appid": 3527290,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/335300/?cc=br"
+          "de": 23.99,
+          "por": 14.87,
+          "url": "https://store.steampowered.com/app/3527290/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/335300/?cc=br"
+        "de": 23.99,
+        "por": 14.87,
+        "url": "https://store.steampowered.com/app/3527290/?cc=br"
       },
-      "desconto": 50
+      "desconto": 38
     },
     {
       "id": "the-last-of-us-parte-ii-remastered",
