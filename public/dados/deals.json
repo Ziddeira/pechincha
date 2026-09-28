@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-28T18:16:41.976Z",
+  "atualizado": "2026-09-28T18:47:08.181Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -19,6 +19,27 @@
         "de": 129,
         "por": 12.9,
         "url": "https://store.steampowered.com/app/1057090/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "sos-ops",
+      "titulo": "SOS OPS!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/a0a7b4a2b2526ae76cab0f0ba6e87e63d962c1a7/header.jpg?t=1790372249",
+      "appid": 2475460,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 22.99,
+          "por": 2.29,
+          "url": "https://store.steampowered.com/app/2475460/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 22.99,
+        "por": 2.29,
+        "url": "https://store.steampowered.com/app/2475460/?cc=br"
       },
       "desconto": 90
     },
@@ -61,27 +82,6 @@
         "de": 249.9,
         "por": 74.97,
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
-      "appid": 2909400,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 219.9,
-          "por": 65.97,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 219.9,
-        "por": 65.97,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
     },
@@ -170,6 +170,27 @@
       "desconto": 50
     },
     {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "appid": 335300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/335300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/335300/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "the-last-of-us-parte-ii-remastered",
       "titulo": "The Last of Us™ Parte II Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/2531310/?cc=br"
       },
       "desconto": 33
-    },
-    {
-      "id": "deskrawl-idle-arpg",
-      "titulo": "Deskrawl: Idle ARPG",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/4c1aa677f31f987858b5d88981978bb83b86b519/header.jpg?t=1790596988",
-      "appid": 4623570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.75,
-          "por": 18.72,
-          "url": "https://store.steampowered.com/app/4623570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.75,
-        "por": 18.72,
-        "url": "https://store.steampowered.com/app/4623570/?cc=br"
-      },
-      "desconto": 30
     }
   ]
 }
