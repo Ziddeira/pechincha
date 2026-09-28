@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-28T16:43:39.703Z",
+  "atualizado": "2026-09-28T17:13:51.891Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -191,25 +191,25 @@
       "desconto": 33
     },
     {
-      "id": "dressmaker",
-      "titulo": "Dressmaker",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1790605593",
-      "appid": 4019220,
+      "id": "deskrawl-idle-arpg",
+      "titulo": "Deskrawl: Idle ARPG",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/4c1aa677f31f987858b5d88981978bb83b86b519/header.jpg?t=1790596988",
+      "appid": 4623570,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 53.47,
-          "por": 48.12,
-          "url": "https://store.steampowered.com/app/4019220/?cc=br"
+          "de": 26.75,
+          "por": 18.72,
+          "url": "https://store.steampowered.com/app/4623570/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 53.47,
-        "por": 48.12,
-        "url": "https://store.steampowered.com/app/4019220/?cc=br"
+        "de": 26.75,
+        "por": 18.72,
+        "url": "https://store.steampowered.com/app/4623570/?cc=br"
       },
-      "desconto": 10
+      "desconto": 30
     }
   ]
 }
