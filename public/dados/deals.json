@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-28T00:20:50.847Z",
+  "atualizado": "2026-09-28T00:48:17.498Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -40,27 +40,6 @@
         "de": 249.9,
         "por": 74.97,
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
-      "id": "it-takes-two",
-      "titulo": "It Takes Two",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
-      "appid": 1426210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 59.7,
-          "url": "https://store.steampowered.com/app/1426210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 59.7,
-        "url": "https://store.steampowered.com/app/1426210/?cc=br"
       },
       "desconto": 70
     },
@@ -145,6 +124,27 @@
         "de": 229.9,
         "por": 114.95,
         "url": "https://store.steampowered.com/app/374320/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "appid": 335300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/335300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/335300/?cc=br"
       },
       "desconto": 50
     },
