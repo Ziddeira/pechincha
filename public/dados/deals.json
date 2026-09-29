@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-29T19:43:13.987Z",
+  "atualizado": "2026-09-29T20:15:23.625Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,27 +65,6 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
-      },
-      "desconto": 67
-    },
-    {
       "id": "rematch",
       "titulo": "REMATCH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
@@ -149,6 +128,27 @@
       "desconto": 50
     },
     {
+      "id": "dark-souls-iii",
+      "titulo": "DARK SOULS™ III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "appid": 374320,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 229.9,
+          "por": 114.95,
+          "url": "https://store.steampowered.com/app/374320/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 229.9,
+        "por": 114.95,
+        "url": "https://store.steampowered.com/app/374320/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
       "id": "dark-souls-iii-deluxe-edition",
       "titulo": "DARK SOULS III Deluxe Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
@@ -170,23 +170,23 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii",
-      "titulo": "DARK SOULS™ III",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
-      "appid": 374320,
+      "id": "dark-souls-ii-scholar-of-the-first-sin",
+      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
+      "appid": 335300,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 229.9,
-          "por": 114.95,
-          "url": "https://store.steampowered.com/app/374320/?cc=br"
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/335300/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 229.9,
-        "por": 114.95,
-        "url": "https://store.steampowered.com/app/374320/?cc=br"
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/335300/?cc=br"
       },
       "desconto": 50
     },
