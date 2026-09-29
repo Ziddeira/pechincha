@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-29T14:45:53.133Z",
+  "atualizado": "2026-09-29T15:16:32.059Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,6 +65,27 @@
       "desconto": 70
     },
     {
+      "id": "final-fantasy-vii-rebirth",
+      "titulo": "FINAL FANTASY VII REBIRTH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
+      "appid": 2909400,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 219.9,
+          "por": 65.97,
+          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 219.9,
+        "por": 65.97,
+        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
       "id": "rematch",
       "titulo": "REMATCH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
@@ -88,7 +109,7 @@
     {
       "id": "the-witcher-3-wild-hunt-remastered",
       "titulo": "The Witcher 3: Wild Hunt — Remastered",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790678872",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790693338",
       "appid": 292030,
       "ofertas": [
         {
@@ -166,27 +187,6 @@
         "de": 327.5,
         "por": 163.75,
         "url": "https://store.steampowered.com/app/94174/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dark-souls-ii-scholar-of-the-first-sin",
-      "titulo": "DARK SOULS™ II: Scholar of the First Sin",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/335300/header.jpg?t=1760721873",
-      "appid": 335300,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/335300/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/335300/?cc=br"
       },
       "desconto": 50
     },
