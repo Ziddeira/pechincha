@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-29T08:45:26.200Z",
+  "atualizado": "2026-09-29T09:15:44.490Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,23 +65,23 @@
       "desconto": 70
     },
     {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
-      "appid": 2909400,
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 219.9,
-          "por": 65.97,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 219.9,
-        "por": 65.97,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
       },
       "desconto": 70
     },
@@ -149,27 +149,6 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-iii-deluxe-edition",
-      "titulo": "DARK SOULS III Deluxe Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
-      "appid": 94174,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 327.5,
-          "por": 163.75,
-          "url": "https://store.steampowered.com/app/94174/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 327.5,
-        "por": 163.75,
-        "url": "https://store.steampowered.com/app/94174/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-iii",
       "titulo": "DARK SOULS™ III",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/2531310/?cc=br"
       },
       "desconto": 33
+    },
+    {
+      "id": "deskrawl-idle-arpg",
+      "titulo": "Deskrawl: Idle ARPG",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/4c1aa677f31f987858b5d88981978bb83b86b519/header.jpg?t=1790673311",
+      "appid": 4623570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 26.75,
+          "por": 18.72,
+          "url": "https://store.steampowered.com/app/4623570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 26.75,
+        "por": 18.72,
+        "url": "https://store.steampowered.com/app/4623570/?cc=br"
+      },
+      "desconto": 30
     }
   ]
 }
