@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-29T10:14:53.917Z",
+  "atualizado": "2026-09-29T10:45:14.363Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,6 +65,27 @@
       "desconto": 70
     },
     {
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
       "id": "rematch",
       "titulo": "REMATCH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
@@ -88,7 +109,7 @@
     {
       "id": "the-witcher-3-wild-hunt-remastered",
       "titulo": "The Witcher 3: Wild Hunt — Remastered",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b5b1ba5061b8a992cc69ac58b4245434edb4296/header.jpg?t=1790676661",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/e8afc4252e3fee8ed2525ab2fd7675cca39aa38d/header_alt_assets_1.jpg?t=1790678134",
       "appid": 292030,
       "ofertas": [
         {
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/2531310/?cc=br"
       },
       "desconto": 33
-    },
-    {
-      "id": "deskrawl-idle-arpg",
-      "titulo": "Deskrawl: Idle ARPG",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4623570/4c1aa677f31f987858b5d88981978bb83b86b519/header.jpg?t=1790673311",
-      "appid": 4623570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 26.75,
-          "por": 18.72,
-          "url": "https://store.steampowered.com/app/4623570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 26.75,
-        "por": 18.72,
-        "url": "https://store.steampowered.com/app/4623570/?cc=br"
-      },
-      "desconto": 30
     }
   ]
 }
