@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-29T06:48:57.379Z",
+  "atualizado": "2026-09-29T07:15:54.649Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -19,27 +19,6 @@
         "de": 129,
         "por": 12.9,
         "url": "https://store.steampowered.com/app/1057090/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
-      "id": "sos-ops",
-      "titulo": "SOS OPS!",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/a0a7b4a2b2526ae76cab0f0ba6e87e63d962c1a7/header.jpg?t=1790372249",
-      "appid": 2475460,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 22.99,
-          "por": 2.29,
-          "url": "https://store.steampowered.com/app/2475460/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 22.99,
-        "por": 2.29,
-        "url": "https://store.steampowered.com/app/2475460/?cc=br"
       },
       "desconto": 90
     },
@@ -86,6 +65,27 @@
       "desconto": 70
     },
     {
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
       "id": "rematch",
       "titulo": "REMATCH",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138720/cafe24aa9b3c329c4a083b017cbdd7965b6e23c3/header_alt_assets_1.jpg?t=1790262307",
@@ -128,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "dark-souls-remastered",
-      "titulo": "DARK SOULS™: REMASTERED",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
-      "appid": 570940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/570940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/570940/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "dark-souls-iii-deluxe-edition",
       "titulo": "DARK SOULS III Deluxe Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/94174/header_ratio.jpg?t=1726526238",
@@ -187,6 +166,27 @@
         "de": 229.9,
         "por": 114.95,
         "url": "https://store.steampowered.com/app/374320/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-remastered",
+      "titulo": "DARK SOULS™: REMASTERED",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
+      "appid": 570940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/570940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/570940/?cc=br"
       },
       "desconto": 50
     },
