@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-30T17:14:11.822Z",
+  "atualizado": "2026-09-30T17:43:24.237Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "final-fantasy-vii-remake-intergrade",
-      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "appid": 1462040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 43.72,
-          "url": "https://store.steampowered.com/app/1462040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 43.72,
-        "url": "https://store.steampowered.com/app/1462040/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "persona-3-reload",
       "titulo": "Persona 3 Reload",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2161700/header.jpg?t=1764776430",
@@ -61,6 +40,27 @@
         "de": 249.9,
         "por": 74.97,
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
+      "id": "final-fantasy-vii-rebirth",
+      "titulo": "FINAL FANTASY VII REBIRTH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1789446799",
+      "appid": 2909400,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 219.9,
+          "por": 65.97,
+          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 219.9,
+        "por": 65.97,
+        "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 70
     },
