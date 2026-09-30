@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-30T03:45:16.201Z",
+  "atualizado": "2026-09-30T04:15:15.942Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -40,27 +40,6 @@
         "de": 249.9,
         "por": 74.97,
         "url": "https://store.steampowered.com/app/2161700/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
-      "id": "persona-5-royal",
-      "titulo": "Persona 5 Royal",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-      "appid": 1687950,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/1687950/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/1687950/?cc=br"
       },
       "desconto": 70
     },
@@ -166,6 +145,27 @@
         "de": 154.9,
         "por": 77.45,
         "url": "https://store.steampowered.com/app/335300/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dark-souls-iii",
+      "titulo": "DARK SOULS™ III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/374320/header.jpg?t=1748630784",
+      "appid": 374320,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 229.9,
+          "por": 114.95,
+          "url": "https://store.steampowered.com/app/374320/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 229.9,
+        "por": 114.95,
+        "url": "https://store.steampowered.com/app/374320/?cc=br"
       },
       "desconto": 50
     },
