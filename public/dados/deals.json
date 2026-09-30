@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-09-30T20:43:06.992Z",
+  "atualizado": "2026-09-30T21:14:03.409Z",
   "itens": [
     {
       "id": "ori-and-the-will-of-the-wisps",
@@ -65,25 +65,25 @@
       "desconto": 70
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
       },
-      "desconto": 67
+      "desconto": 70
     },
     {
       "id": "the-witcher-3-wild-hunt-remastered",
