@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-10-01T14:46:44.731Z",
+  "atualizado": "2026-10-01T15:14:57.970Z",
   "itens": [
     {
-      "id": "astrea-six-sided-oracles",
-      "titulo": "Astrea Six Sided Oracles",
+      "id": "system-shock-2-25th-anniversary-remaster",
+      "titulo": "System Shock 2: 25th Anniversary Remaster",
       "loja": "epic",
-      "de": 59.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/4515173972ae4444a2582bc690c150bd/astrea-six-sided-oracles-offer-bvy0n.png",
-      "url": "https://store.epicgames.com/pt-BR/p/astrea-six-sided-oracles-33c949",
-      "acaba": "2026-10-01T15:00:00.000Z"
+      "de": 80.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/system-shock-2-25th-anniversary-remaster-cb94d9",
+      "acaba": "2026-10-08T15:00:00.000Z"
     },
     {
-      "id": "mechabellum",
-      "titulo": "Mechabellum",
+      "id": "buried-stars",
+      "titulo": "BURIED STARS",
       "loja": "epic",
-      "de": 46.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/131adc2288294d74aaff6a2f02b51d59/mechabellum-95319.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/mechabellum-88a843",
-      "acaba": "2026-10-01T15:00:00.000Z"
+      "de": 75.49,
+      "capa": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/buried-stars-d7c88c",
+      "acaba": "2026-10-08T15:00:00.000Z"
     }
   ]
 }
