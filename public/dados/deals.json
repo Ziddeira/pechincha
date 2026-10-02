@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-02T09:45:10.800Z",
+  "atualizado": "2026-10-02T10:13:59.885Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -86,27 +86,6 @@
       "desconto": 70
     },
     {
-      "id": "iracing",
-      "titulo": "iRacing",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
-      "appid": 266410,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 36.29,
-          "por": 14.51,
-          "url": "https://store.steampowered.com/app/266410/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 36.29,
-        "por": 14.51,
-        "url": "https://store.steampowered.com/app/266410/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "marvel-s-spider-man-remastered",
       "titulo": "Marvel’s Spider-Man Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
@@ -124,6 +103,27 @@
         "de": 249.9,
         "por": 99.96,
         "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "iracing",
+      "titulo": "iRacing",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1787072532",
+      "appid": 266410,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 36.29,
+          "por": 14.51,
+          "url": "https://store.steampowered.com/app/266410/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 36.29,
+        "por": 14.51,
+        "url": "https://store.steampowered.com/app/266410/?cc=br"
       },
       "desconto": 60
     },
