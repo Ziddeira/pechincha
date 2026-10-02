@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-02T13:16:06.571Z",
+  "atualizado": "2026-10-02T13:46:14.408Z",
   "itens": [
-    {
-      "id": "the-outlast-trials",
-      "titulo": "The Outlast Trials",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
-      "appid": 1304930,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 107.99,
-          "por": 10.79,
-          "url": "https://store.steampowered.com/app/1304930/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 107.99,
-        "por": 10.79,
-        "url": "https://store.steampowered.com/app/1304930/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
       "titulo": "The Elder Scrolls V: Skyrim Special Edition",
@@ -40,6 +19,27 @@
         "de": 149,
         "por": 14.9,
         "url": "https://store.steampowered.com/app/489830/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "the-outlast-trials",
+      "titulo": "The Outlast Trials",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/65fbdba4ad0f1a7ed7a362a086c87042fa40fadc/header_alt_assets_3.jpg?t=1784123708",
+      "appid": 1304930,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 107.99,
+          "por": 10.79,
+          "url": "https://store.steampowered.com/app/1304930/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 107.99,
+        "por": 10.79,
+        "url": "https://store.steampowered.com/app/1304930/?cc=br"
       },
       "desconto": 90
     },
