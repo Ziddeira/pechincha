@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-03T08:14:31.158Z",
+  "atualizado": "2026-10-03T08:47:32.180Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -146,25 +146,25 @@
       "desconto": 50
     },
     {
-      "id": "baldur-s-gate-3",
-      "titulo": "Baldur's Gate 3",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
-      "appid": 1086940,
+      "id": "how-to-fish",
+      "titulo": "How to Fish",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "appid": 4001890,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.99,
-          "por": 139.99,
-          "url": "https://store.steampowered.com/app/1086940/?cc=br"
+          "de": 23.99,
+          "por": 14.87,
+          "url": "https://store.steampowered.com/app/4001890/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.99,
-        "por": 139.99,
-        "url": "https://store.steampowered.com/app/1086940/?cc=br"
+        "de": 23.99,
+        "por": 14.87,
+        "url": "https://store.steampowered.com/app/4001890/?cc=br"
       },
-      "desconto": 30
+      "desconto": 38
     }
   ]
 }
