@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-04T10:51:14.346Z",
+  "atualizado": "2026-10-04T17:50:54.375Z",
   "itens": [
-    {
-      "id": "the-elder-scrolls-v-skyrim-special-edition",
-      "titulo": "The Elder Scrolls V: Skyrim Special Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
-      "appid": 489830,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 149,
-          "por": 14.9,
-          "url": "https://store.steampowered.com/app/489830/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 149,
-        "por": 14.9,
-        "url": "https://store.steampowered.com/app/489830/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "the-outlast-trials",
       "titulo": "The Outlast Trials",
@@ -40,6 +19,27 @@
         "de": 107.99,
         "por": 10.79,
         "url": "https://store.steampowered.com/app/1304930/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "the-elder-scrolls-v-skyrim-special-edition",
+      "titulo": "The Elder Scrolls V: Skyrim Special Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/489830/header.jpg?t=1786648247",
+      "appid": 489830,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 149,
+          "por": 14.9,
+          "url": "https://store.steampowered.com/app/489830/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 149,
+        "por": 14.9,
+        "url": "https://store.steampowered.com/app/489830/?cc=br"
       },
       "desconto": 90
     },
@@ -134,27 +134,6 @@
       "desconto": 50
     },
     {
-      "id": "sekiro-shadows-die-twice-goty-edition",
-      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-      "appid": 814380,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 274,
-          "por": 137,
-          "url": "https://store.steampowered.com/app/814380/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 274,
-        "por": 137,
-        "url": "https://store.steampowered.com/app/814380/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "how-to-fish",
       "titulo": "How to Fish",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
@@ -174,6 +153,27 @@
         "url": "https://store.steampowered.com/app/4001890/?cc=br"
       },
       "desconto": 38
+    },
+    {
+      "id": "project-zomboid",
+      "titulo": "Project Zomboid",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "appid": 108600,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 83.99,
+          "por": 56.27,
+          "url": "https://store.steampowered.com/app/108600/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 83.99,
+        "por": 56.27,
+        "url": "https://store.steampowered.com/app/108600/?cc=br"
+      },
+      "desconto": 33
     },
     {
       "id": "baldur-s-gate-3",
