@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-04T02:29:46.652Z",
+  "atualizado": "2026-10-04T04:27:14.835Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -155,6 +155,27 @@
       "desconto": 38
     },
     {
+      "id": "project-zomboid",
+      "titulo": "Project Zomboid",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
+      "appid": 108600,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 83.99,
+          "por": 56.27,
+          "url": "https://store.steampowered.com/app/108600/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 83.99,
+        "por": 56.27,
+        "url": "https://store.steampowered.com/app/108600/?cc=br"
+      },
+      "desconto": 33
+    },
+    {
       "id": "baldur-s-gate-3",
       "titulo": "Baldur's Gate 3",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
@@ -174,27 +195,6 @@
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "bodycam",
-      "titulo": "Bodycam",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/98a9d087d958e0dbb292a7e2c7898653c9b411ba/header_alt_assets_0_portuguese.jpg?t=1791014741",
-      "appid": 2406770,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 101.99,
-          "por": 81.59,
-          "url": "https://store.steampowered.com/app/2406770/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 101.99,
-        "por": 81.59,
-        "url": "https://store.steampowered.com/app/2406770/?cc=br"
-      },
-      "desconto": 20
     }
   ]
 }
