@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-06T03:14:03.264Z",
+  "atualizado": "2026-10-06T03:45:59.765Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -40,6 +40,27 @@
         "de": 149,
         "por": 14.9,
         "url": "https://store.steampowered.com/app/489830/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "ori-and-the-will-of-the-wisps",
+      "titulo": "Ori and the Will of the Wisps",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "appid": 1057090,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 129,
+          "por": 12.9,
+          "url": "https://store.steampowered.com/app/1057090/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 129,
+        "por": 12.9,
+        "url": "https://store.steampowered.com/app/1057090/?cc=br"
       },
       "desconto": 90
     },
@@ -153,27 +174,6 @@
         "url": "https://store.steampowered.com/app/4001890/?cc=br"
       },
       "desconto": 38
-    },
-    {
-      "id": "project-zomboid",
-      "titulo": "Project Zomboid",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-      "appid": 108600,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 83.99,
-          "por": 56.27,
-          "url": "https://store.steampowered.com/app/108600/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 83.99,
-        "por": 56.27,
-        "url": "https://store.steampowered.com/app/108600/?cc=br"
-      },
-      "desconto": 33
     },
     {
       "id": "baldur-s-gate-3",
