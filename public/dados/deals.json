@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-06T00:22:06.915Z",
+  "atualizado": "2026-10-06T00:51:43.157Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -63,27 +63,6 @@
         "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "sons-of-the-forest",
-      "titulo": "Sons Of The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-      "appid": 1326470,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 88.99,
-          "por": 25.8,
-          "url": "https://store.steampowered.com/app/1326470/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 88.99,
-        "por": 25.8,
-        "url": "https://store.steampowered.com/app/1326470/?cc=br"
-      },
-      "desconto": 71
     },
     {
       "id": "cyberpunk-2077",
@@ -195,6 +174,27 @@
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "bodycam",
+      "titulo": "Bodycam",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/98a9d087d958e0dbb292a7e2c7898653c9b411ba/header_alt_assets_0_portuguese.jpg?t=1791014741",
+      "appid": 2406770,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 101.99,
+          "por": 81.59,
+          "url": "https://store.steampowered.com/app/2406770/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 101.99,
+        "por": 81.59,
+        "url": "https://store.steampowered.com/app/2406770/?cc=br"
+      },
+      "desconto": 20
     }
   ]
 }
