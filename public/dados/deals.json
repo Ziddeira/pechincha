@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-05T23:41:02.964Z",
+  "atualizado": "2026-10-06T00:22:06.915Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -63,6 +63,27 @@
         "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
       "desconto": 75
+    },
+    {
+      "id": "sons-of-the-forest",
+      "titulo": "Sons Of The Forest",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "appid": 1326470,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 88.99,
+          "por": 25.8,
+          "url": "https://store.steampowered.com/app/1326470/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 88.99,
+        "por": 25.8,
+        "url": "https://store.steampowered.com/app/1326470/?cc=br"
+      },
+      "desconto": 71
     },
     {
       "id": "cyberpunk-2077",
@@ -153,27 +174,6 @@
         "url": "https://store.steampowered.com/app/4001890/?cc=br"
       },
       "desconto": 38
-    },
-    {
-      "id": "project-zomboid",
-      "titulo": "Project Zomboid",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-      "appid": 108600,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 83.99,
-          "por": 56.27,
-          "url": "https://store.steampowered.com/app/108600/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 83.99,
-        "por": 56.27,
-        "url": "https://store.steampowered.com/app/108600/?cc=br"
-      },
-      "desconto": 33
     },
     {
       "id": "baldur-s-gate-3",
