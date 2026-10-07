@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-07T05:45:41.665Z",
+  "atualizado": "2026-10-07T06:17:17.780Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -40,6 +40,27 @@
         "de": 149,
         "por": 14.9,
         "url": "https://store.steampowered.com/app/489830/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "ori-and-the-will-of-the-wisps",
+      "titulo": "Ori and the Will of the Wisps",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "appid": 1057090,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 129,
+          "por": 12.9,
+          "url": "https://store.steampowered.com/app/1057090/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 129,
+        "por": 12.9,
+        "url": "https://store.steampowered.com/app/1057090/?cc=br"
       },
       "desconto": 90
     },
@@ -130,27 +151,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "sekiro-shadows-die-twice-goty-edition",
-      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-      "appid": 814380,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 274,
-          "por": 137,
-          "url": "https://store.steampowered.com/app/814380/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 274,
-        "por": 137,
-        "url": "https://store.steampowered.com/app/814380/?cc=br"
       },
       "desconto": 50
     },
