@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-07T17:45:54.651Z",
+  "atualizado": "2026-10-07T18:17:21.726Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -44,27 +44,6 @@
       "desconto": 90
     },
     {
-      "id": "ori-and-the-will-of-the-wisps",
-      "titulo": "Ori and the Will of the Wisps",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
-      "appid": 1057090,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 129,
-          "por": 12.9,
-          "url": "https://store.steampowered.com/app/1057090/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 129,
-        "por": 12.9,
-        "url": "https://store.steampowered.com/app/1057090/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
@@ -105,6 +84,27 @@
         "url": "https://store.steampowered.com/app/1091500/?cc=br"
       },
       "desconto": 70
+    },
+    {
+      "id": "marvel-s-spider-man-remastered",
+      "titulo": "Marvel’s Spider-Man Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "appid": 1817070,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 99.96,
+          "url": "https://store.steampowered.com/app/1817070/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 99.96,
+        "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -155,25 +155,25 @@
       "desconto": 50
     },
     {
-      "id": "project-zomboid",
-      "titulo": "Project Zomboid",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-      "appid": 108600,
+      "id": "how-to-fish",
+      "titulo": "How to Fish",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4001890/45c4ddff4901e32c4b8b643e1b97d0d01898d299/header.jpg?t=1788788717",
+      "appid": 4001890,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 83.99,
-          "por": 56.27,
-          "url": "https://store.steampowered.com/app/108600/?cc=br"
+          "de": 23.99,
+          "por": 14.87,
+          "url": "https://store.steampowered.com/app/4001890/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 83.99,
-        "por": 56.27,
-        "url": "https://store.steampowered.com/app/108600/?cc=br"
+        "de": 23.99,
+        "por": 14.87,
+        "url": "https://store.steampowered.com/app/4001890/?cc=br"
       },
-      "desconto": 33
+      "desconto": 38
     },
     {
       "id": "baldur-s-gate-3",
