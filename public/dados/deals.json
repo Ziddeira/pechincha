@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T19:45:44.095Z",
+  "atualizado": "2026-10-08T20:15:31.536Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -128,23 +128,23 @@
       "desconto": 50
     },
     {
-      "id": "outer-wilds",
-      "titulo": "Outer Wilds",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
-      "appid": 753640,
+      "id": "arc-raiders-upgrade-to-deluxe-edition",
+      "titulo": "ARC Raiders - Upgrade to Deluxe Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3948510/4b2bf21553e133eb88b5766370a1684acdc2d9d6/header.jpg?t=1761816660",
+      "appid": 3948510,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 67.99,
-          "por": 33.99,
-          "url": "https://store.steampowered.com/app/753640/?cc=br"
+          "de": 80,
+          "por": 40,
+          "url": "https://store.steampowered.com/app/3948510/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 67.99,
-        "por": 33.99,
-        "url": "https://store.steampowered.com/app/753640/?cc=br"
+        "de": 80,
+        "por": 40,
+        "url": "https://store.steampowered.com/app/3948510/?cc=br"
       },
       "desconto": 50
     },
