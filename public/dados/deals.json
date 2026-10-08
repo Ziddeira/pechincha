@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T02:13:41.777Z",
+  "atualizado": "2026-10-08T02:44:28.036Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -63,27 +63,6 @@
         "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "sons-of-the-forest",
-      "titulo": "Sons Of The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-      "appid": 1326470,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 88.99,
-          "por": 25.8,
-          "url": "https://store.steampowered.com/app/1326470/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 88.99,
-        "por": 25.8,
-        "url": "https://store.steampowered.com/app/1326470/?cc=br"
-      },
-      "desconto": 71
     },
     {
       "id": "cyberpunk-2077",
@@ -151,6 +130,27 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "sekiro-shadows-die-twice-goty-edition",
+      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "appid": 814380,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 274,
+          "por": 137,
+          "url": "https://store.steampowered.com/app/814380/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 274,
+        "por": 137,
+        "url": "https://store.steampowered.com/app/814380/?cc=br"
       },
       "desconto": 50
     },
