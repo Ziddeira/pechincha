@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T17:45:37.566Z",
+  "atualizado": "2026-10-08T18:16:45.737Z",
   "itens": [
     {
       "id": "kingdom-two-crowns",
@@ -149,27 +149,6 @@
       "desconto": 50
     },
     {
-      "id": "core-keeper",
-      "titulo": "Core Keeper",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
-      "appid": 1621690,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/1621690/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/1621690/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "palworld",
       "titulo": "Palworld",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
@@ -189,6 +168,27 @@
         "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "invokyr",
+      "titulo": "Invokyr",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791466176",
+      "appid": 3883570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 47.99,
+          "por": 35.99,
+          "url": "https://store.steampowered.com/app/3883570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 47.99,
+        "por": 35.99,
+        "url": "https://store.steampowered.com/app/3883570/?cc=br"
+      },
+      "desconto": 25
     },
     {
       "id": "big-walk",
