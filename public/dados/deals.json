@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-10-08T17:15:27.585Z",
+  "atualizado": "2026-10-08T17:45:37.566Z",
   "itens": [
+    {
+      "id": "kingdom-two-crowns",
+      "titulo": "Kingdom Two Crowns",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/701160/84f80b39706d257e9b048904b5975a9d4d8d9016/header_alt_assets_18.jpg?t=1791479063",
+      "appid": 701160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 59.99,
+          "por": 5.99,
+          "url": "https://store.steampowered.com/app/701160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 59.99,
+        "por": 5.99,
+        "url": "https://store.steampowered.com/app/701160/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -23,17 +44,32 @@
       "desconto": 75
     },
     {
+      "id": "street-fighter-6",
+      "titulo": "Street Fighter™ 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1789611360",
+      "appid": 1364780,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 71.6,
+          "url": "https://store.steampowered.com/app/1364780/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 71.6,
+        "url": "https://store.steampowered.com/app/1364780/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
       "appid": 3240220,
       "ofertas": [
-        {
-          "loja": "steam",
-          "de": 224.9,
-          "por": 98.95,
-          "url": "https://store.steampowered.com/app/3240220/?cc=br"
-        },
         {
           "loja": "steam",
           "de": 224.9,
@@ -90,6 +126,90 @@
         "url": "https://store.steampowered.com/app/814380/?cc=br"
       },
       "desconto": 50
+    },
+    {
+      "id": "terraria",
+      "titulo": "Terraria",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
+      "appid": 105600,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 32.99,
+          "por": 16.49,
+          "url": "https://store.steampowered.com/app/105600/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 32.99,
+        "por": 16.49,
+        "url": "https://store.steampowered.com/app/105600/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "core-keeper",
+      "titulo": "Core Keeper",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
+      "appid": 1621690,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 59.99,
+          "por": 35.99,
+          "url": "https://store.steampowered.com/app/1621690/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 59.99,
+        "por": 35.99,
+        "url": "https://store.steampowered.com/app/1621690/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "palworld",
+      "titulo": "Palworld",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "appid": 1623730,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 88.99,
+          "por": 62.29,
+          "url": "https://store.steampowered.com/app/1623730/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 88.99,
+        "por": 62.29,
+        "url": "https://store.steampowered.com/app/1623730/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
+      "id": "big-walk",
+      "titulo": "Big Walk",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
+      "appid": 1478500,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 59.99,
+          "por": 47.99,
+          "url": "https://store.steampowered.com/app/1478500/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 59.99,
+        "por": 47.99,
+        "url": "https://store.steampowered.com/app/1478500/?cc=br"
+      },
+      "desconto": 20
     }
   ]
 }
