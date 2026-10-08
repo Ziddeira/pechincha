@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T18:16:45.737Z",
+  "atualizado": "2026-10-08T18:50:25.852Z",
   "itens": [
     {
       "id": "kingdom-two-crowns",
@@ -44,25 +44,25 @@
       "desconto": 75
     },
     {
-      "id": "street-fighter-6",
-      "titulo": "Street Fighter™ 6",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1789611360",
-      "appid": 1364780,
+      "id": "sifu",
+      "titulo": "Sifu",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1782742326",
+      "appid": 2138710,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 179,
-          "por": 71.6,
-          "url": "https://store.steampowered.com/app/1364780/?cc=br"
+          "de": 75.99,
+          "por": 18.99,
+          "url": "https://store.steampowered.com/app/2138710/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 179,
-        "por": 71.6,
-        "url": "https://store.steampowered.com/app/1364780/?cc=br"
+        "de": 75.99,
+        "por": 18.99,
+        "url": "https://store.steampowered.com/app/2138710/?cc=br"
       },
-      "desconto": 60
+      "desconto": 75
     },
     {
       "id": "grand-theft-auto-v-enhanced",
