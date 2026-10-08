@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T04:46:45.705Z",
+  "atualizado": "2026-10-08T05:14:52.619Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -44,6 +44,27 @@
       "desconto": 90
     },
     {
+      "id": "ori-and-the-will-of-the-wisps",
+      "titulo": "Ori and the Will of the Wisps",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1057090/header.jpg?t=1759530749",
+      "appid": 1057090,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 129,
+          "por": 12.9,
+          "url": "https://store.steampowered.com/app/1057090/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 129,
+        "por": 12.9,
+        "url": "https://store.steampowered.com/app/1057090/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
@@ -63,27 +84,6 @@
         "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "sons-of-the-forest",
-      "titulo": "Sons Of The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-      "appid": 1326470,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 88.99,
-          "por": 25.8,
-          "url": "https://store.steampowered.com/app/1326470/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 88.99,
-        "por": 25.8,
-        "url": "https://store.steampowered.com/app/1326470/?cc=br"
-      },
-      "desconto": 71
     },
     {
       "id": "cyberpunk-2077",
