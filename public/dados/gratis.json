@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-10-08T14:48:15.945Z",
+  "atualizado": "2026-10-08T15:15:51.697Z",
   "itens": [
     {
-      "id": "system-shock-2-25th-anniversary-remaster",
-      "titulo": "System Shock 2: 25th Anniversary Remaster",
+      "id": "out-of-sight",
+      "titulo": "Out of Sight",
       "loja": "epic",
-      "de": 80.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/690ff600d5134d9ab12c96862ed5257a/system-shock-2-25th-anniversary-remaster-1e28j.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/system-shock-2-25th-anniversary-remaster-cb94d9",
-      "acaba": "2026-10-08T15:00:00.000Z"
+      "de": 44.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/out-of-sight-b96ca8",
+      "acaba": "2026-10-15T15:00:00.000Z"
     },
     {
-      "id": "buried-stars",
-      "titulo": "BURIED STARS",
+      "id": "terrascape",
+      "titulo": "TerraScape",
       "loja": "epic",
-      "de": 75.49,
-      "capa": "https://cdn1.epicgames.com/spt-assets/e2dc55c2709641a18fc37ef7ce32cfdd/buried-stars-1j9of.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/buried-stars-d7c88c",
-      "acaba": "2026-10-08T15:00:00.000Z"
+      "de": 44.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
+      "url": "https://store.epicgames.com/pt-BR/p/terrascape-2b12b1",
+      "acaba": "2026-10-15T15:00:00.000Z"
     }
   ]
 }
