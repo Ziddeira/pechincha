@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T11:45:44.999Z",
+  "atualizado": "2026-10-08T12:19:15.028Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -134,27 +134,6 @@
       "desconto": 50
     },
     {
-      "id": "sekiro-shadows-die-twice-goty-edition",
-      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-      "appid": 814380,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 274,
-          "por": 137,
-          "url": "https://store.steampowered.com/app/814380/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 274,
-        "por": 137,
-        "url": "https://store.steampowered.com/app/814380/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "arc-raiders",
       "titulo": "ARC Raiders",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
@@ -172,6 +151,27 @@
         "de": 169,
         "por": 84.5,
         "url": "https://store.steampowered.com/app/1808500/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "sekiro-shadows-die-twice-goty-edition",
+      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "appid": 814380,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 274,
+          "por": 137,
+          "url": "https://store.steampowered.com/app/814380/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 274,
+        "por": 137,
+        "url": "https://store.steampowered.com/app/814380/?cc=br"
       },
       "desconto": 50
     },
