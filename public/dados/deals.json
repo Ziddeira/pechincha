@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T10:16:20.782Z",
+  "atualizado": "2026-10-08T10:46:52.176Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -155,25 +155,25 @@
       "desconto": 50
     },
     {
-      "id": "project-zomboid",
-      "titulo": "Project Zomboid",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/108600/header.jpg?t=1787740093",
-      "appid": 108600,
+      "id": "arc-raiders",
+      "titulo": "ARC Raiders",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
+      "appid": 1808500,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 83.99,
-          "por": 56.27,
-          "url": "https://store.steampowered.com/app/108600/?cc=br"
+          "de": 169,
+          "por": 84.5,
+          "url": "https://store.steampowered.com/app/1808500/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 83.99,
-        "por": 56.27,
-        "url": "https://store.steampowered.com/app/108600/?cc=br"
+        "de": 169,
+        "por": 84.5,
+        "url": "https://store.steampowered.com/app/1808500/?cc=br"
       },
-      "desconto": 33
+      "desconto": 50
     },
     {
       "id": "baldur-s-gate-3",
