@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T19:15:09.539Z",
+  "atualizado": "2026-10-08T19:45:44.095Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -128,25 +128,25 @@
       "desconto": 50
     },
     {
-      "id": "core-keeper",
-      "titulo": "Core Keeper",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
-      "appid": 1621690,
+      "id": "outer-wilds",
+      "titulo": "Outer Wilds",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/753640/079ae4a7ff4b5875adc5c63c4c0b84e5a3e6966b/header.jpg?t=1785424341",
+      "appid": 753640,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 59.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/1621690/?cc=br"
+          "de": 67.99,
+          "por": 33.99,
+          "url": "https://store.steampowered.com/app/753640/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 59.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/1621690/?cc=br"
+        "de": 67.99,
+        "por": 33.99,
+        "url": "https://store.steampowered.com/app/753640/?cc=br"
       },
-      "desconto": 40
+      "desconto": 50
     },
     {
       "id": "palworld",
@@ -191,25 +191,25 @@
       "desconto": 25
     },
     {
-      "id": "big-walk",
-      "titulo": "Big Walk",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1478500/62eeee1507dbac905e128a62f2ce690550238db0/header.jpg?t=1785911674",
-      "appid": 1478500,
+      "id": "silver-pines",
+      "titulo": "Silver Pines",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2333000/2ce661be5b6e60b8fcc92ecdf3f9dc2dca2a9037/header.jpg?t=1791483390",
+      "appid": 2333000,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 59.99,
-          "por": 47.99,
-          "url": "https://store.steampowered.com/app/1478500/?cc=br"
+          "de": 67.99,
+          "por": 61.19,
+          "url": "https://store.steampowered.com/app/2333000/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 59.99,
-        "por": 47.99,
-        "url": "https://store.steampowered.com/app/1478500/?cc=br"
+        "de": 67.99,
+        "por": 61.19,
+        "url": "https://store.steampowered.com/app/2333000/?cc=br"
       },
-      "desconto": 20
+      "desconto": 10
     }
   ]
 }
