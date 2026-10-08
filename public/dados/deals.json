@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-08T01:16:20.809Z",
+  "atualizado": "2026-10-08T01:45:59.315Z",
   "itens": [
     {
       "id": "the-outlast-trials",
@@ -63,6 +63,27 @@
         "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
       "desconto": 75
+    },
+    {
+      "id": "sons-of-the-forest",
+      "titulo": "Sons Of The Forest",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
+      "appid": 1326470,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 88.99,
+          "por": 25.8,
+          "url": "https://store.steampowered.com/app/1326470/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 88.99,
+        "por": 25.8,
+        "url": "https://store.steampowered.com/app/1326470/?cc=br"
+      },
+      "desconto": 71
     },
     {
       "id": "cyberpunk-2077",
@@ -130,27 +151,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "arc-raiders",
-      "titulo": "ARC Raiders",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/04baafaf64a5aa5f46ecda5d71889a4848dc0628/header.jpg?t=1791401542",
-      "appid": 1808500,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/1808500/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/1808500/?cc=br"
       },
       "desconto": 50
     },
