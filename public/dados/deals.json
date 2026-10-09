@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T17:45:27.709Z",
+  "atualizado": "2026-10-09T18:16:04.638Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -149,25 +149,25 @@
       "desconto": 50
     },
     {
-      "id": "invokyr",
-      "titulo": "Invokyr",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-      "appid": 3883570,
+      "id": "palworld",
+      "titulo": "Palworld",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "appid": 1623730,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 47.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/3883570/?cc=br"
+          "de": 88.99,
+          "por": 62.29,
+          "url": "https://store.steampowered.com/app/1623730/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 47.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/3883570/?cc=br"
+        "de": 88.99,
+        "por": 62.29,
+        "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
-      "desconto": 25
+      "desconto": 30
     },
     {
       "id": "car-park-capital",
