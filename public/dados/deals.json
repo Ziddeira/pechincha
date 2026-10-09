@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-10-09T05:14:20.114Z",
+  "atualizado": "2026-10-09T05:46:37.288Z",
   "itens": [
+    {
+      "id": "sos-ops",
+      "titulo": "SOS OPS!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/a0a7b4a2b2526ae76cab0f0ba6e87e63d962c1a7/header.jpg?t=1791094099",
+      "appid": 2475460,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 22.99,
+          "por": 2.29,
+          "url": "https://store.steampowered.com/app/2475460/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 22.99,
+        "por": 2.29,
+        "url": "https://store.steampowered.com/app/2475460/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -42,27 +63,6 @@
         "url": "https://store.steampowered.com/app/2138710/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "risk-of-rain-2",
-      "titulo": "Risk of Rain 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
-      "appid": 632360,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 19.79,
-          "url": "https://store.steampowered.com/app/632360/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 19.79,
-        "url": "https://store.steampowered.com/app/632360/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "grand-theft-auto-v-enhanced",
