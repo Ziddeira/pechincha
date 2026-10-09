@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-09T05:46:37.288Z",
+  "atualizado": "2026-10-09T06:19:35.173Z",
   "itens": [
-    {
-      "id": "sos-ops",
-      "titulo": "SOS OPS!",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2475460/a0a7b4a2b2526ae76cab0f0ba6e87e63d962c1a7/header.jpg?t=1791094099",
-      "appid": 2475460,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 22.99,
-          "por": 2.29,
-          "url": "https://store.steampowered.com/app/2475460/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 22.99,
-        "por": 2.29,
-        "url": "https://store.steampowered.com/app/2475460/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -63,6 +42,27 @@
         "url": "https://store.steampowered.com/app/2138710/?cc=br"
       },
       "desconto": 75
+    },
+    {
+      "id": "hell-is-us",
+      "titulo": "Hell is Us",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/dfcfb243a5ce1352f2bb080b1eb531ce0cd2cccc/header_alt_assets_0.jpg?t=1791467530",
+      "appid": 1620730,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179.99,
+          "por": 53.99,
+          "url": "https://store.steampowered.com/app/1620730/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179.99,
+        "por": 53.99,
+        "url": "https://store.steampowered.com/app/1620730/?cc=br"
+      },
+      "desconto": 70
     },
     {
       "id": "grand-theft-auto-v-enhanced",
