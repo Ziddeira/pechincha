@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T01:19:08.909Z",
+  "atualizado": "2026-10-09T01:47:12.967Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -44,25 +44,25 @@
       "desconto": 75
     },
     {
-      "id": "hell-is-us",
-      "titulo": "Hell is Us",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/dfcfb243a5ce1352f2bb080b1eb531ce0cd2cccc/header_alt_assets_0.jpg?t=1791467530",
-      "appid": 1620730,
+      "id": "risk-of-rain-2",
+      "titulo": "Risk of Rain 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
+      "appid": 632360,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 179.99,
-          "por": 53.99,
-          "url": "https://store.steampowered.com/app/1620730/?cc=br"
+          "de": 59.99,
+          "por": 19.79,
+          "url": "https://store.steampowered.com/app/632360/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 179.99,
-        "por": 53.99,
-        "url": "https://store.steampowered.com/app/1620730/?cc=br"
+        "de": 59.99,
+        "por": 19.79,
+        "url": "https://store.steampowered.com/app/632360/?cc=br"
       },
-      "desconto": 70
+      "desconto": 67
     },
     {
       "id": "grand-theft-auto-v-enhanced",
