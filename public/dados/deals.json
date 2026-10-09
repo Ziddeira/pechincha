@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T20:46:14.948Z",
+  "atualizado": "2026-10-09T21:14:04.386Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -128,6 +128,27 @@
       "desconto": 50
     },
     {
+      "id": "bombanana",
+      "titulo": "BOMBANANA!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+      "appid": 4656000,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 19.99,
+          "por": 11.99,
+          "url": "https://store.steampowered.com/app/4656000/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 19.99,
+        "por": 11.99,
+        "url": "https://store.steampowered.com/app/4656000/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
       "id": "palworld",
       "titulo": "Palworld",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
@@ -147,27 +168,6 @@
         "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "invokyr",
-      "titulo": "Invokyr",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-      "appid": 3883570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 47.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/3883570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 47.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/3883570/?cc=br"
-      },
-      "desconto": 25
     },
     {
       "id": "car-park-capital",
