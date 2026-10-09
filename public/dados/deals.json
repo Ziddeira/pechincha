@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T13:18:07.870Z",
+  "atualizado": "2026-10-09T13:47:26.189Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -42,6 +42,27 @@
         "url": "https://store.steampowered.com/app/2138710/?cc=br"
       },
       "desconto": 75
+    },
+    {
+      "id": "hell-is-us",
+      "titulo": "Hell is Us",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/dfcfb243a5ce1352f2bb080b1eb531ce0cd2cccc/header_alt_assets_0.jpg?t=1791467530",
+      "appid": 1620730,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179.99,
+          "por": 53.99,
+          "url": "https://store.steampowered.com/app/1620730/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179.99,
+        "por": 53.99,
+        "url": "https://store.steampowered.com/app/1620730/?cc=br"
+      },
+      "desconto": 70
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -147,27 +168,6 @@
         "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "invokyr",
-      "titulo": "Invokyr",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
-      "appid": 3883570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 47.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/3883570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 47.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/3883570/?cc=br"
-      },
-      "desconto": 25
     },
     {
       "id": "car-park-capital",
