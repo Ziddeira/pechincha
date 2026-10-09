@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-09T06:19:35.173Z",
+  "atualizado": "2026-10-09T06:52:57.479Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -44,25 +44,25 @@
       "desconto": 75
     },
     {
-      "id": "hell-is-us",
-      "titulo": "Hell is Us",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1620730/dfcfb243a5ce1352f2bb080b1eb531ce0cd2cccc/header_alt_assets_0.jpg?t=1791467530",
-      "appid": 1620730,
+      "id": "street-fighter-6",
+      "titulo": "Street Fighter™ 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1789611360",
+      "appid": 1364780,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 179.99,
-          "por": 53.99,
-          "url": "https://store.steampowered.com/app/1620730/?cc=br"
+          "de": 179,
+          "por": 71.6,
+          "url": "https://store.steampowered.com/app/1364780/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 179.99,
-        "por": 53.99,
-        "url": "https://store.steampowered.com/app/1620730/?cc=br"
+        "de": 179,
+        "por": 71.6,
+        "url": "https://store.steampowered.com/app/1364780/?cc=br"
       },
-      "desconto": 70
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
