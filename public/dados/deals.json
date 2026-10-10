@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-10T09:44:45.614Z",
+  "atualizado": "2026-10-10T10:12:48.531Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -170,25 +170,25 @@
       "desconto": 30
     },
     {
-      "id": "permafrost",
-      "titulo": "Permafrost",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
-      "appid": 2254990,
+      "id": "car-park-capital",
+      "titulo": "Car Park Capital",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
+      "appid": 3031880,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 99,
-          "por": 79.2,
-          "url": "https://store.steampowered.com/app/2254990/?cc=br"
+          "de": 54.99,
+          "por": 49.49,
+          "url": "https://store.steampowered.com/app/3031880/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 99,
-        "por": 79.2,
-        "url": "https://store.steampowered.com/app/2254990/?cc=br"
+        "de": 54.99,
+        "por": 49.49,
+        "url": "https://store.steampowered.com/app/3031880/?cc=br"
       },
-      "desconto": 20
+      "desconto": 10
     },
     {
       "id": "silver-pines",
