@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-10T08:45:01.654Z",
+  "atualizado": "2026-10-10T09:13:27.142Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -65,27 +65,6 @@
       "desconto": 56
     },
     {
-      "id": "sekiro-shadows-die-twice-goty-edition",
-      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-      "appid": 814380,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 274,
-          "por": 137,
-          "url": "https://store.steampowered.com/app/814380/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 274,
-        "por": 137,
-        "url": "https://store.steampowered.com/app/814380/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "arc-raiders",
       "titulo": "ARC Raiders",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
@@ -103,6 +82,27 @@
         "de": 169,
         "por": 84.5,
         "url": "https://store.steampowered.com/app/1808500/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "sekiro-shadows-die-twice-goty-edition",
+      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
+      "appid": 814380,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 274,
+          "por": 137,
+          "url": "https://store.steampowered.com/app/814380/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 274,
+        "por": 137,
+        "url": "https://store.steampowered.com/app/814380/?cc=br"
       },
       "desconto": 50
     },
@@ -149,46 +149,25 @@
       "desconto": 40
     },
     {
-      "id": "permafrost",
-      "titulo": "Permafrost",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2254990/693eff202c061aaecba330b44d76485a672bea97/header.jpg?t=1791608052",
-      "appid": 2254990,
+      "id": "palworld",
+      "titulo": "Palworld",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "appid": 1623730,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 99,
-          "por": 79.2,
-          "url": "https://store.steampowered.com/app/2254990/?cc=br"
+          "de": 88.99,
+          "por": 62.29,
+          "url": "https://store.steampowered.com/app/1623730/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 99,
-        "por": 79.2,
-        "url": "https://store.steampowered.com/app/2254990/?cc=br"
+        "de": 88.99,
+        "por": 62.29,
+        "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
-      "desconto": 20
-    },
-    {
-      "id": "car-park-capital",
-      "titulo": "Car Park Capital",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
-      "appid": 3031880,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 54.99,
-          "por": 49.49,
-          "url": "https://store.steampowered.com/app/3031880/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 54.99,
-        "por": 49.49,
-        "url": "https://store.steampowered.com/app/3031880/?cc=br"
-      },
-      "desconto": 10
+      "desconto": 30
     },
     {
       "id": "silver-pines",
@@ -208,6 +187,27 @@
         "de": 67.99,
         "por": 61.19,
         "url": "https://store.steampowered.com/app/2333000/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "car-park-capital",
+      "titulo": "Car Park Capital",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3031880/960c0affe982b417e12a77e78b24bdb6b615c5c5/header.jpg?t=1791611273",
+      "appid": 3031880,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 54.99,
+          "por": 49.49,
+          "url": "https://store.steampowered.com/app/3031880/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 54.99,
+        "por": 49.49,
+        "url": "https://store.steampowered.com/app/3031880/?cc=br"
       },
       "desconto": 10
     }
