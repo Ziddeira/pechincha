@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-12T09:36:58.991Z",
+  "atualizado": "2026-10-12T19:41:12.403Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -23,46 +23,25 @@
       "desconto": 75
     },
     {
-      "id": "sifu",
-      "titulo": "Sifu",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1782742326",
-      "appid": 2138710,
+      "id": "halo-the-master-chief-collection",
+      "titulo": "Halo: The Master Chief Collection",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
+      "appid": 376282,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 75.99,
-          "por": 18.99,
-          "url": "https://store.steampowered.com/app/2138710/?cc=br"
+          "de": 199,
+          "por": 49.75,
+          "url": "https://store.steampowered.com/app/376282/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 75.99,
-        "por": 18.99,
-        "url": "https://store.steampowered.com/app/2138710/?cc=br"
+        "de": 199,
+        "por": 49.75,
+        "url": "https://store.steampowered.com/app/376282/?cc=br"
       },
       "desconto": 75
-    },
-    {
-      "id": "risk-of-rain-2",
-      "titulo": "Risk of Rain 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/632360/77f4cff7fea7de8a4566d1fb76ace16967604da7/header_alt_assets_7.jpg?t=1791475448",
-      "appid": 632360,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 19.79,
-          "url": "https://store.steampowered.com/app/632360/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 19.79,
-        "url": "https://store.steampowered.com/app/632360/?cc=br"
-      },
-      "desconto": 67
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -149,27 +128,6 @@
       "desconto": 50
     },
     {
-      "id": "bombanana",
-      "titulo": "BOMBANANA!",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
-      "appid": 4656000,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 19.99,
-          "por": 11.99,
-          "url": "https://store.steampowered.com/app/4656000/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 19.99,
-        "por": 11.99,
-        "url": "https://store.steampowered.com/app/4656000/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "core-keeper",
       "titulo": "Core Keeper",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1621690/4d3798fbb307f52d9e11ed5b5f665779097b2f55/header_alt_assets_12.jpg?t=1791454740",
@@ -187,6 +145,27 @@
         "de": 59.99,
         "por": 35.99,
         "url": "https://store.steampowered.com/app/1621690/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "bombanana",
+      "titulo": "BOMBANANA!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+      "appid": 4656000,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 19.99,
+          "por": 11.99,
+          "url": "https://store.steampowered.com/app/4656000/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 19.99,
+        "por": 11.99,
+        "url": "https://store.steampowered.com/app/4656000/?cc=br"
       },
       "desconto": 40
     },
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "invokyr",
+      "titulo": "Invokyr",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3883570/a1d37fb2bf0de54d1746d1aa4b83fb7ca81700d8/header.jpg?t=1791547174",
+      "appid": 3883570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 47.99,
+          "por": 35.99,
+          "url": "https://store.steampowered.com/app/3883570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 47.99,
+        "por": 35.99,
+        "url": "https://store.steampowered.com/app/3883570/?cc=br"
+      },
+      "desconto": 25
     }
   ]
 }
