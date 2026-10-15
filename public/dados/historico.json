@@ -752,5 +752,26 @@
       "loja": "steam",
       "em": "2026-10-15T19:19:19.735Z"
     }
+  ],
+  "hogwarts-legacy": [
+    {
+      "por": 24.99,
+      "loja": "steam",
+      "em": "2026-10-15T22:35:40.284Z"
+    }
+  ],
+  "chained-beasts": [
+    {
+      "por": 44.19,
+      "loja": "steam",
+      "em": "2026-10-15T22:35:40.284Z"
+    }
+  ],
+  "runescape-dragonwilds": [
+    {
+      "por": 80.49,
+      "loja": "steam",
+      "em": "2026-10-15T22:35:40.284Z"
+    }
   ]
 }
