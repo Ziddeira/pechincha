@@ -1,23 +1,14 @@
 {
-  "atualizado": "2026-10-15T10:12:47.528Z",
+  "atualizado": "2026-10-15T15:15:18.879Z",
   "itens": [
     {
-      "id": "out-of-sight",
-      "titulo": "Out of Sight",
+      "id": "agent-a-o-enigma-disfarcado",
+      "titulo": "Agent A: O enigma disfarçado",
       "loja": "epic",
-      "de": 44.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/6e1bf54cfa6344c89d41e4e7af036ac9/out-of-sight-1l12n.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/out-of-sight-b96ca8",
-      "acaba": "2026-10-15T15:00:00.000Z"
-    },
-    {
-      "id": "terrascape",
-      "titulo": "TerraScape",
-      "loja": "epic",
-      "de": 44.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/a740a2eed807469f88b9dff17e7cd3a3/terrascape-j7p8d.png",
-      "url": "https://store.epicgames.com/pt-BR/p/terrascape-2b12b1",
-      "acaba": "2026-10-15T15:00:00.000Z"
+      "de": 52.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
+      "url": "https://store.epicgames.com/pt-BR/p/agent-a-a-puzzle-in-disguise-42fe5f",
+      "acaba": "2026-10-22T15:00:00.000Z"
     }
   ]
 }
