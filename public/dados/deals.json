@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-15T15:15:18.877Z",
+  "atualizado": "2026-10-15T19:19:19.735Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -107,67 +107,67 @@
       "desconto": 56
     },
     {
-      "id": "arc-raiders",
-      "titulo": "ARC Raiders",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1808500/29e8af9fbf06833558758f94cfb406746f338c45/header_alt_assets_8.jpg?t=1791401542",
-      "appid": 1808500,
+      "id": "cyberpunk-2077-phantom-liberty",
+      "titulo": "Cyberpunk 2077: Phantom Liberty",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
+      "appid": 2138330,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/1808500/?cc=br"
+          "de": 99.99,
+          "por": 59.99,
+          "url": "https://store.steampowered.com/app/2138330/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/1808500/?cc=br"
+        "de": 99.99,
+        "por": 59.99,
+        "url": "https://store.steampowered.com/app/2138330/?cc=br"
       },
-      "desconto": 50
+      "desconto": 40
     },
     {
-      "id": "sekiro-shadows-die-twice-goty-edition",
-      "titulo": "Sekiro™: Shadows Die Twice - GOTY Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/814380/header.jpg?t=1762888662",
-      "appid": 814380,
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
+      "appid": 3768760,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 274,
-          "por": 137,
-          "url": "https://store.steampowered.com/app/814380/?cc=br"
+          "de": 299,
+          "por": 179.4,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 274,
-        "por": 137,
-        "url": "https://store.steampowered.com/app/814380/?cc=br"
+        "de": 299,
+        "por": 179.4,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
-      "desconto": 50
+      "desconto": 40
     },
     {
-      "id": "terraria",
-      "titulo": "Terraria",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/105600/header.jpg?t=1769844435",
-      "appid": 105600,
+      "id": "palworld",
+      "titulo": "Palworld",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "appid": 1623730,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 32.99,
-          "por": 16.49,
-          "url": "https://store.steampowered.com/app/105600/?cc=br"
+          "de": 88.99,
+          "por": 62.29,
+          "url": "https://store.steampowered.com/app/1623730/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 32.99,
-        "por": 16.49,
-        "url": "https://store.steampowered.com/app/105600/?cc=br"
+        "de": 88.99,
+        "por": 62.29,
+        "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
-      "desconto": 50
+      "desconto": 30
     },
     {
       "id": "over-the-hill",
@@ -191,23 +191,23 @@
       "desconto": 20
     },
     {
-      "id": "dayz-badlands",
-      "titulo": "DayZ Badlands",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3816030/a14cce662d9a779789852279c1d2006e48a1cb03/header.jpg?t=1792059040",
-      "appid": 3816030,
+      "id": "enshrouded",
+      "titulo": "Enshrouded",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "appid": 1203620,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 79.99,
-          "por": 71.99,
-          "url": "https://store.steampowered.com/app/3816030/?cc=br"
+          "de": 119.99,
+          "por": 107.99,
+          "url": "https://store.steampowered.com/app/1203620/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 79.99,
-        "por": 71.99,
-        "url": "https://store.steampowered.com/app/3816030/?cc=br"
+        "de": 119.99,
+        "por": 107.99,
+        "url": "https://store.steampowered.com/app/1203620/?cc=br"
       },
       "desconto": 10
     }
