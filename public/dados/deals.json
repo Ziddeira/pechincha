@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-16T01:03:15.353Z",
+  "atualizado": "2026-10-16T06:12:20.798Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -23,6 +23,27 @@
       "desconto": 90
     },
     {
+      "id": "batman-arkham-collection",
+      "titulo": "Batman: Arkham Collection",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/320795/header_ratio.jpg?t=1775683257",
+      "appid": 320795,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 279.99,
+          "por": 41.99,
+          "url": "https://store.steampowered.com/app/320795/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 279.99,
+        "por": 41.99,
+        "url": "https://store.steampowered.com/app/320795/?cc=br"
+      },
+      "desconto": 85
+    },
+    {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
@@ -44,23 +65,23 @@
       "desconto": 75
     },
     {
-      "id": "halo-the-master-chief-collection",
-      "titulo": "Halo: The Master Chief Collection",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
-      "appid": 376282,
+      "id": "warhammer-40-000-space-marine-2",
+      "titulo": "Warhammer 40,000: Space Marine 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
+      "appid": 2183900,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199,
-          "por": 49.75,
-          "url": "https://store.steampowered.com/app/376282/?cc=br"
+          "de": 199.9,
+          "por": 49.97,
+          "url": "https://store.steampowered.com/app/2183900/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199,
-        "por": 49.75,
-        "url": "https://store.steampowered.com/app/376282/?cc=br"
+        "de": 199.9,
+        "por": 49.97,
+        "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
       "desconto": 75
     },
@@ -126,27 +147,6 @@
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 40
-    },
-    {
-      "id": "chained-beasts",
-      "titulo": "Chained Beasts",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3569420/be237edbd1bdbcf361d7b315d70e89fea3b5262a/header.jpg?t=1792082632",
-      "appid": 3569420,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 67.99,
-          "por": 44.19,
-          "url": "https://store.steampowered.com/app/3569420/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 67.99,
-        "por": 44.19,
-        "url": "https://store.steampowered.com/app/3569420/?cc=br"
-      },
-      "desconto": 35
     },
     {
       "id": "runescape-dragonwilds",
