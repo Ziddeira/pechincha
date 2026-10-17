@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-16T22:40:15.954Z",
+  "atualizado": "2026-10-17T01:10:00.316Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -65,27 +65,6 @@
       "desconto": 75
     },
     {
-      "id": "halo-the-master-chief-collection",
-      "titulo": "Halo: The Master Chief Collection",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
-      "appid": 376282,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 49.75,
-          "url": "https://store.steampowered.com/app/376282/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 49.75,
-        "url": "https://store.steampowered.com/app/376282/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "cyberpunk-2077",
       "titulo": "Cyberpunk 2077",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
@@ -145,6 +124,27 @@
         "de": 299,
         "por": 179.4,
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "bombanana",
+      "titulo": "BOMBANANA!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+      "appid": 4656000,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 19.99,
+          "por": 11.99,
+          "url": "https://store.steampowered.com/app/4656000/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 19.99,
+        "por": 11.99,
+        "url": "https://store.steampowered.com/app/4656000/?cc=br"
       },
       "desconto": 40
     },
