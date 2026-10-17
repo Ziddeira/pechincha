@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-17T05:57:54.918Z",
+  "atualizado": "2026-10-17T10:31:38.699Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -128,23 +128,23 @@
       "desconto": 40
     },
     {
-      "id": "bombanana",
-      "titulo": "BOMBANANA!",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
-      "appid": 4656000,
+      "id": "cyberpunk-2077-phantom-liberty",
+      "titulo": "Cyberpunk 2077: Phantom Liberty",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
+      "appid": 2138330,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 19.99,
-          "por": 11.99,
-          "url": "https://store.steampowered.com/app/4656000/?cc=br"
+          "de": 99.99,
+          "por": 59.99,
+          "url": "https://store.steampowered.com/app/2138330/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 19.99,
-        "por": 11.99,
-        "url": "https://store.steampowered.com/app/4656000/?cc=br"
+        "de": 99.99,
+        "por": 59.99,
+        "url": "https://store.steampowered.com/app/2138330/?cc=br"
       },
       "desconto": 40
     },
