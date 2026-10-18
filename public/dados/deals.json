@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-18T16:49:02.404Z",
+  "atualizado": "2026-10-18T19:18:07.252Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -149,27 +149,6 @@
       "desconto": 40
     },
     {
-      "id": "cyberpunk-2077-phantom-liberty",
-      "titulo": "Cyberpunk 2077: Phantom Liberty",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138330/bdbeea292270b8cd9dde1f2044a411624db58657/header.jpg?t=1784713876",
-      "appid": 2138330,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99.99,
-          "por": 59.99,
-          "url": "https://store.steampowered.com/app/2138330/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99.99,
-        "por": 59.99,
-        "url": "https://store.steampowered.com/app/2138330/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "runescape-dragonwilds",
       "titulo": "RuneScape: Dragonwilds",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
@@ -189,6 +168,27 @@
         "url": "https://store.steampowered.com/app/1374490/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "over-the-hill",
+      "titulo": "over the hill",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
+      "appid": 2929250,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 51.99,
+          "por": 41.59,
+          "url": "https://store.steampowered.com/app/2929250/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 51.99,
+        "por": 41.59,
+        "url": "https://store.steampowered.com/app/2929250/?cc=br"
+      },
+      "desconto": 20
     },
     {
       "id": "enshrouded",
