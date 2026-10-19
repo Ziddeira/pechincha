@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-19T10:12:09.080Z",
+  "atualizado": "2026-10-19T17:05:45.676Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -61,27 +61,6 @@
         "de": 199.9,
         "por": 49.97,
         "url": "https://store.steampowered.com/app/2183900/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
-      "id": "halo-the-master-chief-collection",
-      "titulo": "Halo: The Master Chief Collection",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/376282/header_ratio.jpg?t=1684339836",
-      "appid": 376282,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 49.75,
-          "url": "https://store.steampowered.com/app/376282/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 49.75,
-        "url": "https://store.steampowered.com/app/376282/?cc=br"
       },
       "desconto": 75
     },
