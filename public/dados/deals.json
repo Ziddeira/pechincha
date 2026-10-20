@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-20T00:57:28.841Z",
+  "atualizado": "2026-10-20T05:52:35.589Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -44,27 +44,6 @@
       "desconto": 75
     },
     {
-      "id": "warhammer-40-000-space-marine-2",
-      "titulo": "Warhammer 40,000: Space Marine 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
-      "appid": 2183900,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.9,
-          "por": 49.97,
-          "url": "https://store.steampowered.com/app/2183900/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.9,
-        "por": 49.97,
-        "url": "https://store.steampowered.com/app/2183900/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "cyberpunk-2077",
       "titulo": "Cyberpunk 2077",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
@@ -103,6 +82,27 @@
         "de": 69.99,
         "por": 27.99,
         "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "street-fighter-6",
+      "titulo": "Street Fighter™ 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1791866175",
+      "appid": 1364780,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 71.6,
+          "url": "https://store.steampowered.com/app/1364780/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 71.6,
+        "url": "https://store.steampowered.com/app/1364780/?cc=br"
       },
       "desconto": 60
     },
@@ -170,25 +170,25 @@
       "desconto": 40
     },
     {
-      "id": "over-the-hill",
-      "titulo": "over the hill",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2929250/header.jpg?t=1792002879",
-      "appid": 2929250,
+      "id": "bombanana",
+      "titulo": "BOMBANANA!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1791542068",
+      "appid": 4656000,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 51.99,
-          "por": 41.59,
-          "url": "https://store.steampowered.com/app/2929250/?cc=br"
+          "de": 19.99,
+          "por": 11.99,
+          "url": "https://store.steampowered.com/app/4656000/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 51.99,
-        "por": 41.59,
-        "url": "https://store.steampowered.com/app/2929250/?cc=br"
+        "de": 19.99,
+        "por": 11.99,
+        "url": "https://store.steampowered.com/app/4656000/?cc=br"
       },
-      "desconto": 20
+      "desconto": 40
     },
     {
       "id": "enshrouded",
