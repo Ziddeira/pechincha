@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-10-21T01:52:04.562Z",
+  "atualizado": "2026-10-21T07:16:08.247Z",
   "itens": [
+    {
+      "id": "hogwarts-legacy",
+      "titulo": "Hogwarts Legacy",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+      "appid": 990080,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.99,
+          "por": 24.99,
+          "url": "https://store.steampowered.com/app/990080/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.99,
+        "por": 24.99,
+        "url": "https://store.steampowered.com/app/990080/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -86,6 +107,27 @@
       "desconto": 60
     },
     {
+      "id": "street-fighter-6",
+      "titulo": "Street Fighter™ 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1791866175",
+      "appid": 1364780,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179,
+          "por": 71.6,
+          "url": "https://store.steampowered.com/app/1364780/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179,
+        "por": 71.6,
+        "url": "https://store.steampowered.com/app/1364780/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -105,27 +147,6 @@
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
       "desconto": 56
-    },
-    {
-      "id": "007-first-light",
-      "titulo": "007 First Light",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
-      "appid": 3768760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299,
-          "por": 179.4,
-          "url": "https://store.steampowered.com/app/3768760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299,
-        "por": 179.4,
-        "url": "https://store.steampowered.com/app/3768760/?cc=br"
-      },
-      "desconto": 40
     },
     {
       "id": "cyberpunk-2077-phantom-liberty",
@@ -149,23 +170,23 @@
       "desconto": 40
     },
     {
-      "id": "runescape-dragonwilds",
-      "titulo": "RuneScape: Dragonwilds",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
-      "appid": 1374490,
+      "id": "palworld",
+      "titulo": "Palworld",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
+      "appid": 1623730,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 114.99,
-          "por": 80.49,
-          "url": "https://store.steampowered.com/app/1374490/?cc=br"
+          "de": 88.99,
+          "por": 62.29,
+          "url": "https://store.steampowered.com/app/1623730/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 114.99,
-        "por": 80.49,
-        "url": "https://store.steampowered.com/app/1374490/?cc=br"
+        "de": 88.99,
+        "por": 62.29,
+        "url": "https://store.steampowered.com/app/1623730/?cc=br"
       },
       "desconto": 30
     },
@@ -187,27 +208,6 @@
         "de": 119.99,
         "por": 107.99,
         "url": "https://store.steampowered.com/app/1203620/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "scam-with-your-friends",
-      "titulo": "Scam With Your Friends",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792469490",
-      "appid": 4954910,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 37.49,
-          "por": 33.74,
-          "url": "https://store.steampowered.com/app/4954910/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 37.49,
-        "por": 33.74,
-        "url": "https://store.steampowered.com/app/4954910/?cc=br"
       },
       "desconto": 10
     }
