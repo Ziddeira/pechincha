@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-21T07:16:08.247Z",
+  "atualizado": "2026-10-21T13:05:08.476Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -170,25 +170,25 @@
       "desconto": 40
     },
     {
-      "id": "palworld",
-      "titulo": "Palworld",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1623730/6912f19c43a95ff5fe514eedd35e68bf12335459/header.jpg?t=1790336367",
-      "appid": 1623730,
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
+      "appid": 3768760,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 88.99,
-          "por": 62.29,
-          "url": "https://store.steampowered.com/app/1623730/?cc=br"
+          "de": 299,
+          "por": 179.4,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 88.99,
-        "por": 62.29,
-        "url": "https://store.steampowered.com/app/1623730/?cc=br"
+        "de": 299,
+        "por": 179.4,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
-      "desconto": 30
+      "desconto": 40
     },
     {
       "id": "enshrouded",
