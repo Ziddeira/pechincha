@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-21T13:05:08.476Z",
+  "atualizado": "2026-10-21T18:10:37.261Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -107,27 +107,6 @@
       "desconto": 60
     },
     {
-      "id": "street-fighter-6",
-      "titulo": "Street Fighter™ 6",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1364780/header.jpg?t=1791866175",
-      "appid": 1364780,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 179,
-          "por": 71.6,
-          "url": "https://store.steampowered.com/app/1364780/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 179,
-        "por": 71.6,
-        "url": "https://store.steampowered.com/app/1364780/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -208,6 +187,27 @@
         "de": 119.99,
         "por": 107.99,
         "url": "https://store.steampowered.com/app/1203620/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "scam-with-your-friends",
+      "titulo": "Scam With Your Friends",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
+      "appid": 4954910,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 37.49,
+          "por": 33.74,
+          "url": "https://store.steampowered.com/app/4954910/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 37.49,
+        "por": 33.74,
+        "url": "https://store.steampowered.com/app/4954910/?cc=br"
       },
       "desconto": 10
     }
