@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-21T18:10:37.261Z",
+  "atualizado": "2026-10-21T21:53:46.502Z",
   "itens": [
-    {
-      "id": "hogwarts-legacy",
-      "titulo": "Hogwarts Legacy",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
-      "appid": 990080,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.99,
-          "por": 24.99,
-          "url": "https://store.steampowered.com/app/990080/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.99,
-        "por": 24.99,
-        "url": "https://store.steampowered.com/app/990080/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -44,23 +23,23 @@
       "desconto": 75
     },
     {
-      "id": "warhammer-40-000-space-marine-2",
-      "titulo": "Warhammer 40,000: Space Marine 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
-      "appid": 2183900,
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.9,
-          "por": 49.97,
-          "url": "https://store.steampowered.com/app/2183900/?cc=br"
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.9,
-        "por": 49.97,
-        "url": "https://store.steampowered.com/app/2183900/?cc=br"
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
       },
       "desconto": 75
     },
@@ -84,27 +63,6 @@
         "url": "https://store.steampowered.com/app/1091500/?cc=br"
       },
       "desconto": 70
-    },
-    {
-      "id": "dead-by-daylight",
-      "titulo": "Dead by Daylight",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
-      "appid": 381210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 69.99,
-          "por": 27.99,
-          "url": "https://store.steampowered.com/app/381210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 69.99,
-        "por": 27.99,
-        "url": "https://store.steampowered.com/app/381210/?cc=br"
-      },
-      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -168,6 +126,48 @@
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 40
+    },
+    {
+      "id": "granblue-fantasy-relink",
+      "titulo": "Granblue Fantasy: Relink",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
+      "appid": 881020,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 129.9,
+          "por": 77.94,
+          "url": "https://store.steampowered.com/app/881020/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 129.9,
+        "por": 77.94,
+        "url": "https://store.steampowered.com/app/881020/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "enshrouded",
