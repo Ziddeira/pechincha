@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-22T05:16:30.616Z",
+  "atualizado": "2026-10-22T10:28:53.822Z",
   "itens": [
     {
       "id": "hogwarts-legacy",
@@ -67,7 +67,7 @@
     {
       "id": "cyberpunk-2077",
       "titulo": "Cyberpunk 2077",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/e9047d8ec47ae3d94bb8b464fb0fc9e9972b4ac7/header.jpg?t=1784714077",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1091500/48a93d6445a67520ea49833c93dae8f2e68fc540/header_alt_assets_9.jpg?t=1792663801",
       "appid": 1091500,
       "ofertas": [
         {
@@ -149,25 +149,25 @@
       "desconto": 40
     },
     {
-      "id": "granblue-fantasy-relink",
-      "titulo": "Granblue Fantasy: Relink",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
-      "appid": 881020,
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 129.9,
-          "por": 77.94,
-          "url": "https://store.steampowered.com/app/881020/?cc=br"
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 129.9,
-        "por": 77.94,
-        "url": "https://store.steampowered.com/app/881020/?cc=br"
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
       },
-      "desconto": 40
+      "desconto": 30
     },
     {
       "id": "scam-with-your-friends",
