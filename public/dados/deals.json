@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-10-22T00:29:06.470Z",
+  "atualizado": "2026-10-22T05:16:30.616Z",
   "itens": [
+    {
+      "id": "hogwarts-legacy",
+      "titulo": "Hogwarts Legacy",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+      "appid": 990080,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.99,
+          "por": 24.99,
+          "url": "https://store.steampowered.com/app/990080/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.99,
+        "por": 24.99,
+        "url": "https://store.steampowered.com/app/990080/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "red-dead-redemption-2",
       "titulo": "Red Dead Redemption 2",
@@ -107,27 +128,6 @@
       "desconto": 40
     },
     {
-      "id": "granblue-fantasy-relink",
-      "titulo": "Granblue Fantasy: Relink",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
-      "appid": 881020,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 129.9,
-          "por": 77.94,
-          "url": "https://store.steampowered.com/app/881020/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 129.9,
-        "por": 77.94,
-        "url": "https://store.steampowered.com/app/881020/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "007-first-light",
       "titulo": "007 First Light",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
@@ -149,25 +149,25 @@
       "desconto": 40
     },
     {
-      "id": "resident-evil-requiem",
-      "titulo": "Resident Evil Requiem",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
-      "appid": 3764200,
+      "id": "granblue-fantasy-relink",
+      "titulo": "Granblue Fantasy: Relink",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
+      "appid": 881020,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299,
-          "por": 209.3,
-          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+          "de": 129.9,
+          "por": 77.94,
+          "url": "https://store.steampowered.com/app/881020/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299,
-        "por": 209.3,
-        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        "de": 129.9,
+        "por": 77.94,
+        "url": "https://store.steampowered.com/app/881020/?cc=br"
       },
-      "desconto": 30
+      "desconto": 40
     },
     {
       "id": "scam-with-your-friends",
