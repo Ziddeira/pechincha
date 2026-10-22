@@ -1,47 +1,47 @@
 {
-  "atualizado": "2026-10-22T15:33:20.336Z",
+  "atualizado": "2026-10-22T19:49:50.505Z",
   "itens": [
     {
-      "id": "hogwarts-legacy",
-      "titulo": "Hogwarts Legacy",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
-      "appid": 990080,
+      "id": "the-walking-dead-the-telltale-definitive-series",
+      "titulo": "The Walking Dead: The Telltale Definitive Series",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
+      "appid": 1449690,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.99,
-          "por": 24.99,
-          "url": "https://store.steampowered.com/app/990080/?cc=br"
+          "de": 134.99,
+          "por": 13.49,
+          "url": "https://store.steampowered.com/app/1449690/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.99,
-        "por": 24.99,
-        "url": "https://store.steampowered.com/app/990080/?cc=br"
+        "de": 134.99,
+        "por": 13.49,
+        "url": "https://store.steampowered.com/app/1449690/?cc=br"
       },
       "desconto": 90
     },
     {
-      "id": "red-dead-redemption-2",
-      "titulo": "Red Dead Redemption 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
-      "appid": 1174180,
+      "id": "resident-evil-2",
+      "titulo": "Resident Evil 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
+      "appid": 883710,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/1174180/?cc=br"
+          "de": 169,
+          "por": 33.8,
+          "url": "https://store.steampowered.com/app/883710/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/1174180/?cc=br"
+        "de": 169,
+        "por": 33.8,
+        "url": "https://store.steampowered.com/app/883710/?cc=br"
       },
-      "desconto": 75
+      "desconto": 80
     },
     {
       "id": "resident-evil-4",
@@ -86,6 +86,27 @@
       "desconto": 70
     },
     {
+      "id": "dead-by-daylight",
+      "titulo": "Dead by Daylight",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/23fed9f741423413769ad1617e41519d1a466cdc/header_alt_assets_10.jpg?t=1791302579",
+      "appid": 381210,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 69.99,
+          "por": 27.99,
+          "url": "https://store.steampowered.com/app/381210/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 69.99,
+        "por": 27.99,
+        "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -93,18 +114,18 @@
       "ofertas": [
         {
           "loja": "steam",
-          "de": 224.9,
-          "por": 98.95,
+          "de": 149.9,
+          "por": 74.95,
           "url": "https://store.steampowered.com/app/3240220/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 224.9,
-        "por": 98.95,
+        "de": 149.9,
+        "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
-      "desconto": 56
+      "desconto": 50
     },
     {
       "id": "cyberpunk-2077-phantom-liberty",
@@ -124,27 +145,6 @@
         "de": 99.99,
         "por": 59.99,
         "url": "https://store.steampowered.com/app/2138330/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
-      "id": "007-first-light",
-      "titulo": "007 First Light",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
-      "appid": 3768760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299,
-          "por": 179.4,
-          "url": "https://store.steampowered.com/app/3768760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299,
-        "por": 179.4,
-        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 40
     },
@@ -170,27 +170,6 @@
       "desconto": 30
     },
     {
-      "id": "enshrouded",
-      "titulo": "Enshrouded",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "appid": 1203620,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 119.99,
-          "por": 107.99,
-          "url": "https://store.steampowered.com/app/1203620/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 119.99,
-        "por": 107.99,
-        "url": "https://store.steampowered.com/app/1203620/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "scam-with-your-friends",
       "titulo": "Scam With Your Friends",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
@@ -208,6 +187,27 @@
         "de": 37.49,
         "por": 33.74,
         "url": "https://store.steampowered.com/app/4954910/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "enshrouded",
+      "titulo": "Enshrouded",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "appid": 1203620,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 119.99,
+          "por": 107.99,
+          "url": "https://store.steampowered.com/app/1203620/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 119.99,
+        "por": 107.99,
+        "url": "https://store.steampowered.com/app/1203620/?cc=br"
       },
       "desconto": 10
     }
