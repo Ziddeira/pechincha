@@ -1,23 +1,23 @@
 {
-  "atualizado": "2026-10-22T10:28:53.823Z",
+  "atualizado": "2026-10-22T15:33:20.338Z",
   "itens": [
     {
-      "id": "bad-cheese",
-      "titulo": "Bad Cheese",
+      "id": "sker-ritual",
+      "titulo": "Sker Ritual",
       "loja": "epic",
-      "de": 34.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/6cbb0e3805c4436bafd028cafff48307/bad-cheese-16hj0.png",
-      "url": "https://store.epicgames.com/pt-BR/p/bad-cheese-4256d9",
-      "acaba": "2026-10-22T15:00:00.000Z"
+      "de": 66.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-1tuka.png",
+      "url": "https://store.epicgames.com/pt-BR/p/sker-ritual-aac702",
+      "acaba": "2026-10-29T15:00:00.000Z"
     },
     {
-      "id": "agent-a-o-enigma-disfarcado",
-      "titulo": "Agent A: O enigma disfarçado",
+      "id": "home-a-unique-horror-adventure",
+      "titulo": "Home - A Unique Horror Adventure",
       "loja": "epic",
-      "de": 52.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/45db4fbe68fe43f4b025dec2014d42e7/agent-a-a-puzzle-in-disguise-3cppl.png",
-      "url": "https://store.epicgames.com/pt-BR/p/agent-a-a-puzzle-in-disguise-42fe5f",
-      "acaba": "2026-10-22T15:00:00.000Z"
+      "de": 13.49,
+      "capa": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
+      "url": "https://store.epicgames.com/pt-BR/p/home-19212a",
+      "acaba": "2026-10-29T15:00:00.000Z"
     }
   ]
 }
