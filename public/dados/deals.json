@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-21T21:53:46.502Z",
+  "atualizado": "2026-10-22T00:29:06.470Z",
   "itens": [
     {
       "id": "red-dead-redemption-2",
@@ -107,27 +107,6 @@
       "desconto": 40
     },
     {
-      "id": "007-first-light",
-      "titulo": "007 First Light",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
-      "appid": 3768760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299,
-          "por": 179.4,
-          "url": "https://store.steampowered.com/app/3768760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299,
-        "por": 179.4,
-        "url": "https://store.steampowered.com/app/3768760/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "granblue-fantasy-relink",
       "titulo": "Granblue Fantasy: Relink",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/881020/header.jpg?t=1792403376",
@@ -145,6 +124,27 @@
         "de": 129.9,
         "por": 77.94,
         "url": "https://store.steampowered.com/app/881020/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
+      "appid": 3768760,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 179.4,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 179.4,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 40
     },
@@ -170,27 +170,6 @@
       "desconto": 30
     },
     {
-      "id": "enshrouded",
-      "titulo": "Enshrouded",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "appid": 1203620,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 119.99,
-          "por": 107.99,
-          "url": "https://store.steampowered.com/app/1203620/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 119.99,
-        "por": 107.99,
-        "url": "https://store.steampowered.com/app/1203620/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
       "id": "scam-with-your-friends",
       "titulo": "Scam With Your Friends",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4954910/128effac3212fc1b92b4f6cd8891995df0d4b199/header.jpg?t=1792556475",
@@ -208,6 +187,27 @@
         "de": 37.49,
         "por": 33.74,
         "url": "https://store.steampowered.com/app/4954910/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "enshrouded",
+      "titulo": "Enshrouded",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
+      "appid": 1203620,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 119.99,
+          "por": 107.99,
+          "url": "https://store.steampowered.com/app/1203620/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 119.99,
+        "por": 107.99,
+        "url": "https://store.steampowered.com/app/1203620/?cc=br"
       },
       "desconto": 10
     }
