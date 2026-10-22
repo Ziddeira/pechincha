@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-22T19:49:50.505Z",
+  "atualizado": "2026-10-22T23:02:48.903Z",
   "itens": [
     {
       "id": "the-walking-dead-the-telltale-definitive-series",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/1449690/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "resident-evil-2",
-      "titulo": "Resident Evil 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/883710/header.jpg?t=1779433152",
-      "appid": 883710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 33.8,
-          "url": "https://store.steampowered.com/app/883710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 33.8,
-        "url": "https://store.steampowered.com/app/883710/?cc=br"
-      },
-      "desconto": 80
     },
     {
       "id": "resident-evil-4",
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/2138330/?cc=br"
       },
       "desconto": 40
+    },
+    {
+      "id": "runescape-dragonwilds",
+      "titulo": "RuneScape: Dragonwilds",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
+      "appid": 1374490,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 114.99,
+          "por": 80.49,
+          "url": "https://store.steampowered.com/app/1374490/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 114.99,
+        "por": 80.49,
+        "url": "https://store.steampowered.com/app/1374490/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "resident-evil-requiem",
