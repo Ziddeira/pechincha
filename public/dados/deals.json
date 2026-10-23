@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-23T01:46:36.660Z",
+  "atualizado": "2026-10-23T07:10:30.502Z",
   "itens": [
     {
       "id": "the-walking-dead-the-telltale-definitive-series",
@@ -40,6 +40,27 @@
         "de": 169,
         "por": 42.25,
         "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
+      "id": "warhammer-40-000-space-marine-2",
+      "titulo": "Warhammer 40,000: Space Marine 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/c0da5cad512f85a006abb9181cb3f45107fb0223/header_alt_assets_14.jpg?t=1790874369",
+      "appid": 2183900,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 49.97,
+          "url": "https://store.steampowered.com/app/2183900/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 49.97,
+        "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
       "desconto": 75
     },
@@ -124,27 +145,6 @@
         "de": 99.99,
         "por": 59.99,
         "url": "https://store.steampowered.com/app/2138330/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
-      "id": "bombanana",
-      "titulo": "BOMBANANA!",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1792506779",
-      "appid": 4656000,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 19.99,
-          "por": 11.99,
-          "url": "https://store.steampowered.com/app/4656000/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 19.99,
-        "por": 11.99,
-        "url": "https://store.steampowered.com/app/4656000/?cc=br"
       },
       "desconto": 40
     },
