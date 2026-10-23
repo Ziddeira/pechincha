@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-22T23:02:48.903Z",
+  "atualizado": "2026-10-23T01:46:36.660Z",
   "itens": [
     {
       "id": "the-walking-dead-the-telltale-definitive-series",
@@ -128,25 +128,25 @@
       "desconto": 40
     },
     {
-      "id": "runescape-dragonwilds",
-      "titulo": "RuneScape: Dragonwilds",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
-      "appid": 1374490,
+      "id": "bombanana",
+      "titulo": "BOMBANANA!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4656000/99c086faba625a8d3bc459bab444087d257ccbe1/header.jpg?t=1792506779",
+      "appid": 4656000,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 114.99,
-          "por": 80.49,
-          "url": "https://store.steampowered.com/app/1374490/?cc=br"
+          "de": 19.99,
+          "por": 11.99,
+          "url": "https://store.steampowered.com/app/4656000/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 114.99,
-        "por": 80.49,
-        "url": "https://store.steampowered.com/app/1374490/?cc=br"
+        "de": 19.99,
+        "por": 11.99,
+        "url": "https://store.steampowered.com/app/4656000/?cc=br"
       },
-      "desconto": 30
+      "desconto": 40
     },
     {
       "id": "resident-evil-requiem",
