@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-25T05:07:20.011Z",
+  "atualizado": "2026-10-25T10:01:49.114Z",
   "itens": [
     {
       "id": "the-walking-dead-the-telltale-definitive-series",
@@ -128,46 +128,46 @@
       "desconto": 40
     },
     {
-      "id": "gamble-with-your-friends",
-      "titulo": "Gamble With Your Friends",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3892270/395e6d7972474333a698b26f8aa5597bf38109a1/header.jpg?t=1792427976",
-      "appid": 3892270,
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 26.49,
-          "por": 16.42,
-          "url": "https://store.steampowered.com/app/3892270/?cc=br"
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 26.49,
-        "por": 16.42,
-        "url": "https://store.steampowered.com/app/3892270/?cc=br"
-      },
-      "desconto": 38
-    },
-    {
-      "id": "runescape-dragonwilds",
-      "titulo": "RuneScape: Dragonwilds",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1374490/3e27915a647dbf05e17f2ff98d33c9a0765da539/header.jpg?t=1791278745",
-      "appid": 1374490,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 114.99,
-          "por": 80.49,
-          "url": "https://store.steampowered.com/app/1374490/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 114.99,
-        "por": 80.49,
-        "url": "https://store.steampowered.com/app/1374490/?cc=br"
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
       },
       "desconto": 30
+    },
+    {
+      "id": "moon-sweepers",
+      "titulo": "Moon Sweepers",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792738801",
+      "appid": 5335510,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 33.99,
+          "por": 28.89,
+          "url": "https://store.steampowered.com/app/5335510/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 33.99,
+        "por": 28.89,
+        "url": "https://store.steampowered.com/app/5335510/?cc=br"
+      },
+      "desconto": 15
     },
     {
       "id": "scam-with-your-friends",
