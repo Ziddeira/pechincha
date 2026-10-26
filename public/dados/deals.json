@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-26T07:33:02.250Z",
+  "atualizado": "2026-10-26T14:57:21.019Z",
   "itens": [
     {
       "id": "the-walking-dead-the-telltale-definitive-series",
@@ -19,27 +19,6 @@
         "de": 134.99,
         "por": 13.49,
         "url": "https://store.steampowered.com/app/1449690/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
-      "id": "rise-of-the-tomb-raider",
-      "titulo": "Rise of the Tomb Raider™",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
-      "appid": 391220,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 124.99,
-          "por": 12.49,
-          "url": "https://store.steampowered.com/app/391220/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 124.99,
-        "por": 12.49,
-        "url": "https://store.steampowered.com/app/391220/?cc=br"
       },
       "desconto": 90
     },
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/2138330/?cc=br"
       },
       "desconto": 40
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "moon-sweepers",
