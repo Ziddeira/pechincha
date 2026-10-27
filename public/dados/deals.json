@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-27T05:24:38.375Z",
+  "atualizado": "2026-10-27T10:48:25.440Z",
   "itens": [
     {
       "id": "outlast",
@@ -23,27 +23,6 @@
       "desconto": 90
     },
     {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
       "id": "the-walking-dead-the-telltale-definitive-series",
       "titulo": "The Walking Dead: The Telltale Definitive Series",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
@@ -61,6 +40,27 @@
         "de": 134.99,
         "por": 13.49,
         "url": "https://store.steampowered.com/app/1449690/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
       },
       "desconto": 90
     },
@@ -128,27 +128,6 @@
       "desconto": 72
     },
     {
-      "id": "the-outlast-trials",
-      "titulo": "The Outlast Trials",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-      "appid": 1304930,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 107.99,
-          "por": 32.39,
-          "url": "https://store.steampowered.com/app/1304930/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 107.99,
-        "por": 32.39,
-        "url": "https://store.steampowered.com/app/1304930/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -166,6 +145,27 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dayz",
+      "titulo": "DayZ",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
+      "appid": 221100,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 84.5,
+          "url": "https://store.steampowered.com/app/221100/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 84.5,
+        "url": "https://store.steampowered.com/app/221100/?cc=br"
       },
       "desconto": 50
     },
