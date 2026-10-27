@@ -1,24 +1,24 @@
 {
-  "atualizado": "2026-10-27T00:00:27.873Z",
+  "atualizado": "2026-10-27T05:24:38.375Z",
   "itens": [
     {
-      "id": "the-walking-dead-the-telltale-definitive-series",
-      "titulo": "The Walking Dead: The Telltale Definitive Series",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
-      "appid": 1449690,
+      "id": "outlast",
+      "titulo": "Outlast",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/238320/header.jpg?t=1666817106",
+      "appid": 238320,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 134.99,
-          "por": 13.49,
-          "url": "https://store.steampowered.com/app/1449690/?cc=br"
+          "de": 46.99,
+          "por": 4.69,
+          "url": "https://store.steampowered.com/app/238320/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 134.99,
-        "por": 13.49,
-        "url": "https://store.steampowered.com/app/1449690/?cc=br"
+        "de": 46.99,
+        "por": 4.69,
+        "url": "https://store.steampowered.com/app/238320/?cc=br"
       },
       "desconto": 90
     },
@@ -42,6 +42,48 @@
         "url": "https://store.steampowered.com/app/1345940/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "the-walking-dead-the-telltale-definitive-series",
+      "titulo": "The Walking Dead: The Telltale Definitive Series",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
+      "appid": 1449690,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 134.99,
+          "por": 13.49,
+          "url": "https://store.steampowered.com/app/1449690/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 134.99,
+        "por": 13.49,
+        "url": "https://store.steampowered.com/app/1449690/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "the-forest",
+      "titulo": "The Forest",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+      "appid": 242760,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 37.99,
+          "por": 7.59,
+          "url": "https://store.steampowered.com/app/242760/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 37.99,
+        "por": 7.59,
+        "url": "https://store.steampowered.com/app/242760/?cc=br"
+      },
+      "desconto": 80
     },
     {
       "id": "resident-evil-4",
@@ -86,25 +128,25 @@
       "desconto": 72
     },
     {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/84d0df065c36eb8ded7bdf0d8fccd19d43b6c005/header.jpg?t=1789479023",
-      "appid": 275850,
+      "id": "the-outlast-trials",
+      "titulo": "The Outlast Trials",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "appid": 1304930,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
+          "de": 107.99,
+          "por": 32.39,
+          "url": "https://store.steampowered.com/app/1304930/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
+        "de": 107.99,
+        "por": 32.39,
+        "url": "https://store.steampowered.com/app/1304930/?cc=br"
       },
-      "desconto": 60
+      "desconto": 70
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -124,27 +166,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dayz",
-      "titulo": "DayZ",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "appid": 221100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/221100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/221100/?cc=br"
       },
       "desconto": 50
     },
@@ -187,27 +208,6 @@
         "de": 37.49,
         "por": 33.74,
         "url": "https://store.steampowered.com/app/4954910/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "enshrouded",
-      "titulo": "Enshrouded",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1203620/98ca939f51b39bdd41e0e9198a9ccf8421148770/header_alt_assets_2.jpg?t=1792078032",
-      "appid": 1203620,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 119.99,
-          "por": 107.99,
-          "url": "https://store.steampowered.com/app/1203620/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 119.99,
-        "por": 107.99,
-        "url": "https://store.steampowered.com/app/1203620/?cc=br"
       },
       "desconto": 10
     }
