@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-28T06:05:10.676Z",
+  "atualizado": "2026-10-28T13:23:09.973Z",
   "itens": [
-    {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
       "titulo": "Shadow of the Tomb Raider: Definitive Edition",
@@ -40,6 +19,27 @@
         "de": 166.49,
         "por": 16.64,
         "url": "https://store.steampowered.com/app/750920/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "rise-of-the-tomb-raider",
+      "titulo": "Rise of the Tomb Raider™",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+      "appid": 391220,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 124.99,
+          "por": 12.49,
+          "url": "https://store.steampowered.com/app/391220/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 124.99,
+        "por": 12.49,
+        "url": "https://store.steampowered.com/app/391220/?cc=br"
       },
       "desconto": 90
     },
