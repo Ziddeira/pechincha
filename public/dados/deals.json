@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-27T20:50:50.147Z",
+  "atualizado": "2026-10-28T00:18:39.014Z",
   "itens": [
-    {
-      "id": "shadow-of-the-tomb-raider-definitive-edition",
-      "titulo": "Shadow of the Tomb Raider: Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
-      "appid": 750920,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 166.49,
-          "por": 16.64,
-          "url": "https://store.steampowered.com/app/750920/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 166.49,
-        "por": 16.64,
-        "url": "https://store.steampowered.com/app/750920/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -65,25 +44,25 @@
       "desconto": 72
     },
     {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/84d0df065c36eb8ded7bdf0d8fccd19d43b6c005/header.jpg?t=1789479023",
-      "appid": 275850,
+      "id": "the-outlast-trials",
+      "titulo": "The Outlast Trials",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "appid": 1304930,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
+          "de": 107.99,
+          "por": 32.39,
+          "url": "https://store.steampowered.com/app/1304930/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
+        "de": 107.99,
+        "por": 32.39,
+        "url": "https://store.steampowered.com/app/1304930/?cc=br"
       },
-      "desconto": 60
+      "desconto": 70
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -107,6 +86,48 @@
       "desconto": 50
     },
     {
+      "id": "dayz",
+      "titulo": "DayZ",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
+      "appid": 221100,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 84.5,
+          "url": "https://store.steampowered.com/app/221100/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 84.5,
+        "url": "https://store.steampowered.com/app/221100/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "r-e-p-o",
+      "titulo": "R.E.P.O.",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
+      "appid": 3241660,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 29.99,
+          "por": 19.49,
+          "url": "https://store.steampowered.com/app/3241660/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 29.99,
+        "por": 19.49,
+        "url": "https://store.steampowered.com/app/3241660/?cc=br"
+      },
+      "desconto": 35
+    },
+    {
       "id": "moon-sweepers",
       "titulo": "Moon Sweepers",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
@@ -126,27 +147,6 @@
         "url": "https://store.steampowered.com/app/5335510/?cc=br"
       },
       "desconto": 15
-    },
-    {
-      "id": "project-exhibitionist",
-      "titulo": "Project Exhibitionist",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
-      "appid": 4688700,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 109.99,
-          "por": 98.99,
-          "url": "https://store.steampowered.com/app/4688700/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 109.99,
-        "por": 98.99,
-        "url": "https://store.steampowered.com/app/4688700/?cc=br"
-      },
-      "desconto": 10
     },
     {
       "id": "scam-with-your-friends",
@@ -170,23 +170,23 @@
       "desconto": 10
     },
     {
-      "id": "the-long-dark-iron-road",
-      "titulo": "The Long Dark: Iron Road",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4922630/0b918724bd55061f2e3b9f259ad044f524ed9f5f/header.jpg?t=1793123897",
-      "appid": 4922630,
+      "id": "project-exhibitionist",
+      "titulo": "Project Exhibitionist",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
+      "appid": 4688700,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 79.99,
-          "por": 71.99,
-          "url": "https://store.steampowered.com/app/4922630/?cc=br"
+          "de": 109.99,
+          "por": 98.99,
+          "url": "https://store.steampowered.com/app/4688700/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 79.99,
-        "por": 71.99,
-        "url": "https://store.steampowered.com/app/4922630/?cc=br"
+        "de": 109.99,
+        "por": 98.99,
+        "url": "https://store.steampowered.com/app/4688700/?cc=br"
       },
       "desconto": 10
     },
