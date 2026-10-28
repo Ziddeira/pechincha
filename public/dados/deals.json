@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-28T13:23:09.973Z",
+  "atualizado": "2026-10-28T18:59:41.845Z",
   "itens": [
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
@@ -21,48 +21,6 @@
         "url": "https://store.steampowered.com/app/750920/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "rise-of-the-tomb-raider",
-      "titulo": "Rise of the Tomb Raider™",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
-      "appid": 391220,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 124.99,
-          "por": 12.49,
-          "url": "https://store.steampowered.com/app/391220/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 124.99,
-        "por": 12.49,
-        "url": "https://store.steampowered.com/app/391220/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
-      "id": "the-forest",
-      "titulo": "The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-      "appid": 242760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 37.99,
-          "por": 7.59,
-          "url": "https://store.steampowered.com/app/242760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 37.99,
-        "por": 7.59,
-        "url": "https://store.steampowered.com/app/242760/?cc=br"
-      },
-      "desconto": 80
     },
     {
       "id": "resident-evil-4",
@@ -105,6 +63,27 @@
         "url": "https://store.steampowered.com/app/1326470/?cc=br"
       },
       "desconto": 72
+    },
+    {
+      "id": "dead-by-daylight",
+      "titulo": "Dead by Daylight",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
+      "appid": 381210,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 69.99,
+          "por": 27.99,
+          "url": "https://store.steampowered.com/app/381210/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 69.99,
+        "por": 27.99,
+        "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -170,23 +149,23 @@
       "desconto": 10
     },
     {
-      "id": "project-exhibitionist",
-      "titulo": "Project Exhibitionist",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4688700/3667daa1aeef2c715cbc8a0fa006c609a076dc83/header.jpg?t=1793120735",
-      "appid": 4688700,
+      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793194696",
+      "appid": 4348910,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 109.99,
-          "por": 98.99,
-          "url": "https://store.steampowered.com/app/4688700/?cc=br"
+          "de": 44.99,
+          "por": 40.49,
+          "url": "https://store.steampowered.com/app/4348910/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 109.99,
-        "por": 98.99,
-        "url": "https://store.steampowered.com/app/4688700/?cc=br"
+        "de": 44.99,
+        "por": 40.49,
+        "url": "https://store.steampowered.com/app/4348910/?cc=br"
       },
       "desconto": 10
     },
@@ -208,6 +187,27 @@
         "de": 119.99,
         "por": 107.99,
         "url": "https://store.steampowered.com/app/1203620/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "geoplanetical",
+      "titulo": "Geoplanetical",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/940230/cd3828ba0e43c85eeccb5c1705112278bb32dcf6/header.jpg?t=1793199295",
+      "appid": 940230,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 109.9,
+          "por": 98.91,
+          "url": "https://store.steampowered.com/app/940230/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 109.9,
+        "por": 98.91,
+        "url": "https://store.steampowered.com/app/940230/?cc=br"
       },
       "desconto": 10
     }
