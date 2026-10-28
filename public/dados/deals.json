@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-10-28T00:18:39.014Z",
+  "atualizado": "2026-10-28T06:05:10.676Z",
   "itens": [
+    {
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "shadow-of-the-tomb-raider-definitive-edition",
+      "titulo": "Shadow of the Tomb Raider: Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/750920/86f9744a410121ff869cc19f63aa9e3dfcf54b8d/header_alt_assets_0.jpg?t=1792675045",
+      "appid": 750920,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 166.49,
+          "por": 16.64,
+          "url": "https://store.steampowered.com/app/750920/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 166.49,
+        "por": 16.64,
+        "url": "https://store.steampowered.com/app/750920/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -21,6 +63,27 @@
         "url": "https://store.steampowered.com/app/242760/?cc=br"
       },
       "desconto": 80
+    },
+    {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
     },
     {
       "id": "sons-of-the-forest",
@@ -44,27 +107,6 @@
       "desconto": 72
     },
     {
-      "id": "the-outlast-trials",
-      "titulo": "The Outlast Trials",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-      "appid": 1304930,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 107.99,
-          "por": 32.39,
-          "url": "https://store.steampowered.com/app/1304930/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 107.99,
-        "por": 32.39,
-        "url": "https://store.steampowered.com/app/1304930/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -84,48 +126,6 @@
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
       "desconto": 50
-    },
-    {
-      "id": "dayz",
-      "titulo": "DayZ",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "appid": 221100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/221100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/221100/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "r-e-p-o",
-      "titulo": "R.E.P.O.",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/1ea445e044a2d5b09cfa8291350b63ebed6e5741/header.jpg?t=1791817973",
-      "appid": 3241660,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 29.99,
-          "por": 19.49,
-          "url": "https://store.steampowered.com/app/3241660/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 29.99,
-        "por": 19.49,
-        "url": "https://store.steampowered.com/app/3241660/?cc=br"
-      },
-      "desconto": 35
     },
     {
       "id": "moon-sweepers",
