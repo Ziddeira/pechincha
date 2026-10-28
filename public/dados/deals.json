@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-28T18:59:41.845Z",
+  "atualizado": "2026-10-28T23:07:00.050Z",
   "itens": [
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
@@ -23,25 +23,25 @@
       "desconto": 90
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
+      "id": "the-forest",
+      "titulo": "The Forest",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
+      "appid": 242760,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+          "de": 37.99,
+          "por": 7.59,
+          "url": "https://store.steampowered.com/app/242760/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        "de": 37.99,
+        "por": 7.59,
+        "url": "https://store.steampowered.com/app/242760/?cc=br"
       },
-      "desconto": 75
+      "desconto": 80
     },
     {
       "id": "sons-of-the-forest",
@@ -82,6 +82,27 @@
         "de": 69.99,
         "por": 27.99,
         "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
       "desconto": 60
     },
@@ -151,7 +172,7 @@
     {
       "id": "probably-stolen-cyberpunk-shopkeeper-sim",
       "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793194696",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
       "appid": 4348910,
       "ofertas": [
         {
@@ -187,27 +208,6 @@
         "de": 119.99,
         "por": 107.99,
         "url": "https://store.steampowered.com/app/1203620/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "geoplanetical",
-      "titulo": "Geoplanetical",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/940230/cd3828ba0e43c85eeccb5c1705112278bb32dcf6/header.jpg?t=1793199295",
-      "appid": 940230,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 109.9,
-          "por": 98.91,
-          "url": "https://store.steampowered.com/app/940230/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 109.9,
-        "por": 98.91,
-        "url": "https://store.steampowered.com/app/940230/?cc=br"
       },
       "desconto": 10
     }
