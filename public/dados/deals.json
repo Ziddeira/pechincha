@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-29T09:36:05.645Z",
+  "atualizado": "2026-10-29T16:44:06.545Z",
   "itens": [
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
@@ -44,27 +44,6 @@
       "desconto": 90
     },
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "sons-of-the-forest",
       "titulo": "Sons Of The Forest",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
@@ -84,27 +63,6 @@
         "url": "https://store.steampowered.com/app/1326470/?cc=br"
       },
       "desconto": 72
-    },
-    {
-      "id": "dead-by-daylight",
-      "titulo": "Dead by Daylight",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
-      "appid": 381210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 69.99,
-          "por": 27.99,
-          "url": "https://store.steampowered.com/app/381210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 69.99,
-        "por": 27.99,
-        "url": "https://store.steampowered.com/app/381210/?cc=br"
-      },
-      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -128,6 +86,27 @@
       "desconto": 50
     },
     {
+      "id": "the-wolf-among-us-remastered",
+      "titulo": "The Wolf Among Us Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3884860/80ddd096b6fdd5ab25162251bee4131c78cdf351/header.jpg?t=1793292108",
+      "appid": 3884860,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 83.99,
+          "por": 67.19,
+          "url": "https://store.steampowered.com/app/3884860/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 83.99,
+        "por": 67.19,
+        "url": "https://store.steampowered.com/app/3884860/?cc=br"
+      },
+      "desconto": 20
+    },
+    {
       "id": "moon-sweepers",
       "titulo": "Moon Sweepers",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5335510/41e1e802dfc069cc245b91043e451a2f9ffa80e3/header.jpg?t=1792950881",
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/5335510/?cc=br"
       },
       "desconto": 15
+    },
+    {
+      "id": "freshwomen-season-3",
+      "titulo": "FreshWomen - Season 3",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4005870/c0dfa6e526688c85bcc112086adf88bc3209c1c1/header.jpg?t=1793283355",
+      "appid": 4005870,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 67.99,
+          "por": 61.19,
+          "url": "https://store.steampowered.com/app/4005870/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 67.99,
+        "por": 61.19,
+        "url": "https://store.steampowered.com/app/4005870/?cc=br"
+      },
+      "desconto": 10
     },
     {
       "id": "scam-with-your-friends",

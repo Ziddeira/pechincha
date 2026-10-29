@@ -1,23 +1,14 @@
 {
-  "atualizado": "2026-10-29T09:36:05.646Z",
+  "atualizado": "2026-10-29T16:44:06.547Z",
   "itens": [
     {
-      "id": "sker-ritual",
-      "titulo": "Sker Ritual",
+      "id": "sorry-we-re-closed",
+      "titulo": "Sorry We're Closed",
       "loja": "epic",
       "de": 66.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/43d96f4437e34c87b7eff08831d1b1de/sker-ritual-14x61.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/sker-ritual-aac702",
-      "acaba": "2026-10-29T15:00:00.000Z"
-    },
-    {
-      "id": "home-a-unique-horror-adventure",
-      "titulo": "Home - A Unique Horror Adventure",
-      "loja": "epic",
-      "de": 13.49,
-      "capa": "https://cdn1.epicgames.com/spt-assets/46fc0cdb9f164a848e916249a8f68fc7/home-1f6qi.png",
-      "url": "https://store.epicgames.com/pt-BR/p/home-19212a",
-      "acaba": "2026-10-29T15:00:00.000Z"
+      "capa": "https://cdn1.epicgames.com/spt-assets/9ab7eaaeb2f041969b350955b789f0f7/sorry-were-closed-1orqh.png",
+      "url": "https://store.epicgames.com/pt-BR/p/sorry-were-closed-724c86",
+      "acaba": "2026-11-05T16:00:00.000Z"
     }
   ]
 }
