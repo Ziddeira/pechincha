@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-28T23:07:00.050Z",
+  "atualizado": "2026-10-29T02:41:47.152Z",
   "itens": [
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
@@ -44,6 +44,27 @@
       "desconto": 80
     },
     {
+      "id": "resident-evil-4",
+      "titulo": "Resident Evil 4",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
+      "appid": 2050650,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 169,
+          "por": 42.25,
+          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 169,
+        "por": 42.25,
+        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+      },
+      "desconto": 75
+    },
+    {
       "id": "sons-of-the-forest",
       "titulo": "Sons Of The Forest",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
@@ -82,27 +103,6 @@
         "de": 69.99,
         "por": 27.99,
         "url": "https://store.steampowered.com/app/381210/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "appid": 275850,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
       "desconto": 60
     },
