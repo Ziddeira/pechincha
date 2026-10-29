@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-29T02:41:47.152Z",
+  "atualizado": "2026-10-29T09:36:05.645Z",
   "itens": [
     {
       "id": "shadow-of-the-tomb-raider-definitive-edition",
@@ -23,25 +23,25 @@
       "desconto": 90
     },
     {
-      "id": "the-forest",
-      "titulo": "The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-      "appid": 242760,
+      "id": "rise-of-the-tomb-raider",
+      "titulo": "Rise of the Tomb Raider™",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+      "appid": 391220,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 37.99,
-          "por": 7.59,
-          "url": "https://store.steampowered.com/app/242760/?cc=br"
+          "de": 124.99,
+          "por": 12.49,
+          "url": "https://store.steampowered.com/app/391220/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 37.99,
-        "por": 7.59,
-        "url": "https://store.steampowered.com/app/242760/?cc=br"
+        "de": 124.99,
+        "por": 12.49,
+        "url": "https://store.steampowered.com/app/391220/?cc=br"
       },
-      "desconto": 80
+      "desconto": 90
     },
     {
       "id": "resident-evil-4",
