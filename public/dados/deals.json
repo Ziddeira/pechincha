@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-30T01:42:09.815Z",
+  "atualizado": "2026-10-30T08:17:34.910Z",
   "itens": [
-    {
-      "id": "the-forest",
-      "titulo": "The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-      "appid": 242760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 37.99,
-          "por": 7.59,
-          "url": "https://store.steampowered.com/app/242760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 37.99,
-        "por": 7.59,
-        "url": "https://store.steampowered.com/app/242760/?cc=br"
-      },
-      "desconto": 80
-    },
     {
       "id": "resident-evil-4",
       "titulo": "Resident Evil 4",
@@ -208,6 +187,27 @@
         "de": 67.99,
         "por": 61.19,
         "url": "https://store.steampowered.com/app/4005870/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793220934",
+      "appid": 4348910,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 44.99,
+          "por": 40.49,
+          "url": "https://store.steampowered.com/app/4348910/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 44.99,
+        "por": 40.49,
+        "url": "https://store.steampowered.com/app/4348910/?cc=br"
       },
       "desconto": 10
     }
