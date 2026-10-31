@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-10-31T15:58:20.729Z",
+  "atualizado": "2026-10-31T19:52:58.274Z",
   "itens": [
-    {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -86,6 +65,27 @@
       "desconto": 72
     },
     {
+      "id": "the-outlast-trials",
+      "titulo": "The Outlast Trials",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "appid": 1304930,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 107.99,
+          "por": 32.39,
+          "url": "https://store.steampowered.com/app/1304930/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 107.99,
+        "por": 32.39,
+        "url": "https://store.steampowered.com/app/1304930/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
       "id": "dead-by-daylight",
       "titulo": "Dead by Daylight",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
@@ -103,6 +103,48 @@
         "de": 69.99,
         "por": 27.99,
         "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "mimesis",
+      "titulo": "MIMESIS",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
+      "appid": 2827200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 32.99,
+          "por": 13.19,
+          "url": "https://store.steampowered.com/app/2827200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 32.99,
+        "por": 13.19,
+        "url": "https://store.steampowered.com/app/2827200/?cc=br"
       },
       "desconto": 60
     },
@@ -168,48 +210,6 @@
         "url": "https://store.steampowered.com/app/648800/?cc=br"
       },
       "desconto": 33
-    },
-    {
-      "id": "queen-s-domain",
-      "titulo": "Queen's Domain",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793379393",
-      "appid": 1799840,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 63.99,
-          "por": 54.39,
-          "url": "https://store.steampowered.com/app/1799840/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 63.99,
-        "por": 54.39,
-        "url": "https://store.steampowered.com/app/1799840/?cc=br"
-      },
-      "desconto": 15
-    },
-    {
-      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
-      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793358849",
-      "appid": 4348910,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 44.99,
-          "por": 40.49,
-          "url": "https://store.steampowered.com/app/4348910/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 44.99,
-        "por": 40.49,
-        "url": "https://store.steampowered.com/app/4348910/?cc=br"
-      },
-      "desconto": 10
     }
   ]
 }
