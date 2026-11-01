@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-10-31T23:10:09.604Z",
+  "atualizado": "2026-11-01T02:28:31.279Z",
   "itens": [
     {
       "id": "the-forest",
@@ -107,27 +107,6 @@
       "desconto": 60
     },
     {
-      "id": "mimesis",
-      "titulo": "MIMESIS",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2827200/9108c2901a1d8ddc96bc68c6c5996fcb2b777ec0/header_alt_assets_2.jpg?t=1793079449",
-      "appid": 2827200,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 32.99,
-          "por": 13.19,
-          "url": "https://store.steampowered.com/app/2827200/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 32.99,
-        "por": 13.19,
-        "url": "https://store.steampowered.com/app/2827200/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -145,27 +124,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dayz",
-      "titulo": "DayZ",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "appid": 221100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/221100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/221100/?cc=br"
       },
       "desconto": 50
     },
@@ -191,25 +149,67 @@
       "desconto": 35
     },
     {
-      "id": "raft",
-      "titulo": "Raft",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "appid": 648800,
+      "id": "phasmophobia",
+      "titulo": "Phasmophobia",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
+      "appid": 739630,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 67.99,
-          "por": 45.55,
-          "url": "https://store.steampowered.com/app/648800/?cc=br"
+          "de": 59.99,
+          "por": 41.99,
+          "url": "https://store.steampowered.com/app/739630/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 67.99,
-        "por": 45.55,
-        "url": "https://store.steampowered.com/app/648800/?cc=br"
+        "de": 59.99,
+        "por": 41.99,
+        "url": "https://store.steampowered.com/app/739630/?cc=br"
       },
-      "desconto": 33
+      "desconto": 30
+    },
+    {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
+      "id": "lacey-s-flash-games",
+      "titulo": "Lacey's Flash Games",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
+      "appid": 3459340,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 40.5,
+          "por": 34.42,
+          "url": "https://store.steampowered.com/app/3459340/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 40.5,
+        "por": 34.42,
+        "url": "https://store.steampowered.com/app/3459340/?cc=br"
+      },
+      "desconto": 15
     }
   ]
 }
