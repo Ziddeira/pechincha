@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-11-01T02:28:31.279Z",
+  "atualizado": "2026-11-01T09:37:33.573Z",
   "itens": [
+    {
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "rise-of-the-tomb-raider",
+      "titulo": "Rise of the Tomb Raider™",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
+      "appid": 391220,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 124.99,
+          "por": 12.49,
+          "url": "https://store.steampowered.com/app/391220/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 124.99,
+        "por": 12.49,
+        "url": "https://store.steampowered.com/app/391220/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -65,27 +107,6 @@
       "desconto": 72
     },
     {
-      "id": "the-outlast-trials",
-      "titulo": "The Outlast Trials",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
-      "appid": 1304930,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 107.99,
-          "por": 32.39,
-          "url": "https://store.steampowered.com/app/1304930/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 107.99,
-        "por": 32.39,
-        "url": "https://store.steampowered.com/app/1304930/?cc=br"
-      },
-      "desconto": 70
-    },
-    {
       "id": "dead-by-daylight",
       "titulo": "Dead by Daylight",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
@@ -103,6 +124,27 @@
         "de": 69.99,
         "por": 27.99,
         "url": "https://store.steampowered.com/app/381210/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
       "desconto": 60
     },
@@ -149,27 +191,6 @@
       "desconto": 35
     },
     {
-      "id": "phasmophobia",
-      "titulo": "Phasmophobia",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/739630/6283e4bf96c6e8160492ae12016f0c9a308a75d9/header_alt_assets_13.jpg?t=1791632508",
-      "appid": 739630,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 41.99,
-          "url": "https://store.steampowered.com/app/739630/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 41.99,
-        "url": "https://store.steampowered.com/app/739630/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
       "id": "resident-evil-requiem",
       "titulo": "Resident Evil Requiem",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/3764200/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "lacey-s-flash-games",
-      "titulo": "Lacey's Flash Games",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3459340/c9f4ab56d50788d9ee18a73e09d8ad8f60bba958/header.jpg?t=1793481904",
-      "appid": 3459340,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 40.5,
-          "por": 34.42,
-          "url": "https://store.steampowered.com/app/3459340/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 40.5,
-        "por": 34.42,
-        "url": "https://store.steampowered.com/app/3459340/?cc=br"
-      },
-      "desconto": 15
     }
   ]
 }
