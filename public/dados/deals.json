@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-11-01T16:38:38.371Z",
+  "atualizado": "2026-11-01T20:59:38.873Z",
   "itens": [
-    {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
-      },
-      "desconto": 90
-    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -65,27 +44,6 @@
       "desconto": 75
     },
     {
-      "id": "subnautica",
-      "titulo": "Subnautica",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/264710/header.jpg?t=1777456112",
-      "appid": 264710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 124.5,
-          "por": 31.12,
-          "url": "https://store.steampowered.com/app/264710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 124.5,
-        "por": 31.12,
-        "url": "https://store.steampowered.com/app/264710/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "sons-of-the-forest",
       "titulo": "Sons Of The Forest",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
@@ -105,6 +63,27 @@
         "url": "https://store.steampowered.com/app/1326470/?cc=br"
       },
       "desconto": 72
+    },
+    {
+      "id": "the-outlast-trials",
+      "titulo": "The Outlast Trials",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1304930/e3b17cf268afa51334b63124a2fe0aef3f1d136b/header_alt_assets_4.jpg?t=1792554994",
+      "appid": 1304930,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 107.99,
+          "por": 32.39,
+          "url": "https://store.steampowered.com/app/1304930/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 107.99,
+        "por": 32.39,
+        "url": "https://store.steampowered.com/app/1304930/?cc=br"
+      },
+      "desconto": 70
     },
     {
       "id": "dead-by-daylight",
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/3241660/?cc=br"
       },
       "desconto": 35
+    },
+    {
+      "id": "raft",
+      "titulo": "Raft",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
+      "appid": 648800,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 67.99,
+          "por": 45.55,
+          "url": "https://store.steampowered.com/app/648800/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 67.99,
+        "por": 45.55,
+        "url": "https://store.steampowered.com/app/648800/?cc=br"
+      },
+      "desconto": 33
     }
   ]
 }
