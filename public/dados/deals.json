@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-11-02T00:34:39.152Z",
+  "atualizado": "2026-11-02T07:27:34.749Z",
   "itens": [
+    {
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "the-forest",
       "titulo": "The Forest",
@@ -170,46 +191,25 @@
       "desconto": 35
     },
     {
-      "id": "raft",
-      "titulo": "Raft",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/648800/header.jpg?t=1727184011",
-      "appid": 648800,
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 67.99,
-          "por": 45.55,
-          "url": "https://store.steampowered.com/app/648800/?cc=br"
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 67.99,
-        "por": 45.55,
-        "url": "https://store.steampowered.com/app/648800/?cc=br"
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
       },
-      "desconto": 33
-    },
-    {
-      "id": "assassin-s-creed-black-flag-resynced",
-      "titulo": "Assassin's Creed Black Flag Resynced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-      "appid": 3751950,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.99,
-          "por": 224.99,
-          "url": "https://store.steampowered.com/app/3751950/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.99,
-        "por": 224.99,
-        "url": "https://store.steampowered.com/app/3751950/?cc=br"
-      },
-      "desconto": 25
+      "desconto": 30
     }
   ]
 }
