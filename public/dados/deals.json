@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-11-02T17:23:26.723Z",
+  "atualizado": "2026-11-02T23:59:51.864Z",
   "itens": [
-    {
-      "id": "the-forest",
-      "titulo": "The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/242760/header.jpg?t=1699381053",
-      "appid": 242760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 37.99,
-          "por": 7.59,
-          "url": "https://store.steampowered.com/app/242760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 37.99,
-        "por": 7.59,
-        "url": "https://store.steampowered.com/app/242760/?cc=br"
-      },
-      "desconto": 80
-    },
     {
       "id": "resident-evil-4",
       "titulo": "Resident Evil 4",
@@ -44,65 +23,23 @@
       "desconto": 75
     },
     {
-      "id": "sons-of-the-forest",
-      "titulo": "Sons Of The Forest",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1326470/header.jpg?t=1708624856",
-      "appid": 1326470,
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 88.99,
-          "por": 24.91,
-          "url": "https://store.steampowered.com/app/1326470/?cc=br"
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 88.99,
-        "por": 24.91,
-        "url": "https://store.steampowered.com/app/1326470/?cc=br"
-      },
-      "desconto": 72
-    },
-    {
-      "id": "dead-by-daylight",
-      "titulo": "Dead by Daylight",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/381210/header.jpg?t=1793202236",
-      "appid": 381210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 69.99,
-          "por": 27.99,
-          "url": "https://store.steampowered.com/app/381210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 69.99,
-        "por": 27.99,
-        "url": "https://store.steampowered.com/app/381210/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
-      "id": "assassin-s-creed-shadows",
-      "titulo": "Assassin’s Creed Shadows",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
-      "appid": 3159330,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 349.99,
-          "por": 139.99,
-          "url": "https://store.steampowered.com/app/3159330/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 349.99,
-        "por": 139.99,
-        "url": "https://store.steampowered.com/app/3159330/?cc=br"
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
       "desconto": 60
     },
@@ -124,27 +61,6 @@
         "de": 149.9,
         "por": 74.95,
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dayz",
-      "titulo": "DayZ",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/221100/header.jpg?t=1792059745",
-      "appid": 221100,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 84.5,
-          "url": "https://store.steampowered.com/app/221100/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 169,
-        "por": 84.5,
-        "url": "https://store.steampowered.com/app/221100/?cc=br"
       },
       "desconto": 50
     },
@@ -191,6 +107,48 @@
       "desconto": 35
     },
     {
+      "id": "resident-evil-requiem",
+      "titulo": "Resident Evil Requiem",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3764200/ce5437442768e38eb575f205ab9397d0264017b0/header.jpg?t=1779840172",
+      "appid": 3764200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 209.3,
+          "url": "https://store.steampowered.com/app/3764200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 209.3,
+        "url": "https://store.steampowered.com/app/3764200/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
+      "id": "the-farmer-was-replaced",
+      "titulo": "The Farmer Was Replaced",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/ac43238b310211b52d11438edab9ba4cd6affced/header_alt_assets_2.jpg?t=1793643705",
+      "appid": 2060160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 30.99,
+          "por": 21.69,
+          "url": "https://store.steampowered.com/app/2060160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 30.99,
+        "por": 21.69,
+        "url": "https://store.steampowered.com/app/2060160/?cc=br"
+      },
+      "desconto": 30
+    },
+    {
       "id": "assassin-s-creed-black-flag-resynced",
       "titulo": "Assassin's Creed Black Flag Resynced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
@@ -210,6 +168,48 @@
         "url": "https://store.steampowered.com/app/3751950/?cc=br"
       },
       "desconto": 25
+    },
+    {
+      "id": "queen-s-domain",
+      "titulo": "Queen's Domain",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
+      "appid": 1799840,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 63.99,
+          "por": 54.39,
+          "url": "https://store.steampowered.com/app/1799840/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 63.99,
+        "por": 54.39,
+        "url": "https://store.steampowered.com/app/1799840/?cc=br"
+      },
+      "desconto": 15
+    },
+    {
+      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793630310",
+      "appid": 4348910,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 44.99,
+          "por": 40.49,
+          "url": "https://store.steampowered.com/app/4348910/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 44.99,
+        "por": 40.49,
+        "url": "https://store.steampowered.com/app/4348910/?cc=br"
+      },
+      "desconto": 10
     }
   ]
 }
