@@ -1,32 +1,47 @@
 {
-  "atualizado": "2026-11-03T14:54:22.991Z",
+  "atualizado": "2026-11-03T20:49:24.998Z",
   "itens": [
     {
-      "id": "resident-evil-4",
-      "titulo": "Resident Evil 4",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2050650/header.jpg?t=1772502922",
-      "appid": 2050650,
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
-        },
-        {
-          "loja": "steam",
-          "de": 169,
-          "por": 42.25,
-          "url": "https://store.steampowered.com/app/2050650/?cc=br"
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 169,
-        "por": 42.25,
-        "url": "https://store.steampowered.com/app/2050650/?cc=br"
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
-      "desconto": 75
+      "desconto": 60
+    },
+    {
+      "id": "assassin-s-creed-shadows",
+      "titulo": "Assassin’s Creed Shadows",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
+      "appid": 3159330,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 349.99,
+          "por": 139.99,
+          "url": "https://store.steampowered.com/app/3159330/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 349.99,
+        "por": 139.99,
+        "url": "https://store.steampowered.com/app/3159330/?cc=br"
+      },
+      "desconto": 60
     },
     {
       "id": "grand-theft-auto-v-enhanced",
@@ -134,25 +149,25 @@
       "desconto": 30
     },
     {
-      "id": "assassin-s-creed-black-flag-resynced",
-      "titulo": "Assassin's Creed Black Flag Resynced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-      "appid": 3751950,
+      "id": "control-resonant",
+      "titulo": "CONTROL Resonant",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
+      "appid": 3669870,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.99,
-          "por": 224.99,
-          "url": "https://store.steampowered.com/app/3751950/?cc=br"
+          "de": 229.99,
+          "por": 183.99,
+          "url": "https://store.steampowered.com/app/3669870/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.99,
-        "por": 224.99,
-        "url": "https://store.steampowered.com/app/3751950/?cc=br"
+        "de": 229.99,
+        "por": 183.99,
+        "url": "https://store.steampowered.com/app/3669870/?cc=br"
       },
-      "desconto": 25
+      "desconto": 20
     },
     {
       "id": "queen-s-domain",
