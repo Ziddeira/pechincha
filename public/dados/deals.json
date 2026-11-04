@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-03T20:49:24.998Z",
+  "atualizado": "2026-11-04T01:06:20.048Z",
   "itens": [
     {
       "id": "no-man-s-sky",
@@ -19,27 +19,6 @@
         "de": 162,
         "por": 64.8,
         "url": "https://store.steampowered.com/app/275850/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
-      "id": "assassin-s-creed-shadows",
-      "titulo": "Assassin’s Creed Shadows",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
-      "appid": 3159330,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 349.99,
-          "por": 139.99,
-          "url": "https://store.steampowered.com/app/3159330/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 349.99,
-        "por": 139.99,
-        "url": "https://store.steampowered.com/app/3159330/?cc=br"
       },
       "desconto": 60
     },
@@ -128,27 +107,6 @@
       "desconto": 35
     },
     {
-      "id": "the-farmer-was-replaced",
-      "titulo": "The Farmer Was Replaced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2060160/ac43238b310211b52d11438edab9ba4cd6affced/header_alt_assets_2.jpg?t=1793711051",
-      "appid": 2060160,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 30.99,
-          "por": 21.69,
-          "url": "https://store.steampowered.com/app/2060160/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 30.99,
-        "por": 21.69,
-        "url": "https://store.steampowered.com/app/2060160/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
       "id": "control-resonant",
       "titulo": "CONTROL Resonant",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
@@ -170,6 +128,27 @@
       "desconto": 20
     },
     {
+      "id": "loftia",
+      "titulo": "Loftia",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
+      "appid": 2320980,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 88.99,
+          "por": 73.86,
+          "url": "https://store.steampowered.com/app/2320980/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 88.99,
+        "por": 73.86,
+        "url": "https://store.steampowered.com/app/2320980/?cc=br"
+      },
+      "desconto": 17
+    },
+    {
       "id": "queen-s-domain",
       "titulo": "Queen's Domain",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
@@ -189,6 +168,27 @@
         "url": "https://store.steampowered.com/app/1799840/?cc=br"
       },
       "desconto": 15
+    },
+    {
+      "id": "potato-please",
+      "titulo": "Potato Please",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793717995",
+      "appid": 5266240,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 33.99,
+          "por": 30.59,
+          "url": "https://store.steampowered.com/app/5266240/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 33.99,
+        "por": 30.59,
+        "url": "https://store.steampowered.com/app/5266240/?cc=br"
+      },
+      "desconto": 10
     },
     {
       "id": "probably-stolen-cyberpunk-shopkeeper-sim",
