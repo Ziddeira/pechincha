@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-11-05T18:14:50.291Z",
+  "atualizado": "2026-11-05T23:47:18.925Z",
   "itens": [
+    {
+      "id": "grand-theft-auto-iv-the-complete-edition",
+      "titulo": "Grand Theft Auto IV: The Complete Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
+      "appid": 12210,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 79,
+          "por": 23.7,
+          "url": "https://store.steampowered.com/app/12210/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 79,
+        "por": 23.7,
+        "url": "https://store.steampowered.com/app/12210/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
+      },
+      "desconto": 67
+    },
     {
       "id": "no-man-s-sky",
       "titulo": "No Man's Sky",
@@ -23,6 +65,48 @@
       "desconto": 60
     },
     {
+      "id": "road-rash-edicao-de-30-aniversario",
+      "titulo": "Road Rash™: Edição de 30.º Aniversário",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793919166",
+      "appid": 2448570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 49,
+          "por": 24.5,
+          "url": "https://store.steampowered.com/app/2448570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 49,
+        "por": 24.5,
+        "url": "https://store.steampowered.com/app/2448570/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "dragon-ball-sparking-zero",
+      "titulo": "DRAGON BALL: Sparking! ZERO",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
+      "appid": 1790600,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 206.5,
+          "por": 123.9,
+          "url": "https://store.steampowered.com/app/1790600/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 206.5,
+        "por": 123.9,
+        "url": "https://store.steampowered.com/app/1790600/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
       "id": "007-first-light",
       "titulo": "007 First Light",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
@@ -42,6 +126,27 @@
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 40
+    },
+    {
+      "id": "finals-week",
+      "titulo": "Finals Week ✍🏻",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "appid": 4715160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/4715160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/4715160/?cc=br"
+      },
+      "desconto": 38
     },
     {
       "id": "peak",
@@ -86,69 +191,6 @@
       "desconto": 35
     },
     {
-      "id": "lightyear-frontier",
-      "titulo": "Lightyear Frontier",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
-      "appid": 1677110,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 89.99,
-          "por": 71.99,
-          "url": "https://store.steampowered.com/app/1677110/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 89.99,
-        "por": 71.99,
-        "url": "https://store.steampowered.com/app/1677110/?cc=br"
-      },
-      "desconto": 20
-    },
-    {
-      "id": "control-resonant",
-      "titulo": "CONTROL Resonant",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-      "appid": 3669870,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 229.99,
-          "por": 183.99,
-          "url": "https://store.steampowered.com/app/3669870/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 229.99,
-        "por": 183.99,
-        "url": "https://store.steampowered.com/app/3669870/?cc=br"
-      },
-      "desconto": 20
-    },
-    {
-      "id": "loftia",
-      "titulo": "Loftia",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
-      "appid": 2320980,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 88.99,
-          "por": 73.86,
-          "url": "https://store.steampowered.com/app/2320980/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 88.99,
-        "por": 73.86,
-        "url": "https://store.steampowered.com/app/2320980/?cc=br"
-      },
-      "desconto": 17
-    },
-    {
       "id": "queen-s-domain",
       "titulo": "Queen's Domain",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1799840/1a209734951f53b019ec9fa03f835def14f2a968/header.jpg?t=1793628353",
@@ -168,48 +210,6 @@
         "url": "https://store.steampowered.com/app/1799840/?cc=br"
       },
       "desconto": 15
-    },
-    {
-      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
-      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793890375",
-      "appid": 4348910,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 44.99,
-          "por": 40.49,
-          "url": "https://store.steampowered.com/app/4348910/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 44.99,
-        "por": 40.49,
-        "url": "https://store.steampowered.com/app/4348910/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "potato-please",
-      "titulo": "Potato Please",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793891257",
-      "appid": 5266240,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 33.99,
-          "por": 30.59,
-          "url": "https://store.steampowered.com/app/5266240/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 33.99,
-        "por": 30.59,
-        "url": "https://store.steampowered.com/app/5266240/?cc=br"
-      },
-      "desconto": 10
     }
   ]
 }
