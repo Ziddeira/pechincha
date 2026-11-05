@@ -1,89 +1,68 @@
 {
-  "atualizado": "2026-11-05T10:30:08.222Z",
+  "atualizado": "2026-11-05T18:14:50.291Z",
   "itens": [
     {
-      "id": "the-walking-dead-the-telltale-definitive-series",
-      "titulo": "The Walking Dead: The Telltale Definitive Series",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1449690/header.jpg?t=1760651835",
-      "appid": 1449690,
+      "id": "no-man-s-sky",
+      "titulo": "No Man's Sky",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
+      "appid": 275850,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 134.99,
-          "por": 13.49,
-          "url": "https://store.steampowered.com/app/1449690/?cc=br"
+          "de": 162,
+          "por": 64.8,
+          "url": "https://store.steampowered.com/app/275850/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 134.99,
-        "por": 13.49,
-        "url": "https://store.steampowered.com/app/1449690/?cc=br"
+        "de": 162,
+        "por": 64.8,
+        "url": "https://store.steampowered.com/app/275850/?cc=br"
       },
-      "desconto": 90
+      "desconto": 60
     },
     {
-      "id": "rise-of-the-tomb-raider",
-      "titulo": "Rise of the Tomb Raider™",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/391220/29279804029df9b7540caef5c086c9f0393e2e2d/header_alt_assets_0.jpg?t=1792675385",
-      "appid": 391220,
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/c5b553fd05ba41aefa6daeddac95849a10c93022/header_alt_assets_4.jpg?t=1791886607",
+      "appid": 3768760,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 124.99,
-          "por": 12.49,
-          "url": "https://store.steampowered.com/app/391220/?cc=br"
+          "de": 339.9,
+          "por": 203.94,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 124.99,
-        "por": 12.49,
-        "url": "https://store.steampowered.com/app/391220/?cc=br"
+        "de": 339.9,
+        "por": 203.94,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
-      "desconto": 90
+      "desconto": 40
     },
     {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
+      "id": "peak",
+      "titulo": "PEAK",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
+      "appid": 3527290,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+          "de": 23.99,
+          "por": 14.87,
+          "url": "https://store.steampowered.com/app/3527290/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        "de": 23.99,
+        "por": 14.87,
+        "url": "https://store.steampowered.com/app/3527290/?cc=br"
       },
-      "desconto": 90
-    },
-    {
-      "id": "grand-theft-auto-v-enhanced",
-      "titulo": "Grand Theft Auto V Enhanced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
-      "appid": 3240220,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 149.9,
-          "por": 74.95,
-          "url": "https://store.steampowered.com/app/3240220/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 149.9,
-        "por": 74.95,
-        "url": "https://store.steampowered.com/app/3240220/?cc=br"
-      },
-      "desconto": 50
+      "desconto": 38
     },
     {
       "id": "r-e-p-o",
@@ -107,25 +86,25 @@
       "desconto": 35
     },
     {
-      "id": "assassin-s-creed-black-flag-resynced",
-      "titulo": "Assassin's Creed Black Flag Resynced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-      "appid": 3751950,
+      "id": "lightyear-frontier",
+      "titulo": "Lightyear Frontier",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1677110/f4aec944f634f189990fe69e6d353b5609787955/header_alt_assets_7.jpg?t=1793891345",
+      "appid": 1677110,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.99,
-          "por": 224.99,
-          "url": "https://store.steampowered.com/app/3751950/?cc=br"
+          "de": 89.99,
+          "por": 71.99,
+          "url": "https://store.steampowered.com/app/1677110/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.99,
-        "por": 224.99,
-        "url": "https://store.steampowered.com/app/3751950/?cc=br"
+        "de": 89.99,
+        "por": 71.99,
+        "url": "https://store.steampowered.com/app/1677110/?cc=br"
       },
-      "desconto": 25
+      "desconto": 20
     },
     {
       "id": "control-resonant",
@@ -147,6 +126,27 @@
         "url": "https://store.steampowered.com/app/3669870/?cc=br"
       },
       "desconto": 20
+    },
+    {
+      "id": "loftia",
+      "titulo": "Loftia",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2320980/header.jpg?t=1793732506",
+      "appid": 2320980,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 88.99,
+          "por": 73.86,
+          "url": "https://store.steampowered.com/app/2320980/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 88.99,
+        "por": 73.86,
+        "url": "https://store.steampowered.com/app/2320980/?cc=br"
+      },
+      "desconto": 17
     },
     {
       "id": "queen-s-domain",
@@ -172,7 +172,7 @@
     {
       "id": "probably-stolen-cyberpunk-shopkeeper-sim",
       "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793801444",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1793890375",
       "appid": 4348910,
       "ofertas": [
         {
@@ -193,7 +193,7 @@
     {
       "id": "potato-please",
       "titulo": "Potato Please",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793717995",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5266240/e289442aa6b3756109bc65b427556ea538efb849/header.jpg?t=1793891257",
       "appid": 5266240,
       "ofertas": [
         {
