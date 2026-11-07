@@ -1,26 +1,26 @@
 {
-  "atualizado": "2026-11-07T06:25:59.777Z",
+  "atualizado": "2026-11-07T13:26:58.869Z",
   "itens": [
     {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
+      "id": "fatal-fury-city-of-the-wolves",
+      "titulo": "FATAL FURY: City of the Wolves",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
+      "appid": 2492040,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+          "de": 59.99,
+          "por": 14.99,
+          "url": "https://store.steampowered.com/app/2492040/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        "de": 59.99,
+        "por": 14.99,
+        "url": "https://store.steampowered.com/app/2492040/?cc=br"
       },
-      "desconto": 90
+      "desconto": 75
     },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
@@ -65,25 +65,25 @@
       "desconto": 67
     },
     {
-      "id": "rust",
-      "titulo": "Rust",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "appid": 252490,
+      "id": "assassin-s-creed-shadows",
+      "titulo": "Assassin’s Creed Shadows",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
+      "appid": 3159330,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 119.99,
-          "por": 59.99,
-          "url": "https://store.steampowered.com/app/252490/?cc=br"
+          "de": 349.99,
+          "por": 139.99,
+          "url": "https://store.steampowered.com/app/3159330/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 119.99,
-        "por": 59.99,
-        "url": "https://store.steampowered.com/app/252490/?cc=br"
+        "de": 349.99,
+        "por": 139.99,
+        "url": "https://store.steampowered.com/app/3159330/?cc=br"
       },
-      "desconto": 50
+      "desconto": 60
     },
     {
       "id": "007-first-light",
