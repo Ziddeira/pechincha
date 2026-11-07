@@ -1,26 +1,26 @@
 {
-  "atualizado": "2026-11-07T18:13:35.487Z",
+  "atualizado": "2026-11-07T22:13:06.318Z",
   "itens": [
     {
-      "id": "fatal-fury-city-of-the-wolves",
-      "titulo": "FATAL FURY: City of the Wolves",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "appid": 2492040,
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 59.99,
-          "por": 14.99,
-          "url": "https://store.steampowered.com/app/2492040/?cc=br"
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 59.99,
-        "por": 14.99,
-        "url": "https://store.steampowered.com/app/2492040/?cc=br"
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
       },
-      "desconto": 75
+      "desconto": 90
     },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
@@ -86,27 +86,6 @@
       "desconto": 60
     },
     {
-      "id": "road-rash-edicao-de-30-aniversario",
-      "titulo": "Road Rash™: Edição de 30.º Aniversário",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2448570/a12ed683c51938590f28400c89cd8c8204e1e8db/header.jpg?t=1793986604",
-      "appid": 2448570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 49,
-          "por": 24.5,
-          "url": "https://store.steampowered.com/app/2448570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 49,
-        "por": 24.5,
-        "url": "https://store.steampowered.com/app/2448570/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
       "id": "007-first-light",
       "titulo": "007 First Light",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
@@ -166,6 +145,27 @@
         "de": 23.99,
         "por": 14.87,
         "url": "https://store.steampowered.com/app/3527290/?cc=br"
+      },
+      "desconto": 38
+    },
+    {
+      "id": "finals-week",
+      "titulo": "Finals Week ✍🏻",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "appid": 4715160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/4715160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/4715160/?cc=br"
       },
       "desconto": 38
     },
