@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-08T15:51:37.744Z",
+  "atualizado": "2026-11-08T20:16:39.430Z",
   "itens": [
     {
       "id": "dying-light-essentials-edition",
@@ -21,48 +21,6 @@
         "url": "https://store.steampowered.com/app/1345940/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "dying-light-2-reloaded-edition",
-      "titulo": "Dying Light 2: Reloaded Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/129576/361f974102857da0d3ad6e6d5a85b7b52be59b6e/header_ratio.jpg?t=1738590788",
-      "appid": 129576,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 49.8,
-          "url": "https://store.steampowered.com/app/129576/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 49.8,
-        "url": "https://store.steampowered.com/app/129576/?cc=br"
-      },
-      "desconto": 80
-    },
-    {
-      "id": "fatal-fury-city-of-the-wolves",
-      "titulo": "FATAL FURY: City of the Wolves",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "appid": 2492040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 14.99,
-          "url": "https://store.steampowered.com/app/2492040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 14.99,
-        "url": "https://store.steampowered.com/app/2492040/?cc=br"
-      },
-      "desconto": 75
     },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
@@ -128,27 +86,6 @@
       "desconto": 60
     },
     {
-      "id": "dragon-ball-sparking-zero",
-      "titulo": "DRAGON BALL: Sparking! ZERO",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
-      "appid": 1790600,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 206.5,
-          "por": 123.9,
-          "url": "https://store.steampowered.com/app/1790600/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 206.5,
-        "por": 123.9,
-        "url": "https://store.steampowered.com/app/1790600/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "007-first-light",
       "titulo": "007 First Light",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
@@ -166,6 +103,27 @@
         "de": 339.9,
         "por": 203.94,
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
+      },
+      "desconto": 40
+    },
+    {
+      "id": "dragon-ball-sparking-zero",
+      "titulo": "DRAGON BALL: Sparking! ZERO",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
+      "appid": 1790600,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 206.5,
+          "por": 123.9,
+          "url": "https://store.steampowered.com/app/1790600/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 206.5,
+        "por": 123.9,
+        "url": "https://store.steampowered.com/app/1790600/?cc=br"
       },
       "desconto": 40
     },
@@ -191,6 +149,27 @@
       "desconto": 38
     },
     {
+      "id": "finals-week",
+      "titulo": "Finals Week ✍🏻",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "appid": 4715160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/4715160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/4715160/?cc=br"
+      },
+      "desconto": 38
+    },
+    {
       "id": "r-e-p-o",
       "titulo": "R.E.P.O.",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
@@ -210,6 +189,27 @@
         "url": "https://store.steampowered.com/app/3241660/?cc=br"
       },
       "desconto": 35
+    },
+    {
+      "id": "control-resonant",
+      "titulo": "CONTROL Resonant",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
+      "appid": 3669870,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 229.99,
+          "por": 183.99,
+          "url": "https://store.steampowered.com/app/3669870/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 229.99,
+        "por": 183.99,
+        "url": "https://store.steampowered.com/app/3669870/?cc=br"
+      },
+      "desconto": 20
     }
   ]
 }
