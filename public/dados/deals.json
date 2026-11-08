@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-11-08T01:43:17.338Z",
+  "atualizado": "2026-11-08T08:44:02.325Z",
   "itens": [
+    {
+      "id": "dying-light-essentials-edition",
+      "titulo": "Dying Light Essentials Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
+      "appid": 1345940,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 99,
+          "por": 9.9,
+          "url": "https://store.steampowered.com/app/1345940/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 99,
+        "por": 9.9,
+        "url": "https://store.steampowered.com/app/1345940/?cc=br"
+      },
+      "desconto": 90
+    },
+    {
+      "id": "fatal-fury-city-of-the-wolves",
+      "titulo": "FATAL FURY: City of the Wolves",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
+      "appid": 2492040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 59.99,
+          "por": 14.99,
+          "url": "https://store.steampowered.com/app/2492040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 59.99,
+        "por": 14.99,
+        "url": "https://store.steampowered.com/app/2492040/?cc=br"
+      },
+      "desconto": 75
+    },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
       "titulo": "Grand Theft Auto IV: The Complete Edition",
@@ -86,27 +128,6 @@
       "desconto": 40
     },
     {
-      "id": "dragon-ball-sparking-zero",
-      "titulo": "DRAGON BALL: Sparking! ZERO",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
-      "appid": 1790600,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 206.5,
-          "por": 123.9,
-          "url": "https://store.steampowered.com/app/1790600/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 206.5,
-        "por": 123.9,
-        "url": "https://store.steampowered.com/app/1790600/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "peak",
       "titulo": "PEAK",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
@@ -168,27 +189,6 @@
         "url": "https://store.steampowered.com/app/3241660/?cc=br"
       },
       "desconto": 35
-    },
-    {
-      "id": "control-resonant",
-      "titulo": "CONTROL Resonant",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-      "appid": 3669870,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 229.99,
-          "por": 183.99,
-          "url": "https://store.steampowered.com/app/3669870/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 229.99,
-        "por": 183.99,
-        "url": "https://store.steampowered.com/app/3669870/?cc=br"
-      },
-      "desconto": 20
     },
     {
       "id": "probably-stolen-cyberpunk-shopkeeper-sim",
