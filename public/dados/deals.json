@@ -1,48 +1,6 @@
 {
-  "atualizado": "2026-11-09T14:12:50.217Z",
+  "atualizado": "2026-11-09T23:31:13.755Z",
   "itens": [
-    {
-      "id": "dying-light-essentials-edition",
-      "titulo": "Dying Light Essentials Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1345940/f287172af4c5358f923523fe94faa1bd9d0007c7/header_ratio.jpg?t=1751476416",
-      "appid": 1345940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 99,
-          "por": 9.9,
-          "url": "https://store.steampowered.com/app/1345940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 99,
-        "por": 9.9,
-        "url": "https://store.steampowered.com/app/1345940/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
-      "id": "fatal-fury-city-of-the-wolves",
-      "titulo": "FATAL FURY: City of the Wolves",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "appid": 2492040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 14.99,
-          "url": "https://store.steampowered.com/app/2492040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 14.99,
-        "url": "https://store.steampowered.com/app/2492040/?cc=br"
-      },
-      "desconto": 75
-    },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
       "titulo": "Grand Theft Auto IV: The Complete Edition",
@@ -86,86 +44,23 @@
       "desconto": 67
     },
     {
-      "id": "no-man-s-sky",
-      "titulo": "No Man's Sky",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/275850/9f1ca9e3b7d1dccb7b5af404a6739ddc1118ef32/header_alt_assets_26.jpg?t=1793196605",
-      "appid": 275850,
+      "id": "dragon-ball-sparking-zero",
+      "titulo": "DRAGON BALL: Sparking! ZERO",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
+      "appid": 1790600,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 162,
-          "por": 64.8,
-          "url": "https://store.steampowered.com/app/275850/?cc=br"
+          "de": 206.5,
+          "por": 123.9,
+          "url": "https://store.steampowered.com/app/1790600/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 162,
-        "por": 64.8,
-        "url": "https://store.steampowered.com/app/275850/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
-      "id": "rust",
-      "titulo": "Rust",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/252490/header.jpg?t=1781536981",
-      "appid": 252490,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 119.99,
-          "por": 59.99,
-          "url": "https://store.steampowered.com/app/252490/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 119.99,
-        "por": 59.99,
-        "url": "https://store.steampowered.com/app/252490/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dying-light-the-beast",
-      "titulo": "Dying Light: The Beast",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3008130/474a86847984d68aa1485734e450c0a86ada03b3/header.jpg?t=1793884454",
-      "appid": 3008130,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 124.5,
-          "url": "https://store.steampowered.com/app/3008130/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 124.5,
-        "url": "https://store.steampowered.com/app/3008130/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "007-first-light",
-      "titulo": "007 First Light",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1793979129",
-      "appid": 3768760,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 339.9,
-          "por": 203.94,
-          "url": "https://store.steampowered.com/app/3768760/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 339.9,
-        "por": 203.94,
-        "url": "https://store.steampowered.com/app/3768760/?cc=br"
+        "de": 206.5,
+        "por": 123.9,
+        "url": "https://store.steampowered.com/app/1790600/?cc=br"
       },
       "desconto": 40
     },
@@ -191,25 +86,130 @@
       "desconto": 38
     },
     {
-      "id": "r-e-p-o",
-      "titulo": "R.E.P.O.",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3241660/62177765c05399116f0453fe1177b00ceed698c4/header_alt_assets_3.jpg?t=1793278962",
-      "appid": 3241660,
+      "id": "finals-week",
+      "titulo": "Finals Week ✍🏻",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "appid": 4715160,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 29.99,
-          "por": 19.49,
-          "url": "https://store.steampowered.com/app/3241660/?cc=br"
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/4715160/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 29.99,
-        "por": 19.49,
-        "url": "https://store.steampowered.com/app/3241660/?cc=br"
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/4715160/?cc=br"
       },
-      "desconto": 35
+      "desconto": 38
+    },
+    {
+      "id": "mortal-shell-ii",
+      "titulo": "Mortal Shell II",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
+      "appid": 2584270,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159,
+          "por": 119.25,
+          "url": "https://store.steampowered.com/app/2584270/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159,
+        "por": 119.25,
+        "url": "https://store.steampowered.com/app/2584270/?cc=br"
+      },
+      "desconto": 25
+    },
+    {
+      "id": "assassin-s-creed-black-flag-resynced",
+      "titulo": "Assassin's Creed Black Flag Resynced",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
+      "appid": 3751950,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299.99,
+          "por": 224.99,
+          "url": "https://store.steampowered.com/app/3751950/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299.99,
+        "por": 224.99,
+        "url": "https://store.steampowered.com/app/3751950/?cc=br"
+      },
+      "desconto": 25
+    },
+    {
+      "id": "casualties-unknown",
+      "titulo": "Casualties: Unknown",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4576490/907888dce73f50c48410b5ab92971a0d95776b29/header.jpg?t=1794232782",
+      "appid": 4576490,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 69.99,
+          "por": 59.49,
+          "url": "https://store.steampowered.com/app/4576490/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 69.99,
+        "por": 59.49,
+        "url": "https://store.steampowered.com/app/4576490/?cc=br"
+      },
+      "desconto": 15
+    },
+    {
+      "id": "go-next",
+      "titulo": "Go Next!",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5064170/fd2ef71b9537f3fff25f47e9ec5ea92ae290b7b8/header.jpg?t=1794242414",
+      "appid": 5064170,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 48.49,
+          "por": 41.21,
+          "url": "https://store.steampowered.com/app/5064170/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 48.49,
+        "por": 41.21,
+        "url": "https://store.steampowered.com/app/5064170/?cc=br"
+      },
+      "desconto": 15
+    },
+    {
+      "id": "dreadmoor",
+      "titulo": "DREADMOOR",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
+      "appid": 3629430,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 67.99,
+          "por": 61.19,
+          "url": "https://store.steampowered.com/app/3629430/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 67.99,
+        "por": 61.19,
+        "url": "https://store.steampowered.com/app/3629430/?cc=br"
+      },
+      "desconto": 10
     }
   ]
 }
