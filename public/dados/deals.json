@@ -1,45 +1,24 @@
 {
-  "atualizado": "2026-11-10T15:27:54.174Z",
+  "atualizado": "2026-11-10T21:24:10.445Z",
   "itens": [
     {
-      "id": "assassin-s-creed-odyssey",
-      "titulo": "Assassin's Creed® Odyssey",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1793886405",
-      "appid": 812140,
+      "id": "euro-truck-simulator-2",
+      "titulo": "Euro Truck Simulator 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1793285269",
+      "appid": 227300,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 179.99,
-          "por": 35.99,
-          "url": "https://store.steampowered.com/app/812140/?cc=br"
+          "de": 66.99,
+          "por": 16.74,
+          "url": "https://store.steampowered.com/app/227300/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 179.99,
-        "por": 35.99,
-        "url": "https://store.steampowered.com/app/812140/?cc=br"
-      },
-      "desconto": 80
-    },
-    {
-      "id": "fatal-fury-city-of-the-wolves",
-      "titulo": "FATAL FURY: City of the Wolves",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
-      "appid": 2492040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 59.99,
-          "por": 14.99,
-          "url": "https://store.steampowered.com/app/2492040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 59.99,
-        "por": 14.99,
-        "url": "https://store.steampowered.com/app/2492040/?cc=br"
+        "de": 66.99,
+        "por": 16.74,
+        "url": "https://store.steampowered.com/app/227300/?cc=br"
       },
       "desconto": 75
     },
@@ -86,25 +65,46 @@
       "desconto": 67
     },
     {
-      "id": "dragon-ball-sparking-zero",
-      "titulo": "DRAGON BALL: Sparking! ZERO",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
-      "appid": 1790600,
+      "id": "dead-by-daylight-chucky-chapter",
+      "titulo": "Dead by Daylight - Chucky Chapter",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2656010/header.jpg?t=1715626039",
+      "appid": 2656010,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 206.5,
-          "por": 123.9,
-          "url": "https://store.steampowered.com/app/1790600/?cc=br"
+          "de": 17.49,
+          "por": 8.74,
+          "url": "https://store.steampowered.com/app/2656010/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 206.5,
-        "por": 123.9,
-        "url": "https://store.steampowered.com/app/1790600/?cc=br"
+        "de": 17.49,
+        "por": 8.74,
+        "url": "https://store.steampowered.com/app/2656010/?cc=br"
       },
-      "desconto": 40
+      "desconto": 50
+    },
+    {
+      "id": "booster-pack-heroes",
+      "titulo": "Booster Pack Heroes",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
+      "appid": 4618570,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 33.99,
+          "por": 23.79,
+          "url": "https://store.steampowered.com/app/4618570/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 33.99,
+        "por": 23.79,
+        "url": "https://store.steampowered.com/app/4618570/?cc=br"
+      },
+      "desconto": 30
     },
     {
       "id": "mortal-shell-ii",
@@ -126,27 +126,6 @@
         "url": "https://store.steampowered.com/app/2584270/?cc=br"
       },
       "desconto": 25
-    },
-    {
-      "id": "control-resonant",
-      "titulo": "CONTROL Resonant",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669870/1e0c76e4253d347bb1304c3f213570251d924edf/header.jpg?t=1793357289",
-      "appid": 3669870,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 229.99,
-          "por": 183.99,
-          "url": "https://store.steampowered.com/app/3669870/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 229.99,
-        "por": 183.99,
-        "url": "https://store.steampowered.com/app/3669870/?cc=br"
-      },
-      "desconto": 20
     },
     {
       "id": "casualties-unknown",
@@ -208,6 +187,27 @@
         "de": 29.99,
         "por": 26.99,
         "url": "https://store.steampowered.com/app/3669620/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "euro-truck-simulator-2-nordic-horizons",
+      "titulo": "Euro Truck Simulator 2 - Nordic Horizons",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg?t=1781093020",
+      "appid": 2780810,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 61.49,
+          "por": 55.34,
+          "url": "https://store.steampowered.com/app/2780810/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 61.49,
+        "por": 55.34,
+        "url": "https://store.steampowered.com/app/2780810/?cc=br"
       },
       "desconto": 10
     }

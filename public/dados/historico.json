@@ -390,6 +390,11 @@
       "por": 15.49,
       "loja": "steam",
       "em": "2026-09-24T18:16:39.989Z"
+    },
+    {
+      "por": 16.74,
+      "loja": "steam",
+      "em": "2026-11-10T21:24:10.446Z"
     }
   ],
   "dark-souls-remastered": [
@@ -1112,6 +1117,27 @@
       "por": 26.99,
       "loja": "steam",
       "em": "2026-11-10T15:27:54.175Z"
+    }
+  ],
+  "dead-by-daylight-chucky-chapter": [
+    {
+      "por": 8.74,
+      "loja": "steam",
+      "em": "2026-11-10T21:24:10.446Z"
+    }
+  ],
+  "booster-pack-heroes": [
+    {
+      "por": 23.79,
+      "loja": "steam",
+      "em": "2026-11-10T21:24:10.446Z"
+    }
+  ],
+  "euro-truck-simulator-2-nordic-horizons": [
+    {
+      "por": 55.34,
+      "loja": "steam",
+      "em": "2026-11-10T21:24:10.446Z"
     }
   ]
 }
