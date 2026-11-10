@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-11-10T06:33:35.774Z",
+  "atualizado": "2026-11-10T15:27:54.174Z",
   "itens": [
+    {
+      "id": "assassin-s-creed-odyssey",
+      "titulo": "Assassin's Creed® Odyssey",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/812140/header.jpg?t=1793886405",
+      "appid": 812140,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 179.99,
+          "por": 35.99,
+          "url": "https://store.steampowered.com/app/812140/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 179.99,
+        "por": 35.99,
+        "url": "https://store.steampowered.com/app/812140/?cc=br"
+      },
+      "desconto": 80
+    },
+    {
+      "id": "fatal-fury-city-of-the-wolves",
+      "titulo": "FATAL FURY: City of the Wolves",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2492040/20f8f1e03649d45e095315cc4a99104dda0364ab/header.jpg?t=1792688653",
+      "appid": 2492040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 59.99,
+          "por": 14.99,
+          "url": "https://store.steampowered.com/app/2492040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 59.99,
+        "por": 14.99,
+        "url": "https://store.steampowered.com/app/2492040/?cc=br"
+      },
+      "desconto": 75
+    },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
       "titulo": "Grand Theft Auto IV: The Complete Edition",
@@ -44,27 +86,6 @@
       "desconto": 67
     },
     {
-      "id": "assassin-s-creed-shadows",
-      "titulo": "Assassin’s Creed Shadows",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3159330/header.jpg?t=1792778493",
-      "appid": 3159330,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 349.99,
-          "por": 139.99,
-          "url": "https://store.steampowered.com/app/3159330/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 349.99,
-        "por": 139.99,
-        "url": "https://store.steampowered.com/app/3159330/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "dragon-ball-sparking-zero",
       "titulo": "DRAGON BALL: Sparking! ZERO",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1790600/header.jpg?t=1785726916",
@@ -86,27 +107,6 @@
       "desconto": 40
     },
     {
-      "id": "peak",
-      "titulo": "PEAK",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
-      "appid": 3527290,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 23.99,
-          "por": 14.87,
-          "url": "https://store.steampowered.com/app/3527290/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 23.99,
-        "por": 14.87,
-        "url": "https://store.steampowered.com/app/3527290/?cc=br"
-      },
-      "desconto": 38
-    },
-    {
       "id": "mortal-shell-ii",
       "titulo": "Mortal Shell II",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
@@ -124,27 +124,6 @@
         "de": 159,
         "por": 119.25,
         "url": "https://store.steampowered.com/app/2584270/?cc=br"
-      },
-      "desconto": 25
-    },
-    {
-      "id": "assassin-s-creed-black-flag-resynced",
-      "titulo": "Assassin's Creed Black Flag Resynced",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3751950/8a128a3d00e5c23fd36443876a60e1b6d497fc7b/header_alt_assets_0.jpg?t=1793391152",
-      "appid": 3751950,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 299.99,
-          "por": 224.99,
-          "url": "https://store.steampowered.com/app/3751950/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 299.99,
-        "por": 224.99,
-        "url": "https://store.steampowered.com/app/3751950/?cc=br"
       },
       "desconto": 25
     },
@@ -208,6 +187,27 @@
         "de": 67.99,
         "por": 61.19,
         "url": "https://store.steampowered.com/app/3629430/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "warhammer-survivors",
+      "titulo": "Warhammer Survivors",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794319205",
+      "appid": 3669620,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 29.99,
+          "por": 26.99,
+          "url": "https://store.steampowered.com/app/3669620/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 29.99,
+        "por": 26.99,
+        "url": "https://store.steampowered.com/app/3669620/?cc=br"
       },
       "desconto": 10
     }
