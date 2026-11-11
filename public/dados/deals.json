@@ -1,27 +1,6 @@
 {
-  "atualizado": "2026-11-11T01:23:54.165Z",
+  "atualizado": "2026-11-11T08:08:12.173Z",
   "itens": [
-    {
-      "id": "tom-clancy-s-ghost-recon-wildlands",
-      "titulo": "Tom Clancy's Ghost Recon® Wildlands",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/460930/36ca0e082902bb8b6f4f0f3ae20de41b1a3c54c6/header.jpg?t=1790268185",
-      "appid": 460930,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.99,
-          "por": 49.99,
-          "url": "https://store.steampowered.com/app/460930/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.99,
-        "por": 49.99,
-        "url": "https://store.steampowered.com/app/460930/?cc=br"
-      },
-      "desconto": 80
-    },
     {
       "id": "euro-truck-simulator-2",
       "titulo": "Euro Truck Simulator 2",
@@ -107,25 +86,25 @@
       "desconto": 38
     },
     {
-      "id": "finals-week",
-      "titulo": "Finals Week ✍🏻",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
-      "appid": 4715160,
+      "id": "booster-pack-heroes",
+      "titulo": "Booster Pack Heroes",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
+      "appid": 4618570,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 27.49,
-          "por": 17.04,
-          "url": "https://store.steampowered.com/app/4715160/?cc=br"
+          "de": 33.99,
+          "por": 23.79,
+          "url": "https://store.steampowered.com/app/4618570/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 27.49,
-        "por": 17.04,
-        "url": "https://store.steampowered.com/app/4715160/?cc=br"
+        "de": 33.99,
+        "por": 23.79,
+        "url": "https://store.steampowered.com/app/4618570/?cc=br"
       },
-      "desconto": 38
+      "desconto": 30
     },
     {
       "id": "mortal-shell-ii",
@@ -208,6 +187,27 @@
         "de": 67.99,
         "por": 61.19,
         "url": "https://store.steampowered.com/app/3629430/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
+      "id": "probably-stolen-cyberpunk-shopkeeper-sim",
+      "titulo": "Probably Stolen - Cyberpunk Shopkeeper Sim",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4348910/b241a3bc1cb144e70a4840157e127212738ea5b3/header_alt_assets_3.jpg?t=1794162078",
+      "appid": 4348910,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 44.99,
+          "por": 40.49,
+          "url": "https://store.steampowered.com/app/4348910/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 44.99,
+        "por": 40.49,
+        "url": "https://store.steampowered.com/app/4348910/?cc=br"
       },
       "desconto": 10
     }
