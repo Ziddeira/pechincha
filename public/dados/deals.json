@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-11T22:58:41.825Z",
+  "atualizado": "2026-11-12T03:44:49.715Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -107,6 +107,27 @@
       "desconto": 38
     },
     {
+      "id": "finals-week",
+      "titulo": "Finals Week ✍🏻",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4715160/3d05c4f85866620b0b47754e30414cb4414b42dc/header.jpg?t=1793289966",
+      "appid": 4715160,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/4715160/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/4715160/?cc=br"
+      },
+      "desconto": 38
+    },
+    {
       "id": "diablo-ii-resurrected-edicao-infernal",
       "titulo": "Diablo II: Resurrected – Edição Infernal",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
@@ -187,27 +208,6 @@
         "de": 29.99,
         "por": 26.99,
         "url": "https://store.steampowered.com/app/3669620/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "dreadmoor",
-      "titulo": "DREADMOOR",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
-      "appid": 3629430,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 67.99,
-          "por": 61.19,
-          "url": "https://store.steampowered.com/app/3629430/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 67.99,
-        "por": 61.19,
-        "url": "https://store.steampowered.com/app/3629430/?cc=br"
       },
       "desconto": 10
     }
