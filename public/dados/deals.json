@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-12T12:20:40.563Z",
+  "atualizado": "2026-11-12T20:17:28.887Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -25,7 +25,7 @@
     {
       "id": "euro-truck-simulator-2",
       "titulo": "Euro Truck Simulator 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794483558",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
       "appid": 227300,
       "ofertas": [
         {
@@ -86,6 +86,27 @@
       "desconto": 67
     },
     {
+      "id": "iracing",
+      "titulo": "iRacing",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1793718419",
+      "appid": 266410,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 36.29,
+          "por": 14.51,
+          "url": "https://store.steampowered.com/app/266410/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 36.29,
+        "por": 14.51,
+        "url": "https://store.steampowered.com/app/266410/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "peak",
       "titulo": "PEAK",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3527290/31bac6b2eccf09b368f5e95ce510bae2baf3cfcd/header.jpg?t=1792684718",
@@ -128,27 +149,6 @@
       "desconto": 35
     },
     {
-      "id": "booster-pack-heroes",
-      "titulo": "Booster Pack Heroes",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4618570/b23824cde8f828abb42f3ef497f37657475ba505/header.jpg?t=1794316433",
-      "appid": 4618570,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 33.99,
-          "por": 23.79,
-          "url": "https://store.steampowered.com/app/4618570/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 33.99,
-        "por": 23.79,
-        "url": "https://store.steampowered.com/app/4618570/?cc=br"
-      },
-      "desconto": 30
-    },
-    {
       "id": "mortal-shell-ii",
       "titulo": "Mortal Shell II",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
@@ -170,44 +170,44 @@
       "desconto": 25
     },
     {
-      "id": "dreadmoor",
-      "titulo": "DREADMOOR",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
-      "appid": 3629430,
+      "id": "euro-truck-simulator-2-nordic-horizons",
+      "titulo": "Euro Truck Simulator 2 - Nordic Horizons",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2780810/755876b6f5502e6f99963003277519a3b96ba55b/header.jpg?t=1781093020",
+      "appid": 2780810,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 67.99,
-          "por": 61.19,
-          "url": "https://store.steampowered.com/app/3629430/?cc=br"
+          "de": 61.49,
+          "por": 55.34,
+          "url": "https://store.steampowered.com/app/2780810/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 67.99,
-        "por": 61.19,
-        "url": "https://store.steampowered.com/app/3629430/?cc=br"
+        "de": 61.49,
+        "por": 55.34,
+        "url": "https://store.steampowered.com/app/2780810/?cc=br"
       },
       "desconto": 10
     },
     {
-      "id": "warhammer-survivors",
-      "titulo": "Warhammer Survivors",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3669620/dc61fccdeec6b05a58fbcdd7b1d0bbbe1f6999ea/header.jpg?t=1794485359",
-      "appid": 3669620,
+      "id": "celsector",
+      "titulo": "CelSector",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg?t=1794513521",
+      "appid": 4651080,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 29.99,
-          "por": 26.99,
-          "url": "https://store.steampowered.com/app/3669620/?cc=br"
+          "de": 56.99,
+          "por": 51.29,
+          "url": "https://store.steampowered.com/app/4651080/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 29.99,
-        "por": 26.99,
-        "url": "https://store.steampowered.com/app/3669620/?cc=br"
+        "de": 56.99,
+        "por": 51.29,
+        "url": "https://store.steampowered.com/app/4651080/?cc=br"
       },
       "desconto": 10
     }

@@ -1,23 +1,14 @@
 {
-  "atualizado": "2026-11-12T12:20:40.565Z",
+  "atualizado": "2026-11-12T20:17:28.890Z",
   "itens": [
     {
-      "id": "idle-champions-of-the-forgotten-realms",
-      "titulo": "Idle Champions of the Forgotten Realms",
+      "id": "knightica",
+      "titulo": "Knightica",
       "loja": "epic",
-      "de": 0,
-      "capa": "https://cdn1.epicgames.com/spt-assets/a53f91e55c6840018cb5de0b204f1ad9/idle-champions-of-the-forgotten-realms-1gbsg.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/idle-champions-of-the-forgotten-realms",
-      "acaba": "2026-11-12T16:00:00.000Z"
-    },
-    {
-      "id": "flotsam",
-      "titulo": "Flotsam",
-      "loja": "epic",
-      "de": 47.49,
-      "capa": "https://cdn1.epicgames.com/spt-assets/5c36b876e80d4285b9993947efeeaf2b/flotsam-1yczl.jpg",
-      "url": "https://store.epicgames.com/pt-BR/p/flotsam-266287",
-      "acaba": "2026-11-12T16:00:00.000Z"
+      "de": 39.99,
+      "capa": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
+      "url": "https://store.epicgames.com/pt-BR/p/knightica-3be45c",
+      "acaba": "2026-11-19T16:00:00.000Z"
     }
   ]
 }
