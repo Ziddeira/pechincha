@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-12T20:17:28.887Z",
+  "atualizado": "2026-11-13T01:22:34.519Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -65,6 +65,27 @@
       "desconto": 70
     },
     {
+      "id": "hearts-of-iron-iv",
+      "titulo": "Hearts of Iron IV",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/394360/67bbd0057627fc2244793bcdd09260c2539499cf/header.jpg?t=1794491980",
+      "appid": 394360,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 188.99,
+          "por": 56.69,
+          "url": "https://store.steampowered.com/app/394360/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 188.99,
+        "por": 56.69,
+        "url": "https://store.steampowered.com/app/394360/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
       "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
       "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
@@ -86,25 +107,25 @@
       "desconto": 67
     },
     {
-      "id": "iracing",
-      "titulo": "iRacing",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1793718419",
-      "appid": 266410,
+      "id": "9-kings",
+      "titulo": "9 Kings",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794518469",
+      "appid": 2784470,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 36.29,
-          "por": 14.51,
-          "url": "https://store.steampowered.com/app/266410/?cc=br"
+          "de": 39.99,
+          "por": 19.99,
+          "url": "https://store.steampowered.com/app/2784470/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 36.29,
-        "por": 14.51,
-        "url": "https://store.steampowered.com/app/266410/?cc=br"
+        "de": 39.99,
+        "por": 19.99,
+        "url": "https://store.steampowered.com/app/2784470/?cc=br"
       },
-      "desconto": 60
+      "desconto": 50
     },
     {
       "id": "peak",
@@ -187,27 +208,6 @@
         "de": 61.49,
         "por": 55.34,
         "url": "https://store.steampowered.com/app/2780810/?cc=br"
-      },
-      "desconto": 10
-    },
-    {
-      "id": "celsector",
-      "titulo": "CelSector",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg?t=1794513521",
-      "appid": 4651080,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 56.99,
-          "por": 51.29,
-          "url": "https://store.steampowered.com/app/4651080/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 56.99,
-        "por": 51.29,
-        "url": "https://store.steampowered.com/app/4651080/?cc=br"
       },
       "desconto": 10
     }
