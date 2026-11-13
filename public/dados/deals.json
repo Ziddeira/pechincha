@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-13T08:35:38.915Z",
+  "atualizado": "2026-11-13T17:00:38.608Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -170,44 +170,44 @@
       "desconto": 25
     },
     {
-      "id": "celsector",
-      "titulo": "CelSector",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4651080/6c4ee73b627c590e950ede978cf005eaa6b2d0a8/header.jpg?t=1794513521",
-      "appid": 4651080,
+      "id": "drawquarium",
+      "titulo": "Drawquarium",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4045480/84e76865a2649679dfb1687354ba0e5a05f44b0b/header.jpg?t=1794578546",
+      "appid": 4045480,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 56.99,
-          "por": 51.29,
-          "url": "https://store.steampowered.com/app/4651080/?cc=br"
+          "de": 38.99,
+          "por": 31.19,
+          "url": "https://store.steampowered.com/app/4045480/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 56.99,
-        "por": 51.29,
-        "url": "https://store.steampowered.com/app/4651080/?cc=br"
+        "de": 38.99,
+        "por": 31.19,
+        "url": "https://store.steampowered.com/app/4045480/?cc=br"
       },
-      "desconto": 10
+      "desconto": 20
     },
     {
-      "id": "dreadmoor",
-      "titulo": "DREADMOOR",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
-      "appid": 3629430,
+      "id": "slotbound",
+      "titulo": "Slotbound",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4459590/560f439f789caa08634fbf9ff462c73bf06fbf41/header.jpg?t=1794535601",
+      "appid": 4459590,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 67.99,
-          "por": 61.19,
-          "url": "https://store.steampowered.com/app/3629430/?cc=br"
+          "de": 33.99,
+          "por": 30.59,
+          "url": "https://store.steampowered.com/app/4459590/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 67.99,
-        "por": 61.19,
-        "url": "https://store.steampowered.com/app/3629430/?cc=br"
+        "de": 33.99,
+        "por": 30.59,
+        "url": "https://store.steampowered.com/app/4459590/?cc=br"
       },
       "desconto": 10
     }
