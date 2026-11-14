@@ -1,6 +1,27 @@
 {
-  "atualizado": "2026-11-14T16:40:35.812Z",
+  "atualizado": "2026-11-14T21:10:56.506Z",
   "itens": [
+    {
+      "id": "sniper-elite-5",
+      "titulo": "Sniper Elite 5",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1029690/header.jpg?t=1770633150",
+      "appid": 1029690,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 93.99,
+          "por": 9.39,
+          "url": "https://store.steampowered.com/app/1029690/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 93.99,
+        "por": 9.39,
+        "url": "https://store.steampowered.com/app/1029690/?cc=br"
+      },
+      "desconto": 90
+    },
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
       "titulo": "The Elder Scrolls V: Skyrim Special Edition",
@@ -86,27 +107,6 @@
       "desconto": 67
     },
     {
-      "id": "iracing",
-      "titulo": "iRacing",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/266410/header.jpg?t=1793718419",
-      "appid": 266410,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 36.29,
-          "por": 14.51,
-          "url": "https://store.steampowered.com/app/266410/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 36.29,
-        "por": 14.51,
-        "url": "https://store.steampowered.com/app/266410/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "9-kings",
       "titulo": "9 Kings",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2784470/640a138fbc6918daa276a4653360eca9e4488b65/header.jpg?t=1794598226",
@@ -149,6 +149,27 @@
       "desconto": 38
     },
     {
+      "id": "diablo-ii-resurrected-edicao-infernal",
+      "titulo": "Diablo II: Resurrected – Edição Infernal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2536520/8cfd8f0d73075b10b3b58d9eccfee799baffab79/header.jpg?t=1774399170",
+      "appid": 2536520,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 174.9,
+          "por": 113.68,
+          "url": "https://store.steampowered.com/app/2536520/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 174.9,
+        "por": 113.68,
+        "url": "https://store.steampowered.com/app/2536520/?cc=br"
+      },
+      "desconto": 35
+    },
+    {
       "id": "mortal-shell-ii",
       "titulo": "Mortal Shell II",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2584270/0a4c23b70ced29fac344186ea564dae67c80cfd6/header.jpg?t=1794241756",
@@ -172,7 +193,7 @@
     {
       "id": "bodycam",
       "titulo": "Bodycam",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794590337",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
       "appid": 2406770,
       "ofertas": [
         {
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/2406770/?cc=br"
       },
       "desconto": 20
-    },
-    {
-      "id": "dreadmoor",
-      "titulo": "DREADMOOR",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3629430/5b80c132b3479c69a92c25a5266db523850cfc36/header.jpg?t=1794233002",
-      "appid": 3629430,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 67.99,
-          "por": 61.19,
-          "url": "https://store.steampowered.com/app/3629430/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 67.99,
-        "por": 61.19,
-        "url": "https://store.steampowered.com/app/3629430/?cc=br"
-      },
-      "desconto": 10
     }
   ]
 }
