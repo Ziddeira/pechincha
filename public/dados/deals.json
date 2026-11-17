@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17T01:58:05.474Z",
+  "atualizado": "2026-11-17T10:31:04.913Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/489830/?cc=br"
       },
       "desconto": 80
-    },
-    {
-      "id": "euro-truck-simulator-2",
-      "titulo": "Euro Truck Simulator 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-      "appid": 227300,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 66.99,
-          "por": 16.74,
-          "url": "https://store.steampowered.com/app/227300/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 66.99,
-        "por": 16.74,
-        "url": "https://store.steampowered.com/app/227300/?cc=br"
-      },
-      "desconto": 75
     },
     {
       "id": "grand-theft-auto-iv-the-complete-edition",
@@ -191,9 +170,30 @@
       "desconto": 20
     },
     {
+      "id": "melvor-idle-2-a-runescape-adventure",
+      "titulo": "Melvor Idle 2: A RuneScape Adventure",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794906105",
+      "appid": 3218350,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 48.49,
+          "por": 43.64,
+          "url": "https://store.steampowered.com/app/3218350/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 48.49,
+        "por": 43.64,
+        "url": "https://store.steampowered.com/app/3218350/?cc=br"
+      },
+      "desconto": 10
+    },
+    {
       "id": "dungeonbound",
       "titulo": "Dungeonbound",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794837625",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5200620/b3a32d9086038acf42c9457c2bc062f93d90ea3e/header.jpg?t=1794892806",
       "appid": 5200620,
       "ofertas": [
         {
