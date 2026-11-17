@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-16T18:06:19.274Z",
+  "atualizado": "2026-11-17T01:58:05.474Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -44,27 +44,6 @@
       "desconto": 75
     },
     {
-      "id": "sifu",
-      "titulo": "Sifu",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2138710/header.jpg?t=1782742326",
-      "appid": 2138710,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 75.99,
-          "por": 18.99,
-          "url": "https://store.steampowered.com/app/2138710/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 75.99,
-        "por": 18.99,
-        "url": "https://store.steampowered.com/app/2138710/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
       "id": "grand-theft-auto-iv-the-complete-edition",
       "titulo": "Grand Theft Auto IV: The Complete Edition",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
@@ -84,6 +63,48 @@
         "url": "https://store.steampowered.com/app/12210/?cc=br"
       },
       "desconto": 70
+    },
+    {
+      "id": "persona-5-royal",
+      "titulo": "Persona 5 Royal",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
+      "appid": 1687950,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1687950/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1687950/?cc=br"
+      },
+      "desconto": 70
+    },
+    {
+      "id": "kingdom-come-deliverance-ii",
+      "titulo": "Kingdom Come: Deliverance II",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1771300/header.jpg?t=1777975568",
+      "appid": 1771300,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 98.67,
+          "url": "https://store.steampowered.com/app/1771300/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 98.67,
+        "url": "https://store.steampowered.com/app/1771300/?cc=br"
+      },
+      "desconto": 67
     },
     {
       "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
@@ -107,30 +128,9 @@
       "desconto": 67
     },
     {
-      "id": "the-first-berserker-khazan",
-      "titulo": "The First Berserker: Khazan",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2680010/header.jpg?t=1776936760",
-      "appid": 2680010,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 229.5,
-          "por": 137.7,
-          "url": "https://store.steampowered.com/app/2680010/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 229.5,
-        "por": 137.7,
-        "url": "https://store.steampowered.com/app/2680010/?cc=br"
-      },
-      "desconto": 40
-    },
-    {
       "id": "just-volleyball",
       "titulo": "just volleyball",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794847580",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
       "appid": 5037200,
       "ofertas": [
         {
