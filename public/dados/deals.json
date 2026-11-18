@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-17T19:40:27.963Z",
+  "atualizado": "2026-11-18T02:13:07.153Z",
   "itens": [
     {
       "id": "the-elder-scrolls-v-skyrim-special-edition",
@@ -23,67 +23,67 @@
       "desconto": 80
     },
     {
-      "id": "euro-truck-simulator-2",
-      "titulo": "Euro Truck Simulator 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/227300/9a81dc3126c56637297b654f9dcac057cfd79b77/header.jpg?t=1794502925",
-      "appid": 227300,
+      "id": "call-of-duty-black-ops-iii",
+      "titulo": "Call of Duty®: Black Ops III",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/311210/header.jpg?t=1780963650",
+      "appid": 311210,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 66.99,
-          "por": 16.74,
-          "url": "https://store.steampowered.com/app/227300/?cc=br"
+          "de": 329.9,
+          "por": 82.47,
+          "url": "https://store.steampowered.com/app/311210/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 66.99,
-        "por": 16.74,
-        "url": "https://store.steampowered.com/app/227300/?cc=br"
+        "de": 329.9,
+        "por": 82.47,
+        "url": "https://store.steampowered.com/app/311210/?cc=br"
       },
       "desconto": 75
     },
     {
-      "id": "grand-theft-auto-iv-the-complete-edition",
-      "titulo": "Grand Theft Auto IV: The Complete Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/12210/header.jpg?t=1721061564",
-      "appid": 12210,
+      "id": "call-of-duty-wwii",
+      "titulo": "Call of Duty®: WWII",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1780963893",
+      "appid": 476600,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 79,
-          "por": 23.7,
-          "url": "https://store.steampowered.com/app/12210/?cc=br"
+          "de": 329.9,
+          "por": 82.47,
+          "url": "https://store.steampowered.com/app/476600/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 79,
-        "por": 23.7,
-        "url": "https://store.steampowered.com/app/12210/?cc=br"
+        "de": 329.9,
+        "por": 82.47,
+        "url": "https://store.steampowered.com/app/476600/?cc=br"
       },
-      "desconto": 70
+      "desconto": 75
     },
     {
-      "id": "persona-5-royal",
-      "titulo": "Persona 5 Royal",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1687950/header.jpg?t=1783356822",
-      "appid": 1687950,
+      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
+      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
+      "appid": 817628,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 74.97,
-          "url": "https://store.steampowered.com/app/1687950/?cc=br"
+          "de": 299.9,
+          "por": 98.96,
+          "url": "https://store.steampowered.com/app/817628/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 74.97,
-        "url": "https://store.steampowered.com/app/1687950/?cc=br"
+        "de": 299.9,
+        "por": 98.96,
+        "url": "https://store.steampowered.com/app/817628/?cc=br"
       },
-      "desconto": 70
+      "desconto": 67
     },
     {
       "id": "kingdom-come-deliverance-ii",
@@ -107,25 +107,25 @@
       "desconto": 67
     },
     {
-      "id": "grand-theft-auto-the-trilogy-the-definitive-edition",
-      "titulo": "Grand Theft Auto: The Trilogy – The Definitive Edition",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/817628/header_ratio.jpg?t=1752520763",
-      "appid": 817628,
+      "id": "lies-of-p",
+      "titulo": "Lies of P",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1794963244",
+      "appid": 1627720,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299.9,
-          "por": 98.96,
-          "url": "https://store.steampowered.com/app/817628/?cc=br"
+          "de": 249.9,
+          "por": 124.95,
+          "url": "https://store.steampowered.com/app/1627720/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299.9,
-        "por": 98.96,
-        "url": "https://store.steampowered.com/app/817628/?cc=br"
+        "de": 249.9,
+        "por": 124.95,
+        "url": "https://store.steampowered.com/app/1627720/?cc=br"
       },
-      "desconto": 67
+      "desconto": 50
     },
     {
       "id": "just-volleyball",
@@ -151,7 +151,7 @@
     {
       "id": "bodycam",
       "titulo": "Bodycam",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/b533bca55927692f0cf812ebb91c6e6e8f5cb4a6/header_alt_assets_4.jpg?t=1794683329",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2406770/677415ebaf02fc7ae5fe8960e6055e65e9fa21a4/header_alt_assets_4.jpg?t=1794951323",
       "appid": 2406770,
       "ofertas": [
         {
@@ -193,7 +193,7 @@
     {
       "id": "melvor-idle-2-a-runescape-adventure",
       "titulo": "Melvor Idle 2: A RuneScape Adventure",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794927857",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3218350/21b3f6881a12eef86b7c17b21640b396f3510f92/header.jpg?t=1794955439",
       "appid": 3218350,
       "ofertas": [
         {
