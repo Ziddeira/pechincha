@@ -1,14 +1,14 @@
 {
-  "atualizado": "2026-11-19T09:14:18.038Z",
+  "atualizado": "2026-11-19T18:31:17.498Z",
   "itens": [
     {
-      "id": "knightica",
-      "titulo": "Knightica",
+      "id": "mark-of-the-deep",
+      "titulo": "Mark of the Deep",
       "loja": "epic",
       "de": 39.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/357100ca5613420e98208c5f14585e9d/knightica-1nuxm.png",
-      "url": "https://store.epicgames.com/pt-BR/p/knightica-3be45c",
-      "acaba": "2026-11-19T16:00:00.000Z"
+      "capa": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
+      "url": "https://store.epicgames.com/pt-BR/p/mark-of-the-deep-f7dc08",
+      "acaba": "2026-11-26T16:00:00.000Z"
     }
   ]
 }
