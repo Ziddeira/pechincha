@@ -1,6 +1,48 @@
 {
-  "atualizado": "2026-11-18T19:16:41.086Z",
+  "atualizado": "2026-11-19T01:22:07.125Z",
   "itens": [
+    {
+      "id": "final-fantasy-vii-rebirth",
+      "titulo": "FINAL FANTASY VII REBIRTH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "appid": 2909400,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 219.9,
+          "por": 32.98,
+          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 219.9,
+        "por": 32.98,
+        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+      },
+      "desconto": 85
+    },
+    {
+      "id": "final-fantasy-vii-remake-intergrade",
+      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
+      "appid": 1462040,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 174.9,
+          "por": 31.48,
+          "url": "https://store.steampowered.com/app/1462040/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 174.9,
+        "por": 31.48,
+        "url": "https://store.steampowered.com/app/1462040/?cc=br"
+      },
+      "desconto": 82
+    },
     {
       "id": "call-of-duty-black-ops-iii",
       "titulo": "Call of Duty®: Black Ops III",
@@ -19,48 +61,6 @@
         "de": 329.9,
         "por": 82.47,
         "url": "https://store.steampowered.com/app/311210/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
-      "id": "call-of-duty-wwii",
-      "titulo": "Call of Duty®: WWII",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/476600/header.jpg?t=1780963893",
-      "appid": 476600,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 329.9,
-          "por": 82.47,
-          "url": "https://store.steampowered.com/app/476600/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 329.9,
-        "por": 82.47,
-        "url": "https://store.steampowered.com/app/476600/?cc=br"
-      },
-      "desconto": 75
-    },
-    {
-      "id": "call-of-duty-black-ops-cold-war",
-      "titulo": "Call of Duty®: Black Ops Cold War",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1985810/header.jpg?t=1780964053",
-      "appid": 1985810,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 329.9,
-          "por": 82.47,
-          "url": "https://store.steampowered.com/app/1985810/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 329.9,
-        "por": 82.47,
-        "url": "https://store.steampowered.com/app/1985810/?cc=br"
       },
       "desconto": 75
     },
@@ -128,25 +128,25 @@
       "desconto": 67
     },
     {
-      "id": "lies-of-p",
-      "titulo": "Lies of P",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1627720/header.jpg?t=1794963244",
-      "appid": 1627720,
+      "id": "nier-automata",
+      "titulo": "NieR:Automata™",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/524220/header.jpg?t=1793890935",
+      "appid": 524220,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 124.95,
-          "url": "https://store.steampowered.com/app/1627720/?cc=br"
+          "de": 107,
+          "por": 42.8,
+          "url": "https://store.steampowered.com/app/524220/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 124.95,
-        "url": "https://store.steampowered.com/app/1627720/?cc=br"
+        "de": 107,
+        "por": 42.8,
+        "url": "https://store.steampowered.com/app/524220/?cc=br"
       },
-      "desconto": 50
+      "desconto": 60
     },
     {
       "id": "just-volleyball",
