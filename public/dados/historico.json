@@ -220,6 +220,11 @@
       "por": 59.7,
       "loja": "steam",
       "em": "2026-09-15T01:43:34.547Z"
+    },
+    {
+      "por": 39.8,
+      "loja": "steam",
+      "em": "2026-11-20T01:05:34.601Z"
     }
   ],
   "batomon-showdown": [
@@ -1282,6 +1287,34 @@
       "por": 42.8,
       "loja": "steam",
       "em": "2026-11-19T01:22:07.126Z"
+    }
+  ],
+  "days-gone": [
+    {
+      "por": 65.83,
+      "loja": "steam",
+      "em": "2026-11-20T01:05:34.601Z"
+    }
+  ],
+  "god-of-war": [
+    {
+      "por": 79.96,
+      "loja": "steam",
+      "em": "2026-11-20T01:05:34.601Z"
+    }
+  ],
+  "ghost-of-tsushima-director-s-cut": [
+    {
+      "por": 124.95,
+      "loja": "steam",
+      "em": "2026-11-20T01:05:34.601Z"
+    }
+  ],
+  "god-of-war-ragnarok": [
+    {
+      "por": 167.43,
+      "loja": "steam",
+      "em": "2026-11-20T01:05:34.601Z"
     }
   ]
 }
