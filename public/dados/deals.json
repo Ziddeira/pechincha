@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-20T23:46:31.108Z",
+  "atualizado": "2026-11-21T06:12:08.559Z",
   "itens": [
     {
       "id": "final-fantasy-vii-rebirth",
@@ -86,27 +86,6 @@
       "desconto": 67
     },
     {
-      "id": "god-of-war",
-      "titulo": "God of War",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "appid": 1593500,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.9,
-          "por": 79.96,
-          "url": "https://store.steampowered.com/app/1593500/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.9,
-        "por": 79.96,
-        "url": "https://store.steampowered.com/app/1593500/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "marvel-s-spider-man-remastered",
       "titulo": "Marvel’s Spider-Man Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
@@ -124,6 +103,27 @@
         "de": 249.9,
         "por": 99.96,
         "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "god-of-war",
+      "titulo": "God of War",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "appid": 1593500,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 79.96,
+          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 79.96,
+        "url": "https://store.steampowered.com/app/1593500/?cc=br"
       },
       "desconto": 60
     },
@@ -191,25 +191,25 @@
       "desconto": 33
     },
     {
-      "id": "god-of-war-ragnarok",
-      "titulo": "God of War Ragnarök",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
-      "appid": 2322010,
+      "id": "forza-horizon-6",
+      "titulo": "Forza Horizon 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "appid": 2483190,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 167.43,
-          "url": "https://store.steampowered.com/app/2322010/?cc=br"
+          "de": 299,
+          "por": 224.25,
+          "url": "https://store.steampowered.com/app/2483190/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 167.43,
-        "url": "https://store.steampowered.com/app/2322010/?cc=br"
+        "de": 299,
+        "por": 224.25,
+        "url": "https://store.steampowered.com/app/2483190/?cc=br"
       },
-      "desconto": 33
+      "desconto": 25
     }
   ]
 }
