@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-22T08:36:38.437Z",
+  "atualizado": "2026-11-22T16:57:26.892Z",
   "itens": [
     {
       "id": "final-fantasy-vii-rebirth",
@@ -86,6 +86,27 @@
       "desconto": 67
     },
     {
+      "id": "god-of-war",
+      "titulo": "God of War",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "appid": 1593500,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 79.96,
+          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 79.96,
+        "url": "https://store.steampowered.com/app/1593500/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "marvel-s-spider-man-remastered",
       "titulo": "Marvel’s Spider-Man Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
@@ -107,23 +128,23 @@
       "desconto": 60
     },
     {
-      "id": "god-of-war",
-      "titulo": "God of War",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "appid": 1593500,
+      "id": "forza-horizon-5",
+      "titulo": "Forza Horizon 5",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+      "appid": 1551360,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.9,
-          "por": 79.96,
-          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+          "de": 249,
+          "por": 99.6,
+          "url": "https://store.steampowered.com/app/1551360/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.9,
-        "por": 79.96,
-        "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        "de": 249,
+        "por": 99.6,
+        "url": "https://store.steampowered.com/app/1551360/?cc=br"
       },
       "desconto": 60
     },
@@ -147,27 +168,6 @@
         "url": "https://store.steampowered.com/app/2215430/?cc=br"
       },
       "desconto": 50
-    },
-    {
-      "id": "just-volleyball",
-      "titulo": "just volleyball",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
-      "appid": 5037200,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 27.49,
-          "por": 17.04,
-          "url": "https://store.steampowered.com/app/5037200/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 27.49,
-        "por": 17.04,
-        "url": "https://store.steampowered.com/app/5037200/?cc=br"
-      },
-      "desconto": 38
     },
     {
       "id": "the-last-of-us-parte-ii-remastered",
