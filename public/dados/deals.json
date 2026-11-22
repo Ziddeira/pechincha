@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-22T16:57:26.892Z",
+  "atualizado": "2026-11-22T22:23:20.708Z",
   "itens": [
     {
       "id": "final-fantasy-vii-rebirth",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/2909400/?cc=br"
       },
       "desconto": 85
-    },
-    {
-      "id": "final-fantasy-vii-remake-intergrade",
-      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "appid": 1462040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 31.48,
-          "url": "https://store.steampowered.com/app/1462040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 31.48,
-        "url": "https://store.steampowered.com/app/1462040/?cc=br"
-      },
-      "desconto": 82
     },
     {
       "id": "it-takes-two",
@@ -86,6 +65,27 @@
       "desconto": 67
     },
     {
+      "id": "sea-of-thieves-2026-edition",
+      "titulo": "Sea of Thieves: 2026 Edition",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1172620/579c6d544424019a032f4add98e8f923925c1cef/header.jpg?t=1793617680",
+      "appid": 1172620,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 109.99,
+          "por": 38.49,
+          "url": "https://store.steampowered.com/app/1172620/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 109.99,
+        "por": 38.49,
+        "url": "https://store.steampowered.com/app/1172620/?cc=br"
+      },
+      "desconto": 65
+    },
+    {
       "id": "god-of-war",
       "titulo": "God of War",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
@@ -128,27 +128,6 @@
       "desconto": 60
     },
     {
-      "id": "forza-horizon-5",
-      "titulo": "Forza Horizon 5",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
-      "appid": 1551360,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249,
-          "por": 99.6,
-          "url": "https://store.steampowered.com/app/1551360/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249,
-        "por": 99.6,
-        "url": "https://store.steampowered.com/app/1551360/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "ghost-of-tsushima-director-s-cut",
       "titulo": "Ghost of Tsushima DIRECTOR'S CUT",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
@@ -168,6 +147,27 @@
         "url": "https://store.steampowered.com/app/2215430/?cc=br"
       },
       "desconto": 50
+    },
+    {
+      "id": "just-volleyball",
+      "titulo": "just volleyball",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/5037200/cd1b5a290d15e7379b31dcacc12f1e5b25d37577/header.jpg?t=1794852941",
+      "appid": 5037200,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 27.49,
+          "por": 17.04,
+          "url": "https://store.steampowered.com/app/5037200/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 27.49,
+        "por": 17.04,
+        "url": "https://store.steampowered.com/app/5037200/?cc=br"
+      },
+      "desconto": 38
     },
     {
       "id": "the-last-of-us-parte-ii-remastered",
