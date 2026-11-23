@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-23T02:58:50.727Z",
+  "atualizado": "2026-11-23T12:12:41.528Z",
   "itens": [
     {
       "id": "final-fantasy-vii-rebirth",
@@ -65,6 +65,48 @@
       "desconto": 80
     },
     {
+      "id": "days-gone",
+      "titulo": "Days Gone",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
+      "appid": 1259420,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.5,
+          "por": 65.83,
+          "url": "https://store.steampowered.com/app/1259420/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.5,
+        "por": 65.83,
+        "url": "https://store.steampowered.com/app/1259420/?cc=br"
+      },
+      "desconto": 67
+    },
+    {
+      "id": "god-of-war",
+      "titulo": "God of War",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "appid": 1593500,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 79.96,
+          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 79.96,
+        "url": "https://store.steampowered.com/app/1593500/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "marvel-s-spider-man-remastered",
       "titulo": "Marvel’s Spider-Man Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
@@ -86,23 +128,23 @@
       "desconto": 60
     },
     {
-      "id": "god-of-war",
-      "titulo": "God of War",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "appid": 1593500,
+      "id": "forza-horizon-5",
+      "titulo": "Forza Horizon 5",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
+      "appid": 1551360,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.9,
-          "por": 79.96,
-          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+          "de": 249,
+          "por": 99.6,
+          "url": "https://store.steampowered.com/app/1551360/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.9,
-        "por": 79.96,
-        "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        "de": 249,
+        "por": 99.6,
+        "url": "https://store.steampowered.com/app/1551360/?cc=br"
       },
       "desconto": 60
     },
@@ -149,67 +191,25 @@
       "desconto": 38
     },
     {
-      "id": "the-last-of-us-parte-ii-remastered",
-      "titulo": "The Last of Us™ Parte II Remastered",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2531310/header.jpg?t=1750959180",
-      "appid": 2531310,
+      "id": "forza-horizon-6",
+      "titulo": "Forza Horizon 6",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
+      "appid": 2483190,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.9,
-          "por": 133.93,
-          "url": "https://store.steampowered.com/app/2531310/?cc=br"
+          "de": 299,
+          "por": 224.25,
+          "url": "https://store.steampowered.com/app/2483190/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.9,
-        "por": 133.93,
-        "url": "https://store.steampowered.com/app/2531310/?cc=br"
+        "de": 299,
+        "por": 224.25,
+        "url": "https://store.steampowered.com/app/2483190/?cc=br"
       },
-      "desconto": 33
-    },
-    {
-      "id": "marvel-s-spider-man-2",
-      "titulo": "Marvel's Spider-Man 2",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2651280/header.jpg?t=1763569811",
-      "appid": 2651280,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 167.43,
-          "url": "https://store.steampowered.com/app/2651280/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 167.43,
-        "url": "https://store.steampowered.com/app/2651280/?cc=br"
-      },
-      "desconto": 33
-    },
-    {
-      "id": "god-of-war-ragnarok",
-      "titulo": "God of War Ragnarök",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2322010/header.jpg?t=1776465233",
-      "appid": 2322010,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.9,
-          "por": 167.43,
-          "url": "https://store.steampowered.com/app/2322010/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.9,
-        "por": 167.43,
-        "url": "https://store.steampowered.com/app/2322010/?cc=br"
-      },
-      "desconto": 33
+      "desconto": 25
     }
   ]
 }
