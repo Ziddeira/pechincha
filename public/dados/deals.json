@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-24T10:16:05.793Z",
+  "atualizado": "2026-11-24T20:46:21.958Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -23,25 +23,25 @@
       "desconto": 90
     },
     {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "appid": 2909400,
+      "id": "hogwarts-legacy",
+      "titulo": "Hogwarts Legacy",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
+      "appid": 990080,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 219.9,
-          "por": 32.98,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+          "de": 249.99,
+          "por": 24.99,
+          "url": "https://store.steampowered.com/app/990080/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 219.9,
-        "por": 32.98,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        "de": 249.99,
+        "por": 24.99,
+        "url": "https://store.steampowered.com/app/990080/?cc=br"
       },
-      "desconto": 85
+      "desconto": 90
     },
     {
       "id": "it-takes-two",
@@ -86,27 +86,6 @@
       "desconto": 75
     },
     {
-      "id": "god-of-war",
-      "titulo": "God of War",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
-      "appid": 1593500,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199.9,
-          "por": 79.96,
-          "url": "https://store.steampowered.com/app/1593500/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199.9,
-        "por": 79.96,
-        "url": "https://store.steampowered.com/app/1593500/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "marvel-s-spider-man-remastered",
       "titulo": "Marvel’s Spider-Man Remastered",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
@@ -124,6 +103,27 @@
         "de": 249.9,
         "por": 99.96,
         "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "god-of-war",
+      "titulo": "God of War",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
+      "appid": 1593500,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199.9,
+          "por": 79.96,
+          "url": "https://store.steampowered.com/app/1593500/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199.9,
+        "por": 79.96,
+        "url": "https://store.steampowered.com/app/1593500/?cc=br"
       },
       "desconto": 60
     },
@@ -170,23 +170,23 @@
       "desconto": 50
     },
     {
-      "id": "ghost-of-tsushima-director-s-cut",
-      "titulo": "Ghost of Tsushima DIRECTOR'S CUT",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-      "appid": 2215430,
+      "id": "dark-souls-remastered",
+      "titulo": "DARK SOULS™: REMASTERED",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
+      "appid": 570940,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 124.95,
-          "url": "https://store.steampowered.com/app/2215430/?cc=br"
+          "de": 154.9,
+          "por": 77.45,
+          "url": "https://store.steampowered.com/app/570940/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 124.95,
-        "url": "https://store.steampowered.com/app/2215430/?cc=br"
+        "de": 154.9,
+        "por": 77.45,
+        "url": "https://store.steampowered.com/app/570940/?cc=br"
       },
       "desconto": 50
     },
