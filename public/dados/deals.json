@@ -1,47 +1,26 @@
 {
-  "atualizado": "2026-11-23T12:12:41.528Z",
+  "atualizado": "2026-11-24T00:12:58.427Z",
   "itens": [
     {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "appid": 2909400,
+      "id": "detroit-become-human",
+      "titulo": "Detroit: Become Human",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1222140/header.jpg?t=1667468479",
+      "appid": 1222140,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 219.9,
-          "por": 32.98,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+          "de": 199.99,
+          "por": 19.99,
+          "url": "https://store.steampowered.com/app/1222140/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 219.9,
-        "por": 32.98,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        "de": 199.99,
+        "por": 19.99,
+        "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
-      "desconto": 85
-    },
-    {
-      "id": "final-fantasy-vii-remake-intergrade",
-      "titulo": "FINAL FANTASY VII REMAKE INTERGRADE",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1462040/67aebedbdfc261278fc5e3cd45b519212ac0555a/header.jpg?t=1789446715",
-      "appid": 1462040,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 174.9,
-          "por": 31.48,
-          "url": "https://store.steampowered.com/app/1462040/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 174.9,
-        "por": 31.48,
-        "url": "https://store.steampowered.com/app/1462040/?cc=br"
-      },
-      "desconto": 82
+      "desconto": 90
     },
     {
       "id": "it-takes-two",
@@ -65,25 +44,25 @@
       "desconto": 80
     },
     {
-      "id": "days-gone",
-      "titulo": "Days Gone",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1259420/header.jpg?t=1750947718",
-      "appid": 1259420,
+      "id": "red-dead-redemption-2",
+      "titulo": "Red Dead Redemption 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1174180/header.jpg?t=1759502961",
+      "appid": 1174180,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 199.5,
-          "por": 65.83,
-          "url": "https://store.steampowered.com/app/1259420/?cc=br"
+          "de": 299.9,
+          "por": 74.97,
+          "url": "https://store.steampowered.com/app/1174180/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 199.5,
-        "por": 65.83,
-        "url": "https://store.steampowered.com/app/1259420/?cc=br"
+        "de": 299.9,
+        "por": 74.97,
+        "url": "https://store.steampowered.com/app/1174180/?cc=br"
       },
-      "desconto": 67
+      "desconto": 75
     },
     {
       "id": "god-of-war",
@@ -128,25 +107,46 @@
       "desconto": 60
     },
     {
-      "id": "forza-horizon-5",
-      "titulo": "Forza Horizon 5",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1551360/header.jpg?t=1788546569",
-      "appid": 1551360,
+      "id": "grand-theft-auto-v-enhanced",
+      "titulo": "Grand Theft Auto V Enhanced",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
+      "appid": 3240220,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249,
-          "por": 99.6,
-          "url": "https://store.steampowered.com/app/1551360/?cc=br"
+          "de": 224.9,
+          "por": 98.95,
+          "url": "https://store.steampowered.com/app/3240220/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249,
-        "por": 99.6,
-        "url": "https://store.steampowered.com/app/1551360/?cc=br"
+        "de": 224.9,
+        "por": 98.95,
+        "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
-      "desconto": 60
+      "desconto": 56
+    },
+    {
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795019577",
+      "appid": 3768760,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 149.5,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 149.5,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "ghost-of-tsushima-director-s-cut",
@@ -191,25 +191,25 @@
       "desconto": 38
     },
     {
-      "id": "forza-horizon-6",
-      "titulo": "Forza Horizon 6",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2483190/c53fe3362cc3267a5d34aca3e796b90963e0e23f/header_alt_assets_6.jpg?t=1795104806",
-      "appid": 2483190,
+      "id": "baldur-s-gate-3",
+      "titulo": "Baldur's Gate 3",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1086940/48a2fcbda8565bb45025e98fd8ebde8a7203f6a0/header.jpg?t=1777363040",
+      "appid": 1086940,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 299,
-          "por": 224.25,
-          "url": "https://store.steampowered.com/app/2483190/?cc=br"
+          "de": 199.99,
+          "por": 139.99,
+          "url": "https://store.steampowered.com/app/1086940/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 299,
-        "por": 224.25,
-        "url": "https://store.steampowered.com/app/2483190/?cc=br"
+        "de": 199.99,
+        "por": 139.99,
+        "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
-      "desconto": 25
+      "desconto": 30
     }
   ]
 }
