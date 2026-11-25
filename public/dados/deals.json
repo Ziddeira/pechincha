@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-25T03:59:33.591Z",
+  "atualizado": "2026-11-25T14:09:28.905Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -86,6 +86,27 @@
       "desconto": 75
     },
     {
+      "id": "marvel-s-spider-man-remastered",
+      "titulo": "Marvel’s Spider-Man Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "appid": 1817070,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 99.96,
+          "url": "https://store.steampowered.com/app/1817070/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 99.96,
+        "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "god-of-war",
       "titulo": "God of War",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
@@ -166,27 +187,6 @@
         "de": 249.9,
         "por": 124.95,
         "url": "https://store.steampowered.com/app/2215430/?cc=br"
-      },
-      "desconto": 50
-    },
-    {
-      "id": "dark-souls-remastered",
-      "titulo": "DARK SOULS™: REMASTERED",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/570940/header.jpg?t=1778518110",
-      "appid": 570940,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 154.9,
-          "por": 77.45,
-          "url": "https://store.steampowered.com/app/570940/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 154.9,
-        "por": 77.45,
-        "url": "https://store.steampowered.com/app/570940/?cc=br"
       },
       "desconto": 50
     },
