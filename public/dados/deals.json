@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-24T20:46:21.958Z",
+  "atualizado": "2026-11-25T03:59:33.591Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -19,27 +19,6 @@
         "de": 199.99,
         "por": 19.99,
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
-      },
-      "desconto": 90
-    },
-    {
-      "id": "hogwarts-legacy",
-      "titulo": "Hogwarts Legacy",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/990080/be2971b1023bccb04f993887d70ef4d2060262cf/header.jpg?t=1790708992",
-      "appid": 990080,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 249.99,
-          "por": 24.99,
-          "url": "https://store.steampowered.com/app/990080/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 249.99,
-        "por": 24.99,
-        "url": "https://store.steampowered.com/app/990080/?cc=br"
       },
       "desconto": 90
     },
@@ -86,25 +65,25 @@
       "desconto": 75
     },
     {
-      "id": "marvel-s-spider-man-remastered",
-      "titulo": "Marvel’s Spider-Man Remastered",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
-      "appid": 1817070,
+      "id": "warhammer-40-000-space-marine-2",
+      "titulo": "Warhammer 40,000: Space Marine 2",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2183900/header.jpg?t=1790874369",
+      "appid": 2183900,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 99.96,
-          "url": "https://store.steampowered.com/app/1817070/?cc=br"
+          "de": 199.9,
+          "por": 49.97,
+          "url": "https://store.steampowered.com/app/2183900/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 99.96,
-        "url": "https://store.steampowered.com/app/1817070/?cc=br"
+        "de": 199.9,
+        "por": 49.97,
+        "url": "https://store.steampowered.com/app/2183900/?cc=br"
       },
-      "desconto": 60
+      "desconto": 75
     },
     {
       "id": "god-of-war",
@@ -166,6 +145,27 @@
         "de": 299,
         "por": 149.5,
         "url": "https://store.steampowered.com/app/3768760/?cc=br"
+      },
+      "desconto": 50
+    },
+    {
+      "id": "ghost-of-tsushima-director-s-cut",
+      "titulo": "Ghost of Tsushima DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "appid": 2215430,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 124.95,
+          "url": "https://store.steampowered.com/app/2215430/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 124.95,
+        "url": "https://store.steampowered.com/app/2215430/?cc=br"
       },
       "desconto": 50
     },
