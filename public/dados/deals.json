@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-26T05:19:04.268Z",
+  "atualizado": "2026-11-26T15:37:17.595Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -21,6 +21,27 @@
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "final-fantasy-vii-rebirth",
+      "titulo": "FINAL FANTASY VII REBIRTH",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
+      "appid": 2909400,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 219.9,
+          "por": 32.98,
+          "url": "https://store.steampowered.com/app/2909400/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 219.9,
+        "por": 32.98,
+        "url": "https://store.steampowered.com/app/2909400/?cc=br"
+      },
+      "desconto": 85
     },
     {
       "id": "it-takes-two",
@@ -189,27 +210,6 @@
         "url": "https://store.steampowered.com/app/1086940/?cc=br"
       },
       "desconto": 30
-    },
-    {
-      "id": "dressmaker",
-      "titulo": "Dressmaker",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4019220/f1cd08127872e60e4c47a4bc3e40d682d94741bf/header.jpg?t=1794041965",
-      "appid": 4019220,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 53.47,
-          "por": 42.77,
-          "url": "https://store.steampowered.com/app/4019220/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 53.47,
-        "por": 42.77,
-        "url": "https://store.steampowered.com/app/4019220/?cc=br"
-      },
-      "desconto": 20
     }
   ]
 }
