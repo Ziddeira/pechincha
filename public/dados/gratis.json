@@ -1,14 +1,23 @@
 {
-  "atualizado": "2026-11-26T15:37:17.596Z",
+  "atualizado": "2026-11-27T00:23:36.169Z",
   "itens": [
     {
-      "id": "mark-of-the-deep",
-      "titulo": "Mark of the Deep",
+      "id": "firestone-idle-clicker-online-rpg",
+      "titulo": "Firestone – Idle Clicker Online RPG",
+      "loja": "epic",
+      "de": 0,
+      "capa": "https://cdn1.epicgames.com/spt-assets/69576a28f7154fe9a0dce97508da5163/firestone-online-idle-rpg-yus55.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/firestone-online-idle-rpg-bfd04b",
+      "acaba": "2026-12-03T16:00:00.000Z"
+    },
+    {
+      "id": "bread-and-fred",
+      "titulo": "Bread and Fred",
       "loja": "epic",
       "de": 39.99,
-      "capa": "https://cdn1.epicgames.com/spt-assets/83a240506a884c10ad8fb99694e57a0d/mark-of-the-deep-w1ygr.png",
-      "url": "https://store.epicgames.com/pt-BR/p/mark-of-the-deep-f7dc08",
-      "acaba": "2026-11-26T16:00:00.000Z"
+      "capa": "https://cdn1.epicgames.com/spt-assets/545b4dd8bb364c12b719268198a93ef3/bread-and-fred-3jnwn.jpg",
+      "url": "https://store.epicgames.com/pt-BR/p/bread-and-fred-1db362",
+      "acaba": "2026-12-03T16:00:00.000Z"
     }
   ]
 }

@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-26T15:37:17.595Z",
+  "atualizado": "2026-11-27T00:23:36.167Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -21,48 +21,6 @@
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "final-fantasy-vii-rebirth",
-      "titulo": "FINAL FANTASY VII REBIRTH",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2909400/64a1006a85342c7d3e4b1e1b8e562fee2dc86578/header.jpg?t=1793774936",
-      "appid": 2909400,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 219.9,
-          "por": 32.98,
-          "url": "https://store.steampowered.com/app/2909400/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 219.9,
-        "por": 32.98,
-        "url": "https://store.steampowered.com/app/2909400/?cc=br"
-      },
-      "desconto": 85
-    },
-    {
-      "id": "it-takes-two",
-      "titulo": "It Takes Two",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
-      "appid": 1426210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 39.8,
-          "url": "https://store.steampowered.com/app/1426210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 39.8,
-        "url": "https://store.steampowered.com/app/1426210/?cc=br"
-      },
-      "desconto": 80
     },
     {
       "id": "red-dead-redemption-2",
@@ -128,6 +86,27 @@
       "desconto": 65
     },
     {
+      "id": "marvel-s-spider-man-remastered",
+      "titulo": "Marvel’s Spider-Man Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1817070/header.jpg?t=1787838689",
+      "appid": 1817070,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 99.96,
+          "url": "https://store.steampowered.com/app/1817070/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 99.96,
+        "url": "https://store.steampowered.com/app/1817070/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
       "id": "god-of-war",
       "titulo": "God of War",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
@@ -168,6 +147,27 @@
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
       "desconto": 56
+    },
+    {
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
+      "appid": 3768760,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 299,
+          "por": 149.5,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 299,
+        "por": 149.5,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "ghost-of-tsushima-director-s-cut",
