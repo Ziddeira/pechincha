@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-27T08:56:50.418Z",
+  "atualizado": "2026-11-27T18:48:59.198Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -21,27 +21,6 @@
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
       "desconto": 90
-    },
-    {
-      "id": "it-takes-two",
-      "titulo": "It Takes Two",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
-      "appid": 1426210,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 199,
-          "por": 39.8,
-          "url": "https://store.steampowered.com/app/1426210/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 199,
-        "por": 39.8,
-        "url": "https://store.steampowered.com/app/1426210/?cc=br"
-      },
-      "desconto": 80
     },
     {
       "id": "red-dead-redemption-2",
@@ -107,27 +86,6 @@
       "desconto": 70
     },
     {
-      "id": "silent-hill-2-silent-hill-f-standard-dual-pack",
-      "titulo": "SILENT HILL 2 & SILENT HILL f Standard Dual Pack",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/subs/1412913/7a18bda5c6ec6a6a53a880ec4451349ab4da1bfe/header_ratio.jpg?t=1764007149",
-      "appid": 1412913,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 534.9,
-          "por": 187.21,
-          "url": "https://store.steampowered.com/app/1412913/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 534.9,
-        "por": 187.21,
-        "url": "https://store.steampowered.com/app/1412913/?cc=br"
-      },
-      "desconto": 65
-    },
-    {
       "id": "god-of-war",
       "titulo": "God of War",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1593500/header.jpg?t=1763059412",
@@ -145,6 +103,27 @@
         "de": 199.9,
         "por": 79.96,
         "url": "https://store.steampowered.com/app/1593500/?cc=br"
+      },
+      "desconto": 60
+    },
+    {
+      "id": "the-witcher-3-wild-hunt-remastered",
+      "titulo": "The Witcher 3: Wild Hunt — Remastered",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b5b1ba5061b8a992cc69ac58b4245434edb4296/header.jpg?t=1793900434",
+      "appid": 292030,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 159.99,
+          "por": 63.99,
+          "url": "https://store.steampowered.com/app/292030/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 159.99,
+        "por": 63.99,
+        "url": "https://store.steampowered.com/app/292030/?cc=br"
       },
       "desconto": 60
     },
@@ -168,6 +147,27 @@
         "url": "https://store.steampowered.com/app/3240220/?cc=br"
       },
       "desconto": 56
+    },
+    {
+      "id": "ghost-of-tsushima-director-s-cut",
+      "titulo": "Ghost of Tsushima DIRECTOR'S CUT",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
+      "appid": 2215430,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 249.9,
+          "por": 124.95,
+          "url": "https://store.steampowered.com/app/2215430/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 249.9,
+        "por": 124.95,
+        "url": "https://store.steampowered.com/app/2215430/?cc=br"
+      },
+      "desconto": 50
     },
     {
       "id": "cyberpunk-2077-phantom-liberty",
