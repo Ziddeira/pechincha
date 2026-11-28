@@ -1,5 +1,5 @@
 {
-  "atualizado": "2026-11-27T18:48:59.198Z",
+  "atualizado": "2026-11-28T01:48:24.383Z",
   "itens": [
     {
       "id": "detroit-become-human",
@@ -21,6 +21,27 @@
         "url": "https://store.steampowered.com/app/1222140/?cc=br"
       },
       "desconto": 90
+    },
+    {
+      "id": "it-takes-two",
+      "titulo": "It Takes Two",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/1426210/header.jpg?t=1777395376",
+      "appid": 1426210,
+      "ofertas": [
+        {
+          "loja": "steam",
+          "de": 199,
+          "por": 39.8,
+          "url": "https://store.steampowered.com/app/1426210/?cc=br"
+        }
+      ],
+      "melhor": {
+        "loja": "steam",
+        "de": 199,
+        "por": 39.8,
+        "url": "https://store.steampowered.com/app/1426210/?cc=br"
+      },
+      "desconto": 80
     },
     {
       "id": "red-dead-redemption-2",
@@ -107,27 +128,6 @@
       "desconto": 60
     },
     {
-      "id": "the-witcher-3-wild-hunt-remastered",
-      "titulo": "The Witcher 3: Wild Hunt — Remastered",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/292030/4b5b1ba5061b8a992cc69ac58b4245434edb4296/header.jpg?t=1793900434",
-      "appid": 292030,
-      "ofertas": [
-        {
-          "loja": "steam",
-          "de": 159.99,
-          "por": 63.99,
-          "url": "https://store.steampowered.com/app/292030/?cc=br"
-        }
-      ],
-      "melhor": {
-        "loja": "steam",
-        "de": 159.99,
-        "por": 63.99,
-        "url": "https://store.steampowered.com/app/292030/?cc=br"
-      },
-      "desconto": 60
-    },
-    {
       "id": "grand-theft-auto-v-enhanced",
       "titulo": "Grand Theft Auto V Enhanced",
       "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3240220/header.jpg?t=1781187782",
@@ -149,23 +149,23 @@
       "desconto": 56
     },
     {
-      "id": "ghost-of-tsushima-director-s-cut",
-      "titulo": "Ghost of Tsushima DIRECTOR'S CUT",
-      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/2215430/header.jpg?t=1763409398",
-      "appid": 2215430,
+      "id": "007-first-light",
+      "titulo": "007 First Light",
+      "capa": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/3768760/be65391533f072e79699be70ef2d47b7b2ac57ee/header_alt_assets_5.jpg?t=1795703859",
+      "appid": 3768760,
       "ofertas": [
         {
           "loja": "steam",
-          "de": 249.9,
-          "por": 124.95,
-          "url": "https://store.steampowered.com/app/2215430/?cc=br"
+          "de": 299,
+          "por": 149.5,
+          "url": "https://store.steampowered.com/app/3768760/?cc=br"
         }
       ],
       "melhor": {
         "loja": "steam",
-        "de": 249.9,
-        "por": 124.95,
-        "url": "https://store.steampowered.com/app/2215430/?cc=br"
+        "de": 299,
+        "por": 149.5,
+        "url": "https://store.steampowered.com/app/3768760/?cc=br"
       },
       "desconto": 50
     },
